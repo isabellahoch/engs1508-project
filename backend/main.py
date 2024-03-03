@@ -28,6 +28,7 @@ from fastapi import FastAPI
 
 from utils import *
 from prompt_templates import *
+from financial_info import *
 
 app = FastAPI()
 
@@ -157,8 +158,23 @@ def return_company_info_from_cik(cik: str, q: Union[str, None] = None):
 
     return {"cik": cik, "answer": final_answer, "reasoning": reasoning}
 
+
+@app.get("/df/{ticker}")
+def return_df_info_from_ticker(ticker: str, q: Union[str, None] = None):
+
+    matches_df = df.loc[df['ticker'] == ticker]
+    
+    row = matches_df.iloc[0].to_dict()
+
+    return {"ticker": ticker, "row": row}
+
+
 @app.get("/companies/{ticker}")
 def return_company_info_from_ticker(ticker: str, q: Union[str, None] = None):
+
+    matches_df = df.loc[df['ticker'] == ticker]
+    
+    row = matches_df.iloc[0].to_dict()
 
     chain1 = (
       {"context": retriever, "step1": RunnablePassthrough()}
@@ -166,12 +182,6 @@ def return_company_info_from_ticker(ticker: str, q: Union[str, None] = None):
       | model
       | StrOutputParser()
     )
-
-    matches_df = df.loc[df['ticker'] == ticker]
-    
-    row = matches_df.iloc[0].to_dict()
-
-    # return {"ticker": ticker, "row": row}
 
     step1_output = mistral_extract_output(chain1.invoke(create_prompt1(row)))
 
@@ -202,7 +212,12 @@ def return_company_info_from_ticker(ticker: str, q: Union[str, None] = None):
 
     reasoning = "# STEP 1 OUTPUT:\n" + step1_output + "\n # STEP 2 OUTPUT:\n" + step2_output + "\n # FINAL ANSWER OUTPUT:\n" + final_output
 
-    return {"ticker": ticker, "answer": final_answer, "reasoning": reasoning, "details": row}
+    finnhub_info = get_finnhub_info(ticker)
+
+    return {"ticker": ticker,
+            "info": finnhub_info,
+            "risk": { "answer": final_answer, "reasoning": reasoning },
+            "details": row}
 
 
 @app.get("/docs/{doc}")
