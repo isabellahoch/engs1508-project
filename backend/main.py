@@ -37,6 +37,7 @@ df = pd.read_csv("./data/original_data.csv")
 df['circa_rating'] = df['circa_rating'].str.extract('(\d+)').astype(int)
 df['volatility'] = df.apply(lambda row: choose_volatility_table(row['circa_rating'], row['sector']), axis=1)
 df['Risk_Categories'] = df.apply(calculate_risk_categories, axis=1)
+df['financial_risk_profile_numeric'] = df['financial_risk_profile'].apply(extract_number_regex)
 
 # Set up markdown splitter
 headers_to_split_on = [

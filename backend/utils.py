@@ -3,6 +3,13 @@
 import re
 import json
 
+def extract_number_regex(rating):
+  match = re.search(r"\[(\d+)\]", rating)
+  if match:
+    return int(match.group(1))
+  else:
+    return -1
+
 def choose_volatility_table(cicra_rating, industry):
     # Corrected mapping of industries to their volatility levels based on CICRA rating and industry-specific guidance
     industry_volatility = {
