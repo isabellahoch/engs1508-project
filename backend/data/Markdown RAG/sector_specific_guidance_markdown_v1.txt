@@ -1,0 +1,875 @@
+## Sector-Specific Guidance
+
+
+### Sector Descriptions
+
+
+#### Aerospace and Defense
+
+Aerospace and Defense: Companies that derive a majority of their revenues from the design, manufacture, or repair of civil aircraft (i.e., jetliners, business jets, regional jets, general aviation aircraft, and helicopters) or supply related components or systems (including distributors of aircraft parts); design, manufacture, or service weapons systems or supply-related components; or provide defense-related services to government agencies or the military.
+
+
+#### Agribusiness and Commodity Foods
+
+Agribusiness and Commodity Foods: Companies that derive the majority of their revenues either from the sourcing and distribution of crops and crop inputs, or from the processing, distribution, and marketing of commodity food products. These criteria apply globally to ratings on certain issuers in agricultural commodity merchandising (i.e., commodity trading) and processing (e.g., corn/wheat milling, soybean and sugar cane crushing, sugar refining, sweetener manufacturing, tobacco leaf merchants, etc.), feed and crop input distribution/wholesaling, and the commodity food subsectors of the consumer nondurables industry (including commodity meat production, and produce industries).
+
+
+#### Agricultural cooperatives
+
+Agricultural cooperatives: Companies that derive a majority of their revenues from the marketing and processing of agricultural commodities on behalf of farmer cooperative owners (agricultural marketing cooperatives), supplying and distributing to customers and farmer member owners "crop inputs"--fertilizer, chemicals, and seeds, for example--and other farming supplies (agricultural supply cooperatives), as well as other marketing entities established solely for the purposes of marketing an agricultural commodity on behalf of farmers.
+
+
+#### Auto and commercial vehicle manufacturing
+
+Auto and commercial vehicle manufacturing: Companies that derive a majority of their revenues from manufacturing and selling motor vehicles, primarily passenger cars and trucks and, to a lesser extent, vans and buses. These companies are also frequently designated as original equipment manufacturers (OEMs). This sector also covers commercial vehicle manufacturing groups.
+
+
+#### Auto suppliers
+
+Auto suppliers: Companies that derive a majority of their revenues from the production, assembly, sale, and distribution of parts or services for the automotive or commercial vehicle manufacturing industry and their respective aftermarkets.
+
+
+#### Asset managers
+
+Asset managers: Companies that derive a majority of their revenues from management and performance fees for managing third-party money or assets on behalf of retail or institutional investors.
+
+
+#### Branded nondurables
+
+Branded nondurables: Entities that derive a majority of their revenues from manufacturing, marketing, and selling branded consumer nondurable products as well as private-label nondurable consumer products manufacturers. This includes apparel, accessory stores, and related products; beverages, including spirits and soft drink bottlers; food and kindred products; personal care and cosmetics; household products; tobacco products (excluding tobacco leaf merchants/suppliers); and miscellaneous and diversified consumer products.
+
+
+#### Building materials
+
+Building materials: Entities that derive a majority of their revenue from the manufacture, distribution, and sales of building materials and products. We define "building materials" as construction products such as cement, bricks, concrete, and aggregates (i.e., sand, rock, and gravel). We define "building products" as finished or semi-finished goods that require additional labor or installation, such as flat and specialty glass, wallboard, roofing materials, plumbing and lighting fixtures, doors, windows, tools, hardware, HVAC (heating, ventilation, and air conditioning) equipment, and other products used in construction, repair, maintenance, and remodeling of buildings.
+
+
+#### Business and consumer services
+
+Business and consumer services: Entities that derive a majority of their earnings by offering businesses a more cost effective way to carry out their noncore activities or by providing consumers with a variety of services. These include: consumer services, companies primarily providing services directly to consumers; distribution services, whose primary function is to distribute products; facilities services, whose primary function is to operate and/or maintain the facilities/premises of other businesses and/or provide staff to carry out these functions; general support services and professional services, whose primary function is to provide complex services for businesses.
+
+
+#### Capital goods
+
+Capital goods: Entities that derive a majority of their revenues from manufacturing and/or servicing industrial equipment. This includes manufacturers of heavy and light industrial equipment, machinery, industrial components, and systems, as well as providers of related services, such as construction equipment rental companies or industrial distributors.
+
+
+#### Commodity chemicals
+
+Commodity chemicals: Entities that derive a majority of their revenue from the production of commodity chemicals, including producers of petrochemicals, inorganic chemicals, fertilizers and other agricultural chemicals, and numerous other commodity chemicals.
+
+
+#### Consumer durables
+
+Consumer durables: Entities that derive a majority of their revenue from the manufacture and marketing of diversified and miscellaneous consumer products, including home appliances, furniture, home improvement products and fixtures, small appliances, sporting equipment and other durable goods.
+
+
+#### Containers and packaging
+
+Containers and packaging: Entities that derive the majority of their revenues from plastic, paper, metal, and glass packaging products, from rigid containers to flexible films, used for packaging food, beverages, and other consumer products (such as cosmetic and personal care products); health care and medical products; and, to a lesser extent, industrial products.
+
+
+#### Contract drilling
+
+Contract drilling: Entities that derive the majority of their revenues by leasing drilling rigs to oil and natural gas exploration and production (E&P) companies. Sector participants provide a variety of onshore and offshore drilling rigs that are vital to finding and extracting crude oil and natural gas resources.
+
+
+#### Engineering and construction
+
+Engineering and construction: Entities that derive a majority of their revenues from engineering and design, construction, and maintenance work.
+
+
+#### Environmental services
+
+Environmental services: Entities that derive a majority of their revenue from the collection, treatment, transportation, and disposal of various waste streams.
+
+
+#### Financial Market Infrastructure Companies
+
+Financial Market Infrastructure Companies: Principally exchanges, clearinghouses, central security depositories (CSDs), and payment networks that process and clear credit or debit card transactions and cash payments.
+
+
+#### Financial Services Finance Companies
+
+Financial Services Finance Companies: Finance companies where the greatest risks relate more to their ability to generate cash flow than to the amount of capital they may need to withstand credit losses, including consumer finance companies, originators and servicers, auto fleet services companies, real estate services, money transaction processors, and other financial services finance companies.
+
+
+#### Forest and paper products
+
+Forest and paper products: Entities that derive a majority of their revenues from harvesting timber or converting wood or recycled cellulose fiber into products that are then sold as pulp, paper, paper-based packaging, or converted wood products.
+
+
+#### Health care equipment
+
+Health care equipment: Entities that derive a majority of their revenues from their operations in the global health care equipment industry: companies that develop, manufacture, and market medical, surgical and dental devices and instruments, including consumable items, implantable devices, conventional supplies (e.g., gowns, gloves, bandages, syringes) and capital equipment used by health care providers; contract manufacturers of health care equipment; life science companies that develop, manufacture, and market laboratory equipment, instruments, reagents, and diagnostic tests.
+
+
+#### Health care services
+
+Health care services: Entities that derive a majority of their revenues from for-profit health care services, specifically for-profit companies that provide health care to patients. The industry includes the following subsectors: hospitals; ambulatory surgery centers; skilled nursing facilities; outpatient facilities (physical rehabilitation, etc.); psychiatric hospitals, substance abuse rehab facilities, other behavioral health care services; home health care services; urgent care clinics; hospice services; dialysis services; dental services; laboratory and diagnostic services, including imaging; radiation oncology; ambulance and other medical transport services; other human health care services; and veterinarian services.
+
+
+#### Media and entertainment
+
+Media and entertainment: Entities that derive a majority of their revenues from operating as ad agencies and marketing services companies, ad-supported online content platforms, broadcast networks, cable TV and over-the-top (OTT) networks, data publishers, e-commerce service providers, educational publishers, film and TV programming production companies, local TV stations, motion picture exhibitors, music publishing and recording companies, newspapers/magazines, outdoor advertising companies, printing companies, and radio stations.
+
+
+#### Metals production and processing
+
+Metals production and processing: Entities that derive a majority of their revenues from the manufacturing and distribution of metals, notably steel and aluminum. We could also include smelters, refiners, or processors with some mining operations. These companies employ a number of business models and marketing strategies and include integrated producers, mini-mill/scrap conversion, and processors and distributors. This sector was previously named metals and mining downstream. These two names may be used interchangeably.
+
+
+#### Mining
+
+Mining: Entities that derive a majority of their revenues from the exploration and production (mined extraction) of metals and minerals, which could include supporting smelting and refining operations. This sector was previously named metals and mining upstream. These two names may be used interchangeably.
+
+
+#### Oil and gas exploration and production
+
+Oil and gas exploration and production: Entities that derive a majority of their revenues from the development and production associated with oil and natural gas hydrocarbons, including integrated oil and gas companies. These integrated companies have, in addition to E&P (upstream) operations, other significant operations such as refining and marketing (downstream) businesses, and midstream businesses such as transportation; storage; wholesale marketing; and trading of crude oil, natural gas, and refined products.
+
+
+#### Oilfield services and equipment
+
+Oilfield services and equipment: Entities that derive a majority of their revenue from the capital spending of the E&P industry, which, in turn, largely depends on expectations for crude oil and natural gas prices. This includes hydraulic fracturing services and equipment, well maintenance and stimulation, manufacture of well servicing and drilling equipment, seismic services, and compression service and equipment.
+
+
+#### Railroad and package express
+
+Railroad and package express: Entities that derive a majority of their revenue from freight transportation, package express companies, and logistics companies. In the context of these criteria, we are defining logistics companies as those that provide services that support the movement of goods through the supply chain (e.g. acting as an intermediary in arranging transportation on behalf of customers, or warehousing and inventory management).
+
+
+#### Retail and restaurants
+
+Retail and restaurants: Entities that derive a majority of their revenue from selling goods or services directly to the individual consumer through stores, catalogues, or online operations--or a combination of these channels. We include restaurants, automotive retailers, and grocery wholesalers in this sector given that the fundamentals of operating these businesses are largely the same as general retailing with similar unit economics.
+
+
+#### Specialty chemicals
+
+Specialty chemicals: Entities that derive a majority of their revenue from the production of specialty chemicals, including producers of industrial gases, coatings, advanced materials, and numerous other specialty chemicals.
+
+
+#### Technology hardware and semiconductors
+
+Technology hardware and semiconductors: Entities that derive a majority of their revenue from the sale of technology hardware and semiconductors. This includes manufacturers of semiconductors and semiconductor equipment, computer hardware, storage, and peripherals, electronic components and equipment, office electronics, consumer electronics, communications equipment, technology distributors, and electronic manufacturing services, which currently consists of mostly outsourced manufacturing providers.
+
+
+#### Technology software and services
+
+Technology software and services: Entities that derive a majority of their revenue from information technology services and software. This includes commercial outsourcing and project services, transaction processing, and enterprise and consumer software providers.
+
+
+#### Transportation cyclical
+
+Transportation cyclical: Entities that derive a majority of their revenue from operating airlines (including heavy air freight), shipping companies, trucking companies, and certain miscellaneous other transportation companies, such as bus companies.
+
+
+#### Transportation Infrastructure
+
+Transportation Infrastructure: Entities that derive a majority of their earnings from the commercial operation of airports, marine ports, toll road networks, railways (including state owned freight railroads), and other transportation infrastructure assets and services, such as navigable waterways and air and marine traffic controllers.
+
+
+### **Determining the financial risk profile assessment**
+
+When determining the financial risk profile assessment, we use a specific ratio benchmark table (see tables 17, 18, and 19 in Corporate Methodology). We choose the appropriate benchmark table based on the company's fit into one of the sector descriptions in Table 1 of this guidance or in the scope section of the relevant Key Credit Factor article. The choice of which specific core and supplemental ratios to apply is also governed by the same industry sector, as determined above, even if the company is engaged in several industry sectors such that its business risk profile assessment reflects a blended industry approach. Guidelines as to which specific core and supplemental ratios to apply for each industry sector can be found in this Guidance or in the relevant Key Credit Factors article.
+
+
+### **Aerospace and Defense Supplemental Ratios**
+
+Aerospace and Defense Supplemental Ratios: In addition to our analysis of a company's core ratios, we consider supplemental ratios in order to develop a fuller understanding of a company's credit risk profile and refine our cash flow analysis in accordance with the global corporate criteria. For A&D companies, we generally use:
+
+
+
+1. Free operating cash flow to (FOCF) to debt as the default supplemental ratio. Although generally not working capital or capex-intensive, A&D companies do often have to invest in both when developing new products.
+2. We may alternatively use debt service coverage ratios ([FFO + interest]/cash interest, or EBITDA to interest), when the preliminary cash flow and leverage assessment indicated by the core ratios is "significant" or weaker;
+3. For companies that return a significant portion of their FOCF to shareholders through dividends, we may consider discretionary cash flow (DCF) to debt as the most relevant supplemental ratio.
+
+
+### **Agribusiness and Commodity Foods Industry**
+
+Agribusiness and Commodity Foods Industry: If certain agribusiness and commodity foods companies engage in commodities trading and such activity contributes more than 20% of expected normalized EBIT, EBITDA, or gross margin and less than 70%, we would apply section VI of "Commodities Trading Industry Methodology." If certain agribusiness and commodity foods companies engage in such trading with 20% or less contribution of expected EBIT, EBITDA, or gross margin but more than 10%, we would apply the accounting adjustment for adjusted readily marketable inventories, as described in our Ratios And Adjustments methodology.
+
+
+#### Supplemental Ratios
+
+Agribusiness and Commodity Foods Industry Supplemental Ratios: If a company is working capital or capital intensive, or if the preliminary cash flow leverage assessment is significant or weaker, then two interest coverage ratios, EBITDA to interest and FFO-plus-interest to cash interest, will be given greater importance as supplemental ratios. These ratios become more important in our analysis of companies with highly seasonal businesses and resultant significant intrayear swings in working capital investment needs, such as crop input wholesalers. The seasonal companies typically borrow to fund their increased working capital investment and the interest coverage ratios capture all annual interest costs.
+
+In addition to our analysis of a company's core ratios, we also consider supplemental ratios in order to develop a fuller understanding of a company's credit risk profile and fine tune our cash flow analysis. We consider the following as supplemental ratios:
+
+
+
+1. Debt coverage ratios: FOCF to debt and DCF to debt.
+2. Interest coverage ratios: EBITDA to interest and FFO to interest.
+
+For most agribusiness companies, we typically apply the standard supplemental ratio of FOCF to debt. This is done because of the somewhat capital- intensive nature of commodity food processing, even though their ratio of ongoing capital spending to sales is generally less than 10% and depreciation to sales is less than 8%, ratios we consider reflective of capital-intensive companies.
+
+For companies that make significant dividend distributions we apply the DCF to debt supplemental ratio.
+
+Because several sectors of the agribusiness and commodity foods industry have a history of earnings and cash flow volatility, we often need to include a volatility adjustment to our final cash flow leverage assessment. This is done by applying the volatility adjustment defined in our corporate criteria.
+
+
+### **Agricultural Cooperatives Industry**
+
+Agricultural Cooperatives Industry: If certain agricultural cooperatives engage in commodities trading and such activity contributes more than 20% and less than 70% of expected normalized EBIT, EBITDA, or gross margin, we apply section VI of "Commodities Trading Industry Methodology." If certain agribusiness and commodity foods companies engage in such trading with 20% or less contribution of expected EBIT, EBITDA, or gross margin but more than 10%, we apply the accounting adjustment for adjusted readily marketable inventories, as indicated in our Ratios And Adjustments criteria and guidance.
+
+
+#### Supplemental ratios
+
+Agricultural Cooperatives Industry supplemental ratios: We typically use the following interest coverage ratios as supplemental ratios: EBITDA to interest and FFO- plus- interest to cash interest.
+
+Many agricultural cooperatives have ongoing and well- entrenched banking relationships, given the presence of government-supported agricultural-focused lending institutions in several nations. We reflect these relationships in our cash flow/leverage analysis through the use of interest coverage ratios as supplemental ratios. Where cooperatives have historical links and a strong ongoing relationship with their respective national agricultural lending institutions (for instance, in the form of shareholdings by those institutions and interaction between the banks and the cooperative), this often results in lower interest costs than peers, which will be reflected in the EBITDA interest coverage ratio.
+
+
+### **Asset Managers**
+
+Asset Managers: For most asset managers, we determine one core ratio--debt to adjusted EBITDA--in accordance with S&P Global Ratings' ratios and adjustments criteria as adjusted for realized performance fees and realized investment income. For a few of the asset managers, we consider debt to adjusted total equity as the core ratio (see table 9). These particular asset managers operate hybrid models that more greatly emphasize investing their own funds' permanent capital in the form of debt or equity investments in underlying portfolio companies, generating interest and investment income (in addition to their sizable general partnership [GP] investments in underlying funds), along with managing third-party assets from which they generate management and performance fees.
+
+Some asset managers also carry significant on-balance-sheet investments, which are the result of seed capital for new funds or investments in alternative asset classes that diversify the business mix away from their core business of managing third-party assets. In such cases, debt to adjusted total equity (ATE) can be an important additional indicator of leverage in the context of the material on-balance-sheet risks they carry. A sole focus on cash flow leverage would result in an incomplete picture of financial risk. ATE is calculated as reported equity less goodwill, intangible assets, and unrealized portfolio appreciation or depreciation. Equity investments in all finance companies and equity in structured vehicles (CLOs and collateralized debt obligations) that the firm manages are also not included to account for the amplified leverage resulting from such investments.
+
+**Table 9**
+
+
+#### Assessing Debt To Adjusted Total Equity
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>ASSESSMENT</strong>
+   </td>
+   <td><strong>DEBT TO ADJUSTED TOTAL EQUITY (X)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Minimal
+   </td>
+   <td>&lt;0.4
+   </td>
+  </tr>
+  <tr>
+   <td>Modest
+   </td>
+   <td>0.4-0.8
+   </td>
+  </tr>
+  <tr>
+   <td>Intermediate
+   </td>
+   <td>0.8-1.5
+   </td>
+  </tr>
+  <tr>
+   <td>Significant
+   </td>
+   <td>1.5-2.0
+   </td>
+  </tr>
+  <tr>
+   <td>Aggressive
+   </td>
+   <td>2.0-3.0
+   </td>
+  </tr>
+  <tr>
+   <td>Highly leveraged
+   </td>
+   <td>>3.0
+   </td>
+  </tr>
+</table>
+
+
+
+#### Time horizon ratio calculation
+
+Asset Managers Time horizon ratio calculation: We generally calculate a company's credit ratios based on a three-year weighted average: previous one year's results, our current-year forecast (incorporating any reported year-to-date results and our estimates for the remainder of the fiscal year), and our forecast for the next fiscal year. It is difficult and often impractical to forecast beyond the next fiscal period because of the lack of visibility of top-line revenues. Management fees and performance fees are based on AUM or investment performance, which, like stock prices, cannot be forecasted with a high degree of accuracy. We place greater emphasis on forward-looking estimates, which incorporate upcoming debt maturities and expected debt issuance/refinancing, than on historical ratios. As we forecast realized performance fees for asset managers, we would consider the net accrued performance fees on the balance sheet of an asset manager because we believe this can be a good indicator of the level of performance fees that could be realized in future periods. We generally weight the previous year, the current year, and the next fiscal-year forecast as 20%, 40%, and 40%, respectively. Specifically, we apply the aforementioned weights to the core and supplemental ratios for the respective years to get to one final ratio for each metric, which we would then use in table 17 of the corporate methodology to determine an asset manager's financial risk profile.
+
+The length of the time series applied is dependent on the relative credit risk of the company and other qualitative factors, and the weighting of the time series varies according to transformational events. A transformational event is any event that could cause a material change in a company's financial profile, whether caused by changes to the company's capital base, capital structure, earnings, cash flow profile, or financial policies. Transformational events can include mergers, acquisitions, divestitures, management changes, structural changes to the industry or competitive environment, and product development and capital programs.
+
+
+### **The Auto and Commercial Vehicle Manufacturing Industry Supplemental Ratios**
+
+The Auto and Commercial Vehicle Manufacturing Industry Supplemental Ratios: We typically use the following supplemental ratios for auto and commercial vehicle manufacturers:
+
+
+
+1. Debt service coverage ratios (FFO plus interest/cash interest or EBITDA/interest), particularly for those companies whose core ratios indicate an initial financial risk profile of significant or worse;
+2. FOCF/debt as the preferred supplemental ratio when the core ratios indicate an initial financial risk profile of intermediate or better in the absence of one-off movements in the working capital or capex profile; and
+3. For companies that return a large part of FOCF to shareholders through dividends, we may consider DCF as the most relevant supplemental ratio.
+
+Working capital cycles can significantly shape automakers' and truckmakers' cash flow-generation patterns. Unlike some other manufacturing businesses, automakers and truckmakers typically have negative working capital in the sense that payables exceed inventories and trade receivables. As a result, working capital is commonly a source of liquidity when volumes are growing, thus supporting cash flow generation and deleveraging potential in an upcycle. In a downcycle, on the other hand, declines in payables and excess inventories can bear very negatively on working capital needs. We determine working capital for automotive operations, excluding current liabilities and current assets held by any captive finance subsidiary.
+
+
+### **The Auto Supplier Industry Supplemental Ratios**
+
+The Auto Supplier Industry Supplemental Ratios: Given that the auto suppliers in general are capital-intensive companies with moderately high working-capital requirements, we complement the analysis of core ratios with an analysis of FOCF to debt. Cash flow is typically volatile for auto part suppliers and there can be meaningful variation from one year to another, depending on the timing of product launches and the level of new contract wins or losses.
+
+We closely evaluate the working capital cycle and capital expenditure requirements when analyzing an auto supplier's financial risk profile. Auto suppliers that win supply agreements for a large number of new platforms are often characterized by lower cash flow from operations given the launch costs associated with fixed asset and working capital investments needed to execute on those business wins. Cash flow would typically improve considerably as these announced business launches meet expected production schedules.
+
+Working capital can be a significant call on cash. Companies in the sector typically invest in inventories and receivables during periods of sales growth, putting pressure on cash generation, which can result in a meaningful funding need. We evaluate working capital management based on the past track record of managing inventories and payments terms (often dictated by OEMs) over the business cycle. We have seen that some suppliers have been able to release working capital from inventory and receivables during periods of sales declines. Consequently, we focus more on the track record of FOCF (after working capital and capital expenditure-related cash flows), potentially across cycles, rather than funds from operations (FFO).
+
+Though we may view consistency of free cash flow as a key consideration in distinguishing the financial risk profiles of auto suppliers, we do not necessarily penalize companies that experience growth-related cash outlays. This is as long as we believe that such new business investment supports future cash flow generation based on our assessment of a potential improvement in competitive position for its product and services.
+
+
+### **The Branded Nondurables Industry Supplemental ratios**
+
+The Branded Nondurables Industry Supplemental ratios: If the business risk profile is in the satisfactory or better category, we tend to apply DCF to debt, since a large proportion of the companies with satisfactory or better business risk profiles have high dividend payout ratios. We would also apply other supplemental ratios such as cash flow from operations or FOCF to debt if we believe those ratios are more applicable, such as for working-capital-intensive or high-growth companies. If the business risk profile is in the fair or below category, we tend to apply the interest coverage ratios as we focus more on the company's ability to service their interest expense.
+
+Notwithstanding, if a company is working-capital-intensive or capital-intensive, or if the preliminary cash flow leverage assessment is significant or weaker, then we will give two interest coverage ratios--EBITDA to interest and FFO plus interest to cash interest--greater importance. These ratios become particularly important in our analysis of companies that have highly seasonal businesses and resultant significant swings in working capital investment needs (such as private-label manufacturers and lawn and garden companies). These seasonal companies typically borrow intra-year, and the interest coverage ratios capture all annual interest costs.
+
+
+### **The Building Materials Industry Supplemental ratios**
+
+The Building Materials Industry Supplemental ratios: 
+
+
+
+1. Cash flow from operations (CFO) to debt--For most building materials and products manufacturers and distributors, we consider this the most relevant supplemental ratio because of the large sources and uses of cash resulting from intra-year and multi-year working capital swings.
+2. FOCF to debt--This ratio provides insight into excess cash flow available to meet capex requirements and other discretionary and nondiscretionary obligations. We may use this ratio in certain cases, for example for heavy material or other asset-intensive building materials companies that can demonstrate sustained curtailment in capex during periods of low capacity utilization.
+3. EBITDA to interest--We may use this ratio as the most relevant supplementary ratio when our preliminary cash flow/leverage assessment derived from the core ratio is significant or weaker (for instance, for financial-sponsor-owned companies).
+
+
+### **The Business And Consumer Services Industry Supplemental ratios**
+
+The Business And Consumer Services Industry Supplemental ratios: We generally use FOCF to debt for issuers with low working capital and capital expenditure requirements. For these issuers, there is a small difference between FFO and FOCF. Therefore, the FFO-to-debt ratio may understate an issuer's cash flow available for debt service because it does not consider the low working capital and capex requirements, thereby understating the cash flow adequacy and leverage assessment.
+
+We generally use DCF to debt for issuers with low working capital and capex requirements yet high-dividend payout ratios. For these issuers, DCF to debt is a more appropriate ratio because it assesses cash flow available after dividends. Excluding DCF to debt from the ratio analysis may overstate an issuer's true cash flow available for debt service, thereby overstating the cash flow adequacy and leverage assessment.
+
+Many business and consumer services issuers that are owned by financial sponsors have debt with noncash interest. For these issuers, we give greater importance to FFO cash interest coverage as a supplemental ratio.
+
+
+### **The Capital Goods Industry Supplemental ratios**
+
+The Capital Goods Industry Supplemental ratios: We generally use the following supplemental ratios for capital goods companies:
+
+
+
+1. FOCF/debt as the preferred supplemental ratio. Working capital and capex cycles can significantly shape capital goods companies' cash flow generation patterns. In the early stages of a downturn, capital released from liquidating inventories and trade receivables has historically helped companies achieve FOCF/debt ratios that are stronger than FFO/debt, and we may adjust the cash flow and leverage assessment accordingly. Asymmetrically, during a business upturn, funding needs for working capital can often depress the FOCF/debt ratio, pointing to a lower cash flow and leverage assessment than the core ratios. However, if the core ratios are improving, we may choose not to use the supplementary ratio negative adjustment. For equipment rental companies, we also frequently adjust the cash flow and leverage assessment in the direction of the FOCF/debt ratio. These companies typically incur significant capex in an upturn to maintain and rejuvenate the rental fleet, but let the fleet age and often cut back capex spending to minimal levels in a downturn.
+2. We may alternatively use debt service coverage ratios (FFO plus interest/cash interest, or EBITDA/interest) when the cash flow and leverage assessment indicated by the core ratios is significant or weaker.
+3. For companies that return more than half of their FOCF to shareholders through dividends, we may consider DCF to debt as the most relevant supplemental ratio.
+
+
+### **The Commodity Chemicals Industry Supplemental ratios**
+
+The Commodity Chemicals Industry Supplemental ratios: In addition to our analysis of a company's core ratios, we also consider supplemental ratios to develop a fuller understanding of its financial risk and refine our cash flow analysis in accordance with the global corporate criteria. We generally use for commodity chemical companies:
+
+
+
+1. FOCF to debt as the preferred supplemental ratio when the cash flow and leverage assessment indicated by the core ratios is intermediate or stronger. Working capital and capital expenditure cycles can significantly shape commodity chemical companies' cash flow generation patterns. Alternatively, in less common cases, we might use cash flow from operations to debt for highly working capital-intensive companies (i.e., a working capital-to-sales ratio greater than 25%) or DCF to debt for companies with unusually large dividend distributions (greater than 50% of FOCF).
+2. Debt service coverage ratio, EBITDA to interest, when the cash flow and leverage assessment indicated by the core ratios is significant or weaker. For such companies, the ability to service outstanding debt on a near-term basis is more important. In less common cases where non-cash interest represents a significant portion of interest expense, we might use a ratio of FFO plus cash interest paid to cash interest paid.
+
+
+### **The Consumer Durables Industry Supplemental ratios**
+
+The Consumer Durables Industry Supplemental ratios: We view FOCF to debt as the preferred supplemental ratio. Working capital and capex spending cycles can significantly shape patterns of cash flow generation for consumer durables companies. In the early stages of a downturn, capital released from working capital has historically helped companies achieve FOCF to debt ratios that are stronger than FFO to debt, and we may adjust the cash flow and leverage assessment accordingly. Conversely, during a business upturn, increased working capital needs can depress the FOCF to debt ratio, suggesting a lower cash flow assessment than the core ratios, but we may choose not to use the supplementary ratio adjustment (negative) if the core ratios are on an improving trend. For companies that return a large portion of their FOCF to shareholders through dividends, we may consider DCF to debt as the most relevant supplemental ratio.
+
+If the preliminary cash flow leverage assessment indicated by the core ratios is significant or weaker, then two coverage ratios, FFO plus interest to cash interest and EBITDA to interest, will be given greater importance as supplemental ratios. These ratios become more important in our analysis of companies with significant intrayear working capital swings that are typically funded by debt.
+
+
+### **The Containers and Packaging ("Packaging") Industry Supplemental ratios**
+
+The Containers and Packaging ("Packaging") Industry Supplemental ratios: We generally use for packaging companies:
+
+
+
+1. FOCF/debt as the preferred supplemental ratio. Working capital and capital spending cycles can significantly shape packaging companies' cash flow generation patterns. In the early stages of a downturn, capital released from working capital has historically helped companies in the packaging industry achieve an FOCF/debt ratio that are stronger than FFO/debt, and we may adjust the cash flow and leverage assessment accordingly. Asymmetrically, during a business upturn, funding needs for working capital can often depress the FOCF/debt ratio, pointing to a lower cash flow and leverage assessment than the core ratios, but we may choose not to use the supplementary ratio adjustment (negative) if the core ratios are on an improving trend.
+2. We may alternatively use debt service coverage ratios (FFO plus interest/cash interest, or EBITDA/interest), when the cash flow and leverage assessment indicated by the core ratios is significant or weaker.
+3. For companies that return more than one-half of their FOCF to shareholders through dividends, we may consider DCF as the most relevant supplemental ratio.
+
+
+### **The Contract Drilling Industry Supplemental ratios**
+
+The Contract Drilling Industry Supplemental ratios: In addition to our analysis of a company's core ratios, we also consider supplemental ratios to develop a fuller understanding of a company's credit risk profile and refine our cash flow analysis in accordance with the global corporate criteria. We generally use these ratios for contract drilling companies:
+
+FOCF to debt as the preferred supplemental ratio. Capital spending cycles can significantly shape contract drilling companies' cash flow generation patterns. These companies typically incur significant capital expenditures in an upturn to maintain and upgrade their fleet, while in a downturn, they typically let their fleets age and often cut back investment to minimal levels. Therefore, we frequently adjust the cash flow and leverage assessment in the direction indicated by the FOCF-to-debt ratio.
+
+Debt service coverage ratios. We may alternatively use debt service coverage ratios (FFO plus interest to cash interest or EBITDA to interest) when the cash flow and leverage assessment indicated by the core ratios is significant or weaker.
+
+DCF to debt. We may use discretionary cash flow to debt for companies that pay dividends to shareholders, where such dividends are a material portion of cash flows. We would generally not consider extraordinary dividends or share repurchases in this ratio. Such shareholder returns are generally nonrecurring, and, if they exceed cash flow, are often captured as diminished liquidity and/or increased debt levels.
+
+
+### **The Engineering and Construction Industry Supplemental ratios**
+
+The Engineering and Construction Industry Supplemental ratios: We generally use the following supplemental ratios for E&C companies:
+
+
+
+1. FOCF to debt as the preferred supplemental ratio. Given that many E&C companies can face high working capital swings (frequently due to advanced payments on projects, delays in collecting accounts receivable in a downturn, or fast growth), EBITDA and FFO may overstate financial strength. FOCF, which is determined after changes in working capital and capital expenditures, may be a more accurate measure of a company's cash flow in relation to its financial risk profile. E&C companies tend to have fairly low maintenance capital expenditures as a percentage of sales, which benefits FOCF generation.
+2. Alternatively, for companies that temporarily exhibit atypically high capital expenditures as a percentage of sales relative to those of its peers, we may consider cash flow from operations to debt as the most relevant supplemental ratio.
+3. For companies that return more than half of their FOCF to shareholders through dividends, we may consider DCF to debt as the most relevant supplemental ratio.
+
+
+### **The Environmental Services Industry Supplemental ratios**
+
+The Environmental Services Industry Supplemental ratios: We generally use the following supplemental ratios for environmental services companies:
+
+
+
+1. FOCF to debt as the preferred supplemental ratio. This statistic includes the effects from working capital and capital expenditure cycles, which can significantly shape environmental services companies' cash flow generation patterns.
+2. We may alternatively use debt service coverage ratios (FFO plus interest to cash interest, or EBITDA to interest), when the cash flow and leverage assessment indicated by the core ratios is significant or weaker.
+
+
+### **Financial Market Infrastructure (FMI) Companies Supplemental ratios**
+
+Financial Market Infrastructure (FMI) Companies Supplemental ratios: In addition to the two core ratios, we also consider two supplemental ratios to develop a fuller understanding of a company's credit risk profile and refine our cash flow analysis. These two supplement ratios are:
+
+
+
+1. Adjusted EBITDA to interest, and
+2. FOCF to debt.
+
+In the case of an independent member-owned (utility-like) FMI with zero or nominal adjusted debt, we assign a (1) minimal financial risk profile assessment, regardless of the CICRA, because we concentrate our analysis on clearing and settlement (C&S) risk, not financial risk metrics, which may not be meaningful.
+
+We generally calculate core and supplemental ratios based on a three-year average: trailing one year's results, plus our current-year forecast (incorporating any reported year-to-date results and our estimates for the remainder of the fiscal year), plus our forecast for the next fiscal year. It is often impractical to make projections for most FMI companies beyond the next fiscal period because of the lack of visibility of top-line revenues. Trading/clearing fees are largely driven by exchange volumes, which, like stock prices, cannot be forecasted with a high degree of accuracy. We place greater emphasis on forward-looking estimates, which incorporate upcoming debt maturities and expected debt issuance/refinancing, than on the historical ratios. We generally weight the previous year, the current year, and the forecasted year as 20%, 40%, and 40%, respectively.
+
+
+### **Financial Services Finance Companies**
+
+Financial Services Finance Companies: Subsectors of financial services finance companies (FSFCs) include:
+
+
+
+1. Consumer finance companies: Companies that provide small-dollar loans, check cashing services, and other related consumer services, generally to consumers with little or no access to traditional commercial banks.
+2. Originators and servicers: Companies that originate and service loans (such as residential mortgage, commercial mortgage, and student loans) but retain minimal credit risk in terms of on-balance-sheet investments in mortgages or loans.
+3. Auto fleet services companies: Companies that provide fleet management services, including vehicle inventory management, fuel monitoring, vehicle maintenance, fuel card payments solutions, and other related services.
+4. Real estate services: Companies that provide financial and professional real estate services, such as investment management, property services, brokerage, and research.
+5. Money transaction processors: Companies that facilitate money management transactions, including money transfer, bill payment, and other related money transaction services.
+6. Other FSFC: Companies that provide various commercial and consumer finance products.
+
+For companies whose greatest credit risks, we believe, relate to asset quality, funding and liquidity, and tangible capital--some of the primary risks that banks face--we apply our NBFI criteria (see "Nonbank Financial Institutions Rating Methodology," published Dec. 9, 2014). We apply a different framework for NBFI because we believe that NBFI are more likely to default as a result of weaknesses in their balance sheets--rather than from an inability to service their debt obligations with operating cash flows. For instance, companies that we rate under the NBFI criteria often come under credit stress when a decline in the credit quality of their assets weakens their capital bases, their access to funding, and ultimately their liquidity.
+
+FSFC may be prone to some of the same risks as NBFI--but to a lesser degree. As a result, we incorporate an analysis of funding, credit quality, and tangible capital. However, we place a greater emphasis on the analysis of cash flow--relative to debt and interest expense--than the NBFI criteria do.
+
+
+### **Supplemental ratios**
+
+Financial Services Finance Companies: In addition to our analysis of a company's core ratios, we consider two supplemental ratios--EBITDA to interest expense and debt to tangible equity--to develop a fuller understanding of a company's credit risk profile and to refine our cash flow analysis in accordance with the corporate criteria. (We define tangible equity as total equity less goodwill and nonservicing intangibles.)
+
+We generally use debt to tangible equity for FSFC that have positive tangible equity and whose balance sheets contain a substantive portion of financial assets. We view the traditional measure of debt to tangible equity as reflective of how some FSFC fund their business and how much cushion they have to sustain unexpected losses. We determine the debt to tangible equity assessment using table 14.
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Table 14
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Assessing Debt-To-Tangible Equity Ratio
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>ASSESSMENT</strong>
+   </td>
+   <td><strong>DEBT-TO-TANGIBLE EQUITY RATIO (X)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Minimal
+   </td>
+   <td>&lt;1.0
+   </td>
+  </tr>
+  <tr>
+   <td>Modest
+   </td>
+   <td>1.0-2.0
+   </td>
+  </tr>
+  <tr>
+   <td>Intermediate
+   </td>
+   <td>2.0-3.0
+   </td>
+  </tr>
+  <tr>
+   <td>Significant
+   </td>
+   <td>3.0-4.0
+   </td>
+  </tr>
+  <tr>
+   <td>Aggressive
+   </td>
+   <td>4.0-5.0
+   </td>
+  </tr>
+  <tr>
+   <td>Highly leveraged
+   </td>
+   <td>>5.0
+   </td>
+  </tr>
+</table>
+
+
+In certain circumstances, our calculation of debt allows for netting of funding with the assets associated with the funding (asset-specific funding). This netting is typically restricted to debt specifically used to finance high-quality and generally liquid assets. Importantly, we apply this netting to debt when a company uses it to fund assets that expose it to minimal credit risk, and generally for a short duration. As a result, we also treat interest expense associated with such funding sources as an operating expense and do not subtract it in our calculation of EBITDA.
+
+One example of netting debt facilities with assets financed with the facilities is when a U.S. mortgage company originates loans that conform to government-sponsored enterprise (GSE) guidelines. The loans are guaranteed to be purchased from the finance company within a short period of time, typically 20 days. We net as long as we believe that the GSE has no incentive to reject the pool of assets (rejection of conforming assets would signal a shift in market practice). Individual nonconforming assets that are rejected are not netted against debt when and if they are placed back on the balance sheet of the mortgage originator.
+
+We also net debt used to finance mortgage servicer advances when the advances have a first-priority lien against an entire pool of mortgage properties and we believe the residential mortgage-backed security will not decline below the value of the collateral against which the finance company has advanced money (these advances are typically supported by significant overcollateralization).
+
+When we believe there is some possibility, such as in stressed market conditions, that a GSE will stop purchasing assets (or abruptly change its criteria) or that a warehouse provider has the option of requiring significant additional margin with little notice to the finance company, we do not net the debt (asset-specific funding) with the assets funded by the debt.
+
+We generally calculate core and supplementary ratios based on a three-year average: trailing one year's results, our current-year forecast (incorporating any reported year-to-date results and our estimates for the remainder of the fiscal year), and our forecast for the next fiscal year. It is often impractical to make projections for FSFC beyond the next fiscal period because of the lack of visibility of top-line revenues. We place greater emphasis on the forward-looking estimates, which incorporate upcoming debt maturities and expected debt issuance/refinancing, than on the historical ratios. We generally weight the previous year, the current year, and the next fiscal-year forecast as 20%, 40%, and 40%, respectively.
+
+
+### **The Forest and Paper Products Industry Supplemental ratios**
+
+The Forest and Paper Products Industry Supplemental ratios: For forest and paper products companies:
+
+
+
+1. We typically use FOCF to debt or cash flow from operations (CFO) to debt as a supplemental ratio when the cash flow and leverage assessment indicated by the core ratios is intermediate or stronger. When divergences between FOCF to debt and CFO to debt occur, we may rely on CFO to debt if we believe there is discretion about the timing or size of company's forecast capital expenditures or working capital growth.
+2. We typically use debt service coverage ratios (EBITDA to interest or FFO plus interest to cash interest) when the preliminary cash flow and leverage assessment indicated by the core ratios is significant or weaker.
+
+In the case of timber REITs, we use debt to debt-plus-equity as the preferred supplemental ratio. The benchmarks for debt to debt-plus-equity (adjusted for the market value of timberlands where applicable) are shown in the table below.
+
+**Table 15**
+
+
+### **Supplemental Ratios--Timber REITs**
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>DEBT/DEBT + EQUITY (%)*</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>1. Minimal
+   </td>
+   <td>Less than 25
+   </td>
+  </tr>
+  <tr>
+   <td>2. Modest
+   </td>
+   <td>25-35
+   </td>
+  </tr>
+  <tr>
+   <td>3. Intermediate
+   </td>
+   <td>35-45
+   </td>
+  </tr>
+  <tr>
+   <td>4. Significant
+   </td>
+   <td>45-50
+   </td>
+  </tr>
+  <tr>
+   <td>5. Aggressive
+   </td>
+   <td>50-60
+   </td>
+  </tr>
+  <tr>
+   <td>6. Highly leveraged
+   </td>
+   <td>Greater than 60
+   </td>
+  </tr>
+  <tr>
+   <td>*Adjusted for the market value of timberland where applicable
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+
+### **The Health Care Equipment Industry Core And Supplemental Ratios**
+
+The Health Care Equipment Industry Core And Supplemental Ratios: We usually use debt to EBITDA as the primary leverage measure for health care equipment companies. In addition to our analysis of a company's core ratios, we also consider supplemental ratios in order to develop a fuller understanding of a company's credit risk profile and fine tune our cash flow analysis. Among the five supplemental cash flow and leverage ratios, we place somewhat more emphasis on EBITDA interest coverage if the preliminary cash flow and leverage assessment indicated by the core ratios is significant or weaker. FFO plus interest to cash interest coverage and EBITDA interest coverage are especially important when the company has payment-in-kind (PIK) debt, PIK preferred stock, or low-coupon convertible debt. These coverage ratios recognize the lack of or low mandatory cash expense on an ongoing basis.
+
+We use the supplemental debt payback ratios (cash flow from operations to debt, FOCF to debt, and DCF to debt) infrequently. These measures usually do not provide additional insight, in part, because health care equipment companies generally have moderate fixed and working capital requirements relative to all other industries.
+
+
+### **The Health Care Services Industry Core And Supplemental Ratios**
+
+The Health Care Services Industry Core And Supplemental Ratios: We usually use debt to EBITDA as the primary leverage measure for health care services companies, but we also consider the FFO-to-debt ratio.
+
+In addition to our analysis of a company's core ratios, we also consider supplemental ratios in order to develop a fuller understanding of a company's credit risk profile and fine tune our cash flow analysis.
+
+If the preliminary cash flow and leverage assessment indicated by the core ratios is significant or weaker, we place more emphasis on EBITDA interest coverage as a supplemental ratio. We may also consider FFO plus interest to cash interest coverage when a company has payment-in-kind (PIK) debt, PIK preferred stock, or low-coupon convertible debt. These ratios recognize the low or lack of cash expense on an ongoing basis.
+
+Health care services companies often carry a high adjusted debt burden and their ability to meet cash interest and lease payments is critical. Therefore, when rent expense is large, and to take account of a company's ability to cover all fixed charges, we may use, as a supplemental ratio, EBITDAR (lease-adjusted EBITDA) coverage of interest plus rent expense (sometimes called fixed charge coverage). This ratio is especially important for companies at the lower end of the credit spectrum with only marginal coverage of interest and rent. It also helps us compare companies with higher property ownership (which may be financed with debt) with companies that lease most of their properties. When calculating this ratio we use reported rent expense for historical periods and our estimate of actual rent expense for future periods.
+
+**Table 16**
+
+
+### **EBITDAR Coverage Of Interest And Rent Scale**
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Minimal
+   </td>
+   <td>>8.0x
+   </td>
+  </tr>
+  <tr>
+   <td>Modest
+   </td>
+   <td>>5.0x-8.0x
+   </td>
+  </tr>
+  <tr>
+   <td>Intermediate
+   </td>
+   <td>>3.0x-5.0x
+   </td>
+  </tr>
+  <tr>
+   <td>Significant
+   </td>
+   <td>>2.5x-3.0x
+   </td>
+  </tr>
+  <tr>
+   <td>Aggressive
+   </td>
+   <td>=>2.2x-2.5x
+   </td>
+  </tr>
+  <tr>
+   <td>Highly leveraged
+   </td>
+   <td>&lt;2.2x
+   </td>
+  </tr>
+</table>
+
+
+We use the supplemental debt payback ratios (cash flow from operations to debt, FOCF to debt, and DCF to debt) infrequently. These measures are more meaningful for the few health care services companies that have a preliminary cash flow/leverage assessment of intermediate or stronger, but usually do not provide additional insight, in part, because health care services companies generally have moderate fixed and working capital requirements relative to all other industries.
+
+
+### **The Media and Entertainment Industry Supplemental ratios**
+
+The Media and Entertainment Industry Supplemental ratios: If the preliminary cash flow-to-leverage ratio indicated by the core ratios is intermediate or better, we frequently use:
+
+
+
+1. FOCF/debt (e.g. for capital intensive companies);
+2. CFO/debt (e.g. for working capital intensive companies); and
+3. DCF/debt (e.g. for companies that pay a significant dividend or follow diverging revenue or cost recognition practices).
+
+If the preliminary cash flow-to-leverage ratio indicated by the core ratios is significant or weaker, interest coverage ratios will frequently be given greater weight.
+
+Specifically for U.S. local TV stations (to avoid skewing ratio results toward either an election/Olympic or nonelection/non-Olympic year) we may consider an additional supplemental ratio:
+
+
+
+1. Debt to average trailing eight quarters' average EBITDA. We use the same thresholds as for the core ratio of debt/EBITDA for our assessment of this supplemental ratio.
+
+We often rely on FOCF to debt as our supplemental cash flow to leverage ratio for media and entertainment companies, especially when there are mismatches in when revenue and expenses are recognized and cash is received/paid. For instance:
+
+
+
+1. Media and entertainment companies generally follow the practice of recognizing revenue when services are performed. By contrast, cash collections related to the sale may span three-to-four years. Profitability metrics may not reflect the variability of these issuers' underlying cash flows. Moreover, we believe that the timing of revenue recognition may vary between U.S. GAAP and IFRS, hampering comparability of entertainment producers across regions.
+2. The majority of programming is expensed on the first airing of repeatable entertainment, or accelerated if audience or revenue expectations are not materializing. We track audience ratings to develop a view of situations in which failing shows will require accelerated cash expenditures for replacement shows, and in which write-offs likely are warranted. Given the diversity in practice around expense recognition, we often consider FOCF to debt.
+
+
+### **The Metals Production And Processing Industry Financial risk profile and supplemental ratios**
+
+The Metals Production And Processing Industry Financial risk profile and supplemental ratios: Our assessment of the financial risk profile takes into account historical ratios for the last two years and forecasts for current and two subsequent years based on S&P Global Ratings' price assumptions for metals (see **["How S&P Global Ratings Formulates, Uses, And Reviews Commodity Price Assumptions,"](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/10709435)** published Sept. 28, 2018). In addition to our analysis of core ratios, we consider supplemental ratios to develop a fuller understanding of a company's credit risk profile and refine our cash flow analysis in accordance with the corporate methodology.
+
+Given the high capital intensity of the sector, with high investments and working capital needs, FOCF to debt and cash flow from operations (CFO) debt are typically the most relevant supplemental ratios.
+
+When the cash flow and leverage assessment indicated by the core ratios is significant or weaker, we also consider coverage ratios of FFO plus interest to cash interest and EBITDA to interest.
+
+
+### **The Mining Industry Financial risk profile and supplemental ratios**
+
+The Mining Industry Financial risk profile and supplemental ratios: Our assessment of the financial risk profile takes into account historical ratios for the last two years and forecasts for the current and two subsequent years based on S&P Global Ratings' price assumptions for metals. For a company with significant exposure to a metal or bulk commodity for which we do not have price assumptions, we develop a set of prices for the next three years based on forward curves for the commodity, if available, and our expectations for demand/supply balance in the industry. We complement the analysis of the cash flow coverage ratios with our view of the company-specific volatility of cash flow and the capital expenditure program, both of which tend to be significant in the industry.
+
+We also consider supplemental ratios to develop a fuller understanding of a company's credit risk profile and to refine our cash flow analysis in accordance with our global corporate criteria. Given the high capital intensity of the industry, we generally consider FOCF to debt, if the core ratios are intermediate or better.
+
+When the cash flow/leverage assessment indicated by the core ratios is significant or weaker, we consider:
+
+
+
+1. FFO plus cash interest divided by cash interest;
+2. EBITDA to interest; and
+3. FOCF to debt if a company with limited debt embarks on an ambitious capital expenditure program that would be difficult to curtail significantly in case of an economic downturn.
+
+Working capital funding fluctuations and cash flow from operations to debt are of limited importance in the mining industry because margins are fairly high and the cash conversion cycle is short, and because working capital outlays usually coincide with a strong industry environment and high FFO, and vice versa.
+
+
+### **The Oil And Gas Exploration And Production Industry Financial risk profile and supplemental ratios**
+
+The Oil And Gas Exploration And Production Industry Financial risk profile and supplemental ratios: Our assessment of the financial risk profile takes into account historical ratios for the previous two years and notable forecasts for the current and two subsequent years based on our price assumptions for oil and natural gas prices.
+
+In addition to our analysis of a company's core ratios, we consider supplemental ratios to develop a fuller understanding of its credit risk profile and refine our cash flow analysis. In our view, an E&P company's inability to fund its minimum ongoing investment requirements (or maintenance capital spending) would be the most likely source of financial stress, since reserve replacement and, therefore, production stability rely on substantial access to capital. Therefore, we consider as supplemental ratios:
+
+
+
+1. FOCF to debt (after considering, at a minimum, maintenance capital spending requirements); and
+2. DCF to debt (most relevant for issuers that pay out a portion of excess cash flow to shareholders as dividends).
+
+
+### **The Oilfield Services And Equipment Industry Supplemental ratios**
+
+The Oilfield Services And Equipment Industry Supplemental ratios: In addition to our analysis of a company's core ratios, we consider supplemental ratios to develop a fuller understanding of its credit risk profile and refine our cash flow analysis in accordance with the global corporate criteria.
+
+FOCF to debt. For oilfield services and equipment companies, we generally use FOCF to debt as the preferred supplemental ratio. Working capital and capital spending cycles can significantly shape oilfield services and equipment companies' cash flow generation patterns. During a business upturn, funding needs for working capital and capital spending can often limit the benefit to cash flows (negative FOCF in many cases) as companies meet elevated demand for equipment and services. However, in the early stages of a downturn, capital released from the liquidation of inventories and trade receivables, as well as lower capital spending, can benefit free cash flow.
+
+Operating cash flow to debt. Where an oilfield services and equipment company has a CPGP of capital/asset focus or generally stable capital spending needs, we may choose to use operating cash flow to debt given the company's generally higher R&D spending and lower cyclicality of capital spending requirements.
+
+DCF to debt. We may alternatively use discretionary cash flow to debt for companies that pay dividends to shareholders, where we assess such dividends as a material portion of cash flows. We would generally not consider extraordinary dividends or share repurchases in this ratio. Such shareholder returns are generally nonrecurring, and if they exceed cash flow are often captured as diminished liquidity and/or increased debt levels.
+
+
+### **The Railroad and Package Express Industry Supplemental Ratios**
+
+The Railroad and Package Express Industry Supplemental Ratios: In addition to our analysis of a company's core ratios, we also consider supplemental ratios in order to develop a fuller understanding of a company's credit risk profile and fine tune our cash flow analysis. In our view, a railroad or package express company's inability to meet cash interest payments or a debt maturity would be the most likely cause of a cash default during an industry downturn. Therefore, we consider as supplemental ratios:
+
+
+
+1. Coverage ratios (FFO + cash interest)/cash interest and EBITDA/interest; and
+2. FOCF to debt (this captures the capital intensity of railroads in particular).
+
+
+### **The Retail and Restaurants Industry Supplemental ratios**
+
+The Retail and Restaurants Industry Supplemental ratios: We generally include EBITDA to interest coverage, FOCF to debt, and DCF to debt in our analysis.
+
+Retailers often carry a high adjusted debt burden and their ability to meet cash interest and lease payments is critical. For retailers with core cash flow and leverage ratios indicative of a financial profile of intermediate or better, the ability to generate free cash flow after investing in their business enables them to lower leverage or fund shareholder returns, such as share repurchases or dividend payments. Therefore, we generally use DCF to debt or FOCF to debt as the supplemental ratios. However, for retailers whose FOCF generation is constrained by significant capital expenditures, we will use CFO to debt as the preferred supplemental ratio. For retailers whose core cash flow and leverage ratios are indicative of a financial profile that is significant or weaker, we generally use EBITDA to interest coverage as the supplemental ratio as we focus more on their ability to service their interest and lease burden. In some cases where we believe lease-adjusted EBITDA interest coverage or other cash flow coverage ratios (because of our lease adjustment) overstate the company's ability to cover fixed costs, including rent, we may use an unadjusted EBITDAR to cash interest plus rent ratio instead. We believe this ratio more accurately reflects the lease-related obligation by capturing actual rent versus minimum contractual rent. This ratio also helps distinguish companies with higher property ownership versus companies that lease most of their properties.
+
+**Table 17**
+
+
+### **EBITDAR Coverage Ratio Scale**
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Minimal
+   </td>
+   <td>>8.0x
+   </td>
+  </tr>
+  <tr>
+   <td>Modest
+   </td>
+   <td>>5.0x-8.0x
+   </td>
+  </tr>
+  <tr>
+   <td>Intermediate
+   </td>
+   <td>>3.0x-5.0x
+   </td>
+  </tr>
+  <tr>
+   <td>Significant
+   </td>
+   <td>>2.5x-3.0x
+   </td>
+  </tr>
+  <tr>
+   <td>Aggressive
+   </td>
+   <td>=>2.2x-2.5x
+   </td>
+  </tr>
+  <tr>
+   <td>Highly leveraged
+   </td>
+   <td>&lt;2.2x
+   </td>
+  </tr>
+</table>
+
+
+
+### **The Specialty Chemicals Industry Supplemental ratios**
+
+The Specialty Chemicals Industry Supplemental ratios: In addition to our analysis of a company's core ratios, we also consider supplemental ratios to develop a fuller understanding of its financial risk and refine our cash flow analysis in accordance with the global corporate criteria. We generally use for commodity chemical companies:
+
+FOCF to debt as the preferred supplemental ratio when the cash flow and leverage assessment indicated by the core ratios is intermediate or stronger. Working capital and capital expenditure cycles can significantly shape specialty chemical companies' cash flow generation patterns.
+
+Alternatively, in less common cases, we might use cash flow from operations to debt for highly working capital-intensive companies (i.e., a working capital-to-sales ratio greater than 25%) or DCF to debt for companies with unusually large dividend distributions (greater than 50% of FOCF).
+
+Debt service coverage ratio, EBITDA to interest, when the cash flow and leverage assessment indicated by the core ratios is significant or weaker. For such companies, the ability to service outstanding debt on a near-term basis is more important. In less common cases where non-cash interest represents a significant portion of interest expense, we might use the ratio of FFO plus cash interest paid to cash interest paid.
+
+
+### **The Technology Hardware And Semiconductor Industry Supplemental ratios**
+
+The Technology Hardware And Semiconductor Industry Supplemental ratios: In addition to our assessment of core ratios, we also consider supplemental ratios to better understand a company's credit risk profile and fine-tune our financial risk analysis. In our view, a semiconductor and technology hardware manufacturer's inability to meet cash interest payments or a debt maturity would be the most likely cause of a cash default during or immediately following an industry downturn.
+
+For companies with preliminary cash flow/leverage assessments of intermediate or better, we typically use FOCF to debt or absolute FOCF, which better captures working capital and capital expenditure requirements than the core ratios.
+
+For companies with preliminary cash flow/leverage assessments of significant or worse, we typically use EBITDA interest coverage, which sometimes better captures a company's ability to service its debt than the core ratios. However, in specific cases, we may choose other ratios based on the company-specific factors defined in the corporate methodology. For example, for companies with preliminary cash flow/leverage assessments of significant or worse, we may consider FOCF to debt, even if the company is not capital intensive.
+
+FOCF is a good measure of cash flow available for debt repayment, which is critical for companies with aggressive capital structures. If a company is not capital intensive, more cash flow will be available for debt repayment, which is positive for creditworthiness.
+
+
+### **The Technology Software And Services Industry Supplemental ratios**
+
+The Technology Software And Services Industry Supplemental ratios: In addition to core ratios, we also consider supplemental ratios to develop a fuller understanding of a company's credit risk profile and refine our financial risk analysis in accordance with the criteria. For companies with preliminary cash flow/leverage assessments of intermediate or better, we typically use CFO to debt, which better captures working capital requirements than the core ratios. For companies with preliminary cash flow/leverage assessments of significant or worse, we typically use EBITDA interest coverage, which sometimes better captures a company's ability to service its debt than the core ratios.
+
+However, in specific cases, we may choose other ratios based on the company-specific factors defined in the corporate methodology. For example, for all companies, regardless of their preliminary cash flow/leverage assessments, we may consider FOCF to debt, even if the company is not capital intensive. If a company is not capital intensive, more cash flow will be available for debt repayment, which is positive for the creditworthiness of technology companies, in our view.
+
+
+### **Volatility**
+
+The Technology Software And Services Volatility analysis: We typically assess cash flow volatility as stable for commercial IT services, transaction processors, and enterprise and consumer software companies because of the high degree of recurring revenues in these industries derived mostly by differentiated product features and the switching costs required to migrate to another provider.
+
+However, our assessments are based on our view of a particular company's cash flow volatility. For example, within the software subsector, we may classify a company that has a high proportion of perpetual license sales and low recurring revenue as volatile because perpetual license sales are usually one-time in nature and can be affected by changes in IT spending. Perpetual license sales also often have high margins with gross margins often above 90%, so declines can have a disproportionate impact on profit.
+
+In addition, our cash flow volatility adjustments are as of a point in time and can change based on the current state of the business cycle and a company's credit metrics relative to key thresholds.
+
+
+### **The Transportation Cyclical Industry** **Supplemental Ratios**
+
+The Transportation Cyclical Industry Supplemental Ratios: In addition to our analysis of a company's core ratios, we also consider supplemental ratios in order to develop a fuller understanding of a company's credit risk profile and refine our cash flow analysis. We most often consider as supplemental ratios:
+
+
+
+1. Coverage ratios: (FFO + Interest)/Cash Interest, and EBITDA/Interest, particularly if the preliminary cash flow leverage assessment indicated by the core ratios is significant or weaker.
+2. FOCF to debt (this captures the capital intensity of cyclical transportation companies).
+
+
+### **The Transportation Infrastructure Industry** **Core And Supplemental Ratios**
+
+The Transportation Infrastructure Industry Core And Supplemental Ratios: If the core ratios result in different cash flow leverage assessments, we select the one we believe is the best indicator of a company's future leverage. For transportation infrastructure companies, this is typically the FFO-to-debt ratio because it incorporates debt service costs that are typically significant for transportation infrastructure companies.
+
+In our view, a transportation infrastructure company's inability to meet cash interest payments or a debt maturity is the most likely cause of a cash default. Therefore, the preferred supplemental ratio we use in assessing a transportation infrastructure company's financial risk is FFO cash interest coverage, which we define as FFO-plus-interest to cash interest.

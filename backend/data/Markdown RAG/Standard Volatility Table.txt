@@ -1,0 +1,19 @@
+# Standard Volatility Table
+
+
+Minimal Risk: FFO/Debt greater than or equal to 60%, Debt/EBITDA less than 1.5, FFO/Cash Interest greater than 13, EBITDA/Interest greater than 15, CFO/Debt greater than 50%, FOCF/Debt greater than or equal to 40, DCF/Debt greater than or equal to 25
+
+
+Modest Risk: FFO/Debt between 45% and 60%, Debt/EBITDA between 1.5 and 2, FFO/Cash Interest between 9 and 13, EBITDA/Interest between 10 and 15, CFO/Debt between 35% and 50%, FOCF/Debt between 25 and 40, DCF/Debt between 15 and 25.
+
+
+Intermediate Risk: FFO/Debt between 30% and 45%, Debt/EBITDA between 2 and 3, FFO/Cash Interest between 6 and 9, EBITDA/Interest between 6 and 10, CFO/Debt between 25% and 35%, FOCF/Debt between 15 and 25, DCF/Debt between 10 and 15.
+
+
+Significant Risk: FFO/Debt between 20% and 30%, Debt/EBITDA between 3 and 4, FFO/Cash Interest between 4 and 6, EBITDA/Interest between 3 and 6, CFO/Debt between 15% and 25%, FOCF/Debt between 10 and 15, DCF/Debt between 5 and 10.
+
+
+Aggressive Risk: FFO/Debt between 12% and 20%, Debt/EBITDA between 4 and 5, FFO/Cash Interest between 2 and 4, EBITDA/Interest between 2 and 3, CFO/Debt between 10% and 15%, FOCF/Debt between 5 and 10, DCF/Debt between 2 and 5.
+
+
+Highly Leveraged: FFO/Debt less than 12%, Debt/EBITDA greater than 5, FFO/Cash Interest less than 2, EBITDA/Interest less than 2, CFO/Debt less than 10%, FOCF/Debt less than 5, DCF/Debt less than 2.

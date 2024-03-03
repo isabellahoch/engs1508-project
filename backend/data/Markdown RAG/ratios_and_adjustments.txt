@@ -1,0 +1,1991 @@
+
+
+## General: Corporate Methodology: Ratios And Adjustments
+
+
+### OVERVIEW AND SCOPE
+
+1. S&P Global Ratings is publishing its methodology for making analytical adjustments to companies' reported financial data.
+
+2. These criteria apply to entities we rate globally using our corporate methodology, including traditional corporates, as well as financial companies we rate using our corporate methodology. The criteria will also apply to companies we rate under our methodology for investment holding companies, commodities trading companies, and the operating leasing industry. The criteria would not apply to project finance entities and corporate securitizations because of their unique characteristics.
+
+
+### METHODOLOGY
+
+4. An entity's financial statements and data are core inputs to our cash flow/leverage and competitive position analysis. We may make adjustments to the reported financial statements to calculate adjusted credit ratios in order to:
+
+
+
+1. Better align an entity's reported financial data with our view of the underlying economics of specific transactions, as well as continuing operations. This may include adjustments for transformational events.
+2. Improve the global comparability of financial data between companies and across industries and geographies. For example, we may adjust reported financial figures when credit ratios are affected by different applicable accounting principles, measurements, and recognition or disclosure practices.
+3. Adjust the consolidation approach embedded in reported financials to best reflect our opinion of an entity's business, economic, and financial ties to other members of the group including subsidiaries, holding companies, and affiliates.
+
+5. We organize our ratios and adjustments methodological framework around key adjustment principles applied in the calculation of adjusted debt, earnings, cash flow, and interest, and three categories of adjustments that are consistent with these principles. The categories are:
+
+
+
+1. "Routine" adjustments generally made to all entities, where applicable. Examples of these would be adjustments for leases and post-retirement obligations.
+2. "Situational" adjustments expected to be applied only in rare circumstances and only if we believe that they will significantly affect a company's credit metrics and are not factored elsewhere in our rating analysis. Examples of these adjustments include foreign currency hedges of debt principal and other exposures such as litigation.
+3. "Sector-specific" adjustments pertain only to particular sectors.
+
+
+#### Key Terms
+
+When we use the following terms in our methodology, we define them as described below. All elements considered in these definitions should be read in conjunction with our Adjustment Principles, and are computed including all applicable adjustments as described in the accompanying guidance.
+
+
+#### Key Ratios
+
+The key credit ratios that we use in the cash flow/leverage and competitive position analysis under our corporate methodology include core ratios, supplementary ratios, and profitability ratios.
+
+
+
+1. FFO to debt
+2. Debt to EBITDA
+1. CFO to debt
+2. FOCF to debt
+3. DCF to debt
+4. FFO plus cash interest paid to cash interest paid (FFO cash interest cover)
+5. EBITDA to interest
+1. EBIT to revenues (EBIT margin)
+2. EBITDA to revenues (EBITDA margin)
+3. EBIT to average of the beginning-of-year and end-of-year capital (return on capital)
+
+
+### ADJUSTMENT PRINCIPLES
+
+6. We apply four key principles in our adjustments to reported financial data:
+
+
+
+1. Adjusted debt principle
+2. Adjusted earnings principle
+3. Adjusted cash flow principle
+4. Adjusted interest principle
+
+
+#### Adjusted Debt Principle
+
+7. Many of the analytical adjustments we make reflect our view of certain implicit financing transactions as being debt-like. Our depiction of these transactions as akin to debt can be contrary to how a company reports them and affects not only our quantification of debt, but also the measures of earnings we use in our analysis.
+
+8. Our objective, where practicable, is to use an amortized cost method to calculate debt, consistent with the amortized cost method under accounting standards like International Financial Reporting Standards (IFRS) and U.S. Generally Accepted Accounting Principles (U.S. GAAP). This method reflects debt as the amount of the original proceeds, plus interest calculated using the effective interest rate, minus repayments of principal and interest. We include accumulated payment-in-kind interest in our adjusted debt measure.
+
+9. In general, items that we add to reported debt to calculate adjusted debt include:
+
+
+
+1. Incurred liabilities that provide no future offsetting operating benefit (such as underfunded postretirement employee benefits and asset retirement obligations);
+2. On- and off-balance-sheet commitments to purchase or use of long-life assets (such as lease obligations) or businesses (such as deferred purchase consideration) where the benefits of ownership are accruing to the company; and
+3. Amounts relating to certain instances when a company accelerates the monetization of assets in lieu of borrowing (such as through securitization, sale, or factoring of accounts receivable).
+
+10. Many of these adjustments reflect probable future calls on cash, but not all future calls on cash are forms of debt. We do not consider a company's future commitments to purchase goods or services it has not received as akin to debt. This is because these are executory contracts, which means a counterparty must still perform an action and the benefits of ownership have yet to accrue to the company. On the contrary, certain non-executory contracts are seen as debt.
+
+11. Not all incurred liabilities are added to reported debt. The adjusted debt figure excludes obligations, such as accounts payable and other accrued liabilities, because we regard them as trade credit. However, if a company defers payment beyond the term customary for its supply chain (which can occur with reverse factoring, for example), we may adjust debt.
+
+12. Additionally, in certain cases our adjusted debt measure may exclude obligations a company reports as debt. This is, for example, because we consider those obligations as equity-like rather than debt, e.g. certain hybrid instruments and certain shareholder loans.
+
+
+#### Adjusted Earnings Principle
+
+13. We adjust reported earnings to capture our view of the results of a company's continuing business activities and its ability to generate recurring cash flow from its operations. Our three measures of adjusted earnings are EBITDA, EBIT, and FFO.
+
+14. Our adjusted EBITDA metric aims to capture the results of a company's operating activities before interest, taxes, and depreciation and amortization. In other words, EBITDA excludes the impact on earnings of capital spending and other investing and financing activities. Generally, this means that any income statement activity, the cash effects of which have been (or will be) classified as being from operating activities (excluding interest and taxes), is included in our definition of EBITDA.
+
+15. Our adjusted EBIT metric measures profit after depreciation and amortization costs (and thereby factors in capital intensity and capital spending), as well as operating and non-operating factors. Our measure of EBIT includes most income statement activity except for interest and taxes. This includes activity we view as non-operating (which is, however, excluded from EBITDA).
+
+16. Our FFO metric indicates a company's ability to generate recurring cash flows from operations independent of changes in working capital. We derive our FFO metric from adjusted EBITDA and subtract cash interest and cash taxes.
+
+
+#### Adjusted Cash Flow Principle
+
+17. We typically only adjust reported cash flows to reclassify transactions between the different categories in the statement of cash flows in order to facilitate comparing operating cash flows. We do this because our analysis focuses on the actual cash flows a company derives from its different activities.
+
+18. Accordingly, we do not carry through all our debt and earnings adjustments to our adjusted cash flow measures. For example, although we consider pension obligations as debt, we accept the reporting of pension cash contributions as operating cash flows rather than reclassifying them as financing outflows (i.e. a repayment of debt principal).
+
+19. We primarily rely on three measures of adjusted cash flow: CFO, FOCF, and DCF.
+
+
+#### Adjusted Interest Principle
+
+20. We adjust interest to reflect the reported and imputed borrowing costs associated with our adjusted debt measure. Our adjusted interest expense is primarily used for supplementary coverage ratios. We generally do not net interest income from our adjusted interest expense unless it is generated by assets which we view as structurally linked to debt-like instruments, such as post-retirement obligations and asset retirement obligations.
+
+21. For more information regarding the adjustments for our key principles, please see Appendix 1.
+
+
+### KEY ANALYTICAL CONSIDERATIONS
+
+
+#### Sufficiently creditworthy:
+
+22. For the purpose of our criteria, we would consider a company to be sufficiently creditworthy if it is rated in the investment-grade category (i.e., 'BBB-' or higher).
+
+
+#### Nonrecurring items and pro forma figures:
+
+23. The relative stability or volatility of a company's earnings and cash flow is an important measure of credit risk that is embedded in our corporate methodology. For this reason, our use of nonrecurring or pro forma adjustments is typically limited to when there has been some transformational change in a company's business. A transformational event is one that causes a material change in an entity's business or financial profile, as defined in our corporate methodology. Examples include the divestment of part of the business or a fundamental change in operating strategy.
+
+
+#### Discontinued operations and business divestments:
+
+24. We typically exclude profits, losses, and cash flows from discontinued operations from our metrics so that they more accurately reflect the company's ongoing operations.
+
+
+#### Pro forma accounts for intrayear acquisitions or irregular reporting periods:
+
+25. If an acquisition has occurred, the financial statements for the year of the acquisition include all of the enlarged group's debt in the year-end balance sheet, but less than the acquired company's full-year results and cash flows. Depending on the acquired company's size, this can distort debt coverage ratios, which therefore may not accurately indicate the company's likely future performance. A similar issue exists when companies have irregular accounting periods, such as after a change in their accounting year end. In these cases, we may use pro forma financial statements to allow for a more representative measure of full-year performance and more meaningful ratios.
+
+
+#### Scope of consolidation
+
+26. When analyzing a group's creditworthiness, a first critical step is to determine how the results of subsidiaries and affiliates should be depicted in the parent's consolidated financial statements. This determination builds on our view of the group, including the relationship of the parent with its subsidiaries, as per our group rating methodology.
+
+27. There are several accounting methods to reflect a company's relationship with another company (treating it as an investment, accounting for it under the equity method, fully consolidating it, etc.). Most often we use the same scope of consolidation as is used in the parent's consolidated financial statements. This is because accounting consolidation and the underlying analytical principle of our group rating methodology both rely on the concept of "control," which refers to the parent's ability to dictate a group member's strategy and cash flow.
+
+28. Several factors determine our analytical view of a company's relationship with a particular subsidiary or affiliate. These factors include strategic importance, whether there is control, percentage of ownership, likely financial support, and whether there are other owners, and if so what rights those other owners have. The parent company's ability to control, direct, and benefit from the subsidiary's cash flows may also drive our decision on whether to accept the accounting consolidation.
+
+29. Based on the above analysis, we may adjust the group's financial statements to better reflect our opinion of the underlying economic drivers of a company's business and financial ties with its subsidiaries or affiliates and the resulting benefits and obligations. We may also adjust the group's financial statements if the group includes businesses with very different business models and credit drivers. For example, we may deconsolidate the regulated banking operations of a retail parent to better understand, analyze, and reflect the credit quality of the two separate businesses, even though we may consider both to be part of the same wider group, and we will treat them as per our group rating methodology.
+
+30. In certain cases, full consolidation used in the financial statements may not reflect our view of the group's real underlying leverage or controlled cash flows due to significant minority shareholders in the subsidiaries. In these cases, we will use other consolidation methods (such as proportionate consolidation) to estimate key credit metrics. For issuers with captive finance operations, please refer to our captive finance criteria ("**[Methodology: The Impact Of Captive Finance Operations On Nonfinancial Corporate Issuers](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/9449566)**") to determine whether or not to fully consolidate the issuer's financials.
+
+
+### ANALYTICAL ADJUSTMENTS
+
+31. There are three categories of analytical adjustments: routine, situational, and sector-specific. We may not make adjustments if we believe the related amounts are clearly trivial and, thus, inconsequential to our analysis.
+
+32. "Clearly trivial" is a common definition used in the auditing process. Amounts that are clearly trivial are inconsequential and could not affect our analysis, whether taken individually or in aggregate. For the purpose of our criteria, we would expect a clearly trivial adjustment to have less than a 1% impact on any relevant credit metric.
+
+33. Our analytical adjustments are not generally affected by ongoing changes in accounting rules, but we may modify our analytical adjustments for a significant rule change to ensure our adjusted metrics remain consistent across accounting standards.
+
+
+#### Routine Adjustments
+
+34. Where applicable, we typically make the following routine adjustments to all companies:
+
+
+
+1. Accessible cash and liquid investments
+2. Leases
+3. Postretirement employee benefits and deferred compensation
+4. Asset-retirement obligations
+5. Capitalized development costs
+6. Securitization, sale, and factoring of receivables and other assets
+7. Hybrid capital instruments
+8. Capitalized interest
+9. Financial guarantees
+10. Earn outs and deferred consideration for business acquisitions
+
+35. If the financial data required for a routine adjustment are not available, clear, or complete in the financial statements, we may use analytical judgement to determine whether to request it from management or to use a best estimate. For more information regarding our routine adjustments, please see Appendix 1.
+
+
+#### Accessible cash and liquid investments
+
+36. We calculate adjusted debt net of accessible cash and liquid investments (accessible cash), because a company that has cash available to repay debt on short notice has more financial flexibility than a company with no such cash available. In analyzing a company's cash and investments, we focus on their accessibility and liquidity. Our adjustment for accessible cash is company-specific; we calculate the amount based on information of a company's quickly accessible cash holdings and investment portfolio.
+
+37. Accessible cash includes:
+
+
+
+1. All cash and cash equivalents as reported by the company, unless we have evidence that the cash might be inaccessible;
+2. Short-term investments as reported by the company, unless we have evidence they are illiquid or inaccessible; and
+3. Long-term investments and other assets in situations where we have evidence that they are liquid and accessible.
+
+38. In situations where we determine that a company's weaker business characteristics or its ownership by financial sponsors do not support this adjustment, we do not net accessible cash against debt.
+
+
+#### Leases
+
+39. Under lease arrangements, the lessee contracts for the use of an asset, entering into a debt-like financing obligation to make periodic rental payments. To account for this, we adjust debt, earnings, cash flows, and interest for comparability across accounting regimes. In certain cases, we may increase lease liabilities if we believe the reported lease disclosure does not adequately capture the lease leverage, for example if we view remaining lease terms to be artificially short relative to the expected use of the lease asset.
+
+
+#### Postretirement employee benefits and deferred compensation
+
+40. We include underfunded defined-benefit obligations for retirees, including pensions and health care coverage (collectively, postretirement benefits [PRB]) in our measure of adjusted debt. These obligations also include other forms of deferred compensation like retiree lump-sum payment schemes and long-service awards. We include these obligations in our measure of adjusted debt because they represent financial obligations that must be paid over time. We do not include defined-contribution obligations in our calculation of PRB.
+
+41. We aggregate all retiree benefit plan assets and liabilities for pension, health, and other obligations, netting the positions of a company's plans in surplus against those that are in deficit, on an after-tax basis. Adjusted debt is not reduced if there are net surpluses.
+
+
+#### Asset-retirement obligations
+
+42. Asset-retirement obligations (AROs) or decommissioning liabilities are legal obligations associated with a company's retirement of tangible long-term assets. In line with our adjusted debt principle, we treat AROs as debt-like obligations. We add AROs to debt after deducting any dedicated retirement-fund assets or provisions, salvage value, and anticipated tax benefits.
+
+
+#### Capitalized development costs
+
+43. In financial reporting, research costs are almost universally treated as an expense. However, the treatment of development costs varies because of the differences between accounting regimes and the subjectivity in determining when development costs are capitalized. To enhance comparability, we generally treat all capitalized development costs as if they were expensed in the period incurred.
+
+
+#### Securitization, sale, and factoring of receivables and other assets
+
+44. We regard the securitization, sale, and factoring of trade receivables and other assets generated on an ongoing basis in the ordinary course of business as being akin to secured financing. We make this adjustment even when the transaction is non-recourse because in our view moral obligation payments may occur, and we do not presume the company will have permanent access to the securitization or factoring market and may need to incur conventional debt to replace this source of financing.
+
+45. We include the securitized debt-like obligations in our debt measures. For trade receivables sales or other asset sales, we include the trade receivable asset or other asset, respectively, on the balance sheet and add the associated funding liability to debt.
+
+
+#### Hybrid capital instruments
+
+46. The treatment of hybrid capital instruments in our leverage and debt service ratio calculations depends on the equity content classification of the instrument as determined by using our hybrid criteria.
+
+
+#### Capitalized interest
+
+47. Under most accounting regimes, financial statements capitalize interest costs during the construction of fixed assets. This can obscure the total interest that has been incurred during the construction period, hindering comparisons of the interest burden between companies that capitalize and do not capitalize interest. We include interest costs that have been capitalized in adjusted interest in the period when they were incurred.
+
+
+#### Financial guarantees
+
+48. A financial guarantee is a promise by one party to assume a liability of another party if that party fails to meet its obligations under the liability. If a company has guaranteed liabilities of a third party or an unconsolidated affiliate, we typically add the guaranteed amount to the company's reported debt. However, we do not add the guaranteed amount to debt if, in our opinion, the guaranteed party is sufficiently creditworthy. We typically add a lower amount to debt if we believe that, if the guarantee were called, the net amount payable would be lower than the guaranteed amount. We do not add performance guarantees to debt unless the company has a history of significant payments under these types of guarantees, or it is expected to incur such payments in the future.
+
+
+#### Earn outs and deferred consideration for business acquisitions
+
+49. Companies acquiring other companies sometimes finance a portion of the purchase price by entering into contingent consideration arrangements (that is, "earn outs") and/or by paying a fixed sum on a delayed basis (deferred consideration). We typically view these transactions as a form of financing and therefore we add the liability to debt to reflect this view.
+
+
+#### Situational Adjustments
+
+50. When our analysts believe a quantitative adjustment--such as the inclusion of an unusual liability in adjusted debt--is the most effective way to capture the risk inherent in an entity's particular circumstances, we will make a situational adjustment. Please see Appendix 2 for more information regarding our situational adjustments.
+
+51. Our situational adjustments seek to capture the impact of a company's transactions when we believe they will significantly affect a company's credit metrics. As a result, we only make situational adjustments if we consider them material to our analysis.
+
+52. We consider an adjustment to be material if such adjustment contributes more than 10% to any adjusted metric. However, our final determination depends on additional qualitative factors as described below.
+
+53. By adjusted credit metric, we mean historical credit metrics (i.e., adjusted debt, adjusted EBITDA, adjusted FFO, etc.) after making our routine and routine sector-specific adjustments.
+
+54. We typically assess materiality by measuring the impact of each individual adjustment. However, if no single adjustment exceeds the materiality threshold, but a group of individual adjustments does, we may view them as material on an aggregate basis. We may not aggregate situational adjustments which are clearly trivial.
+
+55. In some cases, we may still view an adjustment as material even when it falls below the 10% guideline. Possible examples include:
+
+
+
+1. We believe the adjustment could result in a change in any related criteria assessment, such as the financial risk profile or profitability.
+2. The adjustment is not currently material, but we expect it to grow in the future and become material.
+3. The company is close to breaching an outlook threshold and including the adjustment would result in a rating change.
+
+56. In some cases, we may decide that an adjustment is not material and therefore may elect not to make an adjustment that accounts for over 10% of an adjusted credit metric. Possible examples include:
+
+
+
+1. We believe the contribution to the adjusted credit metric is overstated. For instance, when adjusted net debt is close to zero, even an immaterial adjustment to debt could contribute more than 10% to adjusted debt.
+2. There is significant uncertainty about when an exposure may crystallize, or it is difficult to accurately quantify the impact, and the risk is already captured using alternative methods as described below and in our corporate methodology.
+3. The adjustment could not possibly result in a change in the financial risk profile, despite its size. An example would be a company that is already assessed as highly leveraged, so any potential situational adjustment to its debt metric will not have an impact on our analysis.
+
+57. Notwithstanding, if there is significant uncertainty about when an exposure may crystallize, or it is difficult to accurately quantify the impact, we may use alternative methods (such as the use of appropriate modifiers to derive the issuer credit rating) to capture these risks.
+
+58. We may make situational adjustments for earnings, obligations, and contingencies, including:
+
+
+
+1. Accounting distortions;
+2. Purchase price allocation;
+3. Litigation and other contingent claims/liabilities;
+4. Workers' compensation and self-insurance liabilities;
+5. Multi-employer pension plans;
+6. Initial measurement of debt;
+7. Debt at fair value; and
+8. Foreign currency hedges of debt principal.
+
+
+#### Sector-Specific Adjustments
+
+59. We use our sector-specific adjustments to reflect the impact of unique industry characteristics on the adjusted financial metrics for a company. These sector-specific adjustments are consistent with our four adjustment principles and are routine adjustments unless specifically indicated as situational. (See Appendix 3 for more information regarding our sector-specific adjustments.)
+
+
+### APPENDIX 1: PRINCIPLE-BASED AND ROUTINE ADJUSTMENTS
+
+60. This appendix details the financial modifications that we make for our principles and routine adjustments.
+
+
+#### Adjusted debt principle
+
+61. We calculate adjusted debt as follows:
+
+**Table 1**
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>REPORTED DEBT</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Accessible cash and liquid investments
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Leases
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>PRBs and deferred compensation
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>AROs
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Securitization, sale, and factoring of trade receivables and other assets
+   </td>
+  </tr>
+  <tr>
+   <td>+/-
+   </td>
+   <td>Hybrid capital instruments
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Financial guarantees
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Earn outs and deferred consideration for business acquisitions
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>ADJUSTED DEBT</strong>
+   </td>
+  </tr>
+</table>
+
+
+62. We typically measure certain long-term liabilities that do not bear explicit interest payments by calculating the net present value of the liabilities using a discount rate. For instance, minimum non-cancellable operating lease commitments are discounted at 7% for companies that do not capitalize operating leases on the balance sheet. For other liabilities, such as bonds or loans that pay interest, the amortized cost basis of measurement captures the discounting impact of the debt principal.
+
+63. Adjustment to debt for non-executory contracts:We may treat as debt certain non-executory contracts such as take-or-pay contracts. In certain situations, these contracts provide benefits of future price protection to the buyer in exchange for an unconditional minimum purchase obligation to the seller. This is primarily because the seller takes on much of the price risk and non-performance risk by the buyer. When we adjust, we add the contract minimums or penalties arising from take-or-pay contracts to debt.
+
+64. Adjustment to debt for reverse factoring (supply chain finance)We typically view payments made by customers to financial intermediaries for trade payables after 90 days as a form of borrowing and seek to make adjustments to debt and operating cash flows unless amounts are clearly trivial.
+
+65. Adjustment to debt for redeemable common stock held by minority shareholders:We add the liability derived from a redeemable minority interest when the redemption is outside of the issuer's control (for example, the minority interest holder has a put option on the subsidiary's shares as opposed to the issuer having a call option to repurchase the shares) and we fully consolidate the subsidiary in our analysis. The liability would be added to our adjusted debt figure based on the adjusted debt principle since the subsidiary is fully consolidated in our metrics and, therefore, the benefits of ownership are accruing to the issuer. We may take a different view depending upon the facts and circumstances if we judge that the option is very unlikely to be exercised.
+
+66. Adjustment to debt for obligations associated with tax receivable agreements (TRAs):We typically include TRA obligations in our debt adjustment when they are reported in a company's financial statements as a liability and the TRA includes acceleration or settlement provisions. Where there has been a negotiated settlement announced but not yet reported in the financial statements, we would adjust debt by the negotiated amount. We would not make a debt adjustment in other cases where the company has not reported a liability for its TRA in its financial statements, even where acceleration or settlement provisions are present. This may occur when a company records a full valuation allowance against the related TRA deferred tax assets.
+
+67. Structured settlements of dispute:We include in adjusted debt (on a discounted basis if feasible) liabilities related to structured settlements of dispute, whether with commercial or governmental entities. For example, we add tax and tobacco settlements to debt because they are "incurred liabilities that provide no future offsetting operating benefit."
+
+68. Shares other than common stockWe will not add classes of shares to our adjusted debt measures, regardless of their denomination, if they will never require any cash payments or cause any credit stress and if they comply with all of the following conditions:
+
+
+
+1. No stated coupon or yield;
+2. No maturity;
+3. No ability to redeem for cash (but could be converted into common stock);
+4. No covenants or events of default;
+5. No security or guarantees; and
+6. Subordination to all debt.
+
+69. This provision would also apply if shares that comply with all of the above characteristics also include one or both of the following:
+
+
+
+1. A preference in liquidation to other common stock; and/or
+2. A preference in the distribution of dividends when dividends are declared, but no entitlement to dividends otherwise. This would be the case, for example, if when dividends are declared there is an agreement among shareholders about how those dividends are distributed. We would not include in this provision shares that carry a dividend that can be deferred, whether cumulative or non-cumulative. These instruments are typically covered by our hybrid criteria.
+
+70. However, we will add to our adjusted debt measures shares that are subject to a put option or other economically similar mechanism (except if the put option can only be exercised upon an initial public offering).
+
+71. Shares other than common equity provided by controlling shareholders should be analyzed under our non-common equity financing criteria.
+
+
+#### Adjusted earnings principle
+
+72. We calculate adjusted EBITDA as follows:
+
+**Table 2**
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>REPORTED REVENUE</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Operating expenses
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Depreciation
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Amortization
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Non-current asset impairment and impairment reversals
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Cash dividends received from equity accounted affiliates (we exclude the profits or losses from such affiliates)
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Equity settled stock compensation
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Capitalized development costs
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Adjustments for leases
+   </td>
+  </tr>
+  <tr>
+   <td>+/-
+   </td>
+   <td>Adjustments for PRBs and deferred compensation
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Adjustments for AROs
+   </td>
+  </tr>
+  <tr>
+   <td>+/-
+   </td>
+   <td>Adjustments for earn outs and deferred consideration for business acquisitions
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>ADJUSTED EBITDA</strong>
+   </td>
+  </tr>
+</table>
+
+
+73. We calculate adjusted funds from operations (FFO) as follows:
+
+**Table 3**
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>ADJUSTED EBITDA</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Cash interest paid, adjusted
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Cash taxes paid
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>ADJUSTED FFO</strong>
+   </td>
+  </tr>
+</table>
+
+
+
+#### Operating and non-operating items
+
+74. Our calculation of EBITDA and FFO generally includes items that we consider to be operating in nature (rather than investing or financing in nature) and excludes non-operating items. Most often, our view is consistent with how accounting standards classify these items in the statement of cash flows. Below are examples of how we apply our adjusted earnings principle to various scenarios to determine whether transactions are operating or non-operating. The adjustments below are routinely made to all companies where applicable.
+
+75. Disposals:We typically view the disposal of a subsidiary or the sale of property, plant, and equipment as outside core business operations. As such, we generally do not treat these transactions as an operating activity and exclude any gain or loss from our calculation of EBITDA and FFO.
+
+76. Restructuring costs:Our calculation of EBITDA typically includes restructuring costs (which reduce EBITDA), including those that will be settled in cash in the future. We typically view restructuring costs as an operating item because most companies need to restructure their operations to adapt to changing environments and remain competitive and viable.
+
+77. Acquisition-related costs:Our EBITDA calculation includes acquisition-related costs including advisory, legal, and other professional and administrative fees related to an acquisition. Many businesses make acquisitions as part of their growth strategy; therefore it is important to factor these expenses into EBITDA.
+
+78. Asset impairments/write-downs:We exclude impairment costs or reversals on tangible and intangible noncurrent assets from our definition of EBITDA because they are akin to depreciation or amortization costs in that they represent a company's income statement recognition of earlier capital expenditures. However, we include impairment costs on current assets, such as inventory and trade receivables because the charges for inventory represent a company's recognition in the income statement of money that it has already spent, and those for trade receivables represent the reduction of revenue and income previously recognized but that the company will not fully collect. Our definition of EBIT generally includes impairment charges or reversals, except we may adjust for very large and irregular impairments or impairment reversals of non-current assets.
+
+79. Foreign currency transaction gains and losses:We may view foreign currency transaction gains and losses as operating (and therefore include them in EBITDA and FFO) or non-operating in nature. For example, we exclude foreign currency gains or losses resulting from the issuance of foreign currency-denominated debt from EBITDA and FFO if those gains or losses are shown as operating items.
+
+80. Unrealized fair value movements:When disclosed, we typically reverse the impact of unrealized fair valuation gains and losses from EBITDA and FFO. Examples of these items include:
+
+
+
+1. Unrealized fair valuation gains or losses on investment properties under International Finance Reporting Standards (IFRS);
+2. Changes in value of earn-out liabilities; or
+3. Unrealized gains and losses on derivatives (so that EBITDA and FFO represent the economically-hedged result achieved in the current financial year).
+
+
+#### Adjusted cash flow principle
+
+81. We calculate adjusted cash flow from operations (CFO), adjusted free operating cash flow (FOCF), and adjusted discretionary cash flow (DCF) as follows:
+
+**Table 4**
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>REPORTED CFO</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>+/-
+   </td>
+   <td>Interest or dividends received and interest paid reported outside of CFO
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Capitalized interest
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Capitalized development costs
+   </td>
+  </tr>
+  <tr>
+   <td>+/-
+   </td>
+   <td>Adjustments for securitization, sale, and factoring of trade receivables and other assets
+   </td>
+  </tr>
+  <tr>
+   <td>+/-
+   </td>
+   <td>Adjustments for leases
+   </td>
+  </tr>
+  <tr>
+   <td>+/-
+   </td>
+   <td>Adjustments for hybrid capital instruments
+   </td>
+  </tr>
+  <tr>
+   <td>+/-
+   </td>
+   <td>Adjustments for earn outs and deferred consideration for business acquisitions
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>ADJUSTED CFO</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Adjusted capital expenditures
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>ADJUSTED FOCF</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Cash dividends (paid on common and preferred stock)
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Share buybacks
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>ADJUSTED DCF</strong>
+   </td>
+  </tr>
+</table>
+
+
+82. Capital expenditures include funds spent to acquire or develop tangible and intangible assets. We make adjustments to reported capital expenditures for capitalized development costs and capitalized interest.
+
+
+#### Adjusted interest principle
+
+83. We calculate adjusted interest as follows:
+
+**Table 5**
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>REPORTED INTEREST EXPENSE ON GROSS FINANCIAL DEBT*</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Amortization of discounts on debt issuance fees
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Non-cash interest on conventional debt instruments (plus any interest on hybrid capital instruments, shareholder loans, and non-common equity)
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Capitalized interest
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Lease interest
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>PRB interest
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>ARO interest
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Realized effects of interest hedging derivatives
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Unrealized fair value movements of interest derivatives
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>ADJUSTED INTEREST EXPENSE</strong>
+   </td>
+  </tr>
+</table>
+
+
+Note: In our calculation of adjusted interest expense + or - indicates that we include or exclude items that may or may not already be reflected in the reported interest expense.
+
+84. Our adjusted interest principle is based on an accrual-based interest expense and is primarily used to calculate the EBITDA-to-interest coverage ratio. However, we use the reported cash interest plus or minus applicable adjustments to calculate FFO cash interest coverage.
+
+
+#### Accessible cash and liquid investments
+
+85. We identify cash and liquid investments as inaccessible when, for example, they are:
+
+
+
+1. Held in a nonconvertible currency to the currency of a company's borrowings;
+2. Subject to distribution restrictions (for example, cash and investments held in escrow, unless they are restricted to support obligations that we include in debt);
+3. Trapped in subsidiaries (as we believe that cash may not be moved out of the subsidiary at short notice to repay debt elsewhere in the group; however, cash at a subsidiary that meets our criteria for netting may be netted against adjusted debt at that subsidiary);
+4. Required to fund tax payable on repatriating cash or liquidating an asset; or
+5. Held specifically on behalf of third parties (such as governments, customers, etc.).
+
+86. In addition, we will assess whether there are risks of exchange or capital controls in the company's home country, or in the country or countries where its subsidiaries are located, that should be reflected in the calculation of accessible cash.
+
+87. We will generally not deduct accessible cash and liquid investments (accessible cash) from debt if a company is owned by a financial sponsor or has a business risk profile assessment of weak or vulnerable (both concepts defined in our "**[Corporate Methodology](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/8314109)**"). However, we deduct accessible cash from debt even if a company meets either of these conditions, as long as:
+
+
+
+1. We believe that the company has accessible cash ear-marked to retire maturing debt or other debt-like obligations; and
+2. We believe--typically from the company's track record, market conditions, or financial policy--that management will use the cash to pay off maturing debt or debt-like obligations.
+
+88. Cash held in escrow for the debtholders' benefit would be fully netted off from debt if the debt is included in our debt calculation.
+
+89. When calculating accessible cash, we typically do not reduce cash and liquid investments by the amount of expected working capital investment needs. This is because this would disadvantage companies that fund working capital from cash rather than by drawing down on bank lines.
+
+90. In rare cases, we may exclude from accessible cash unusually large portions of cash physically trapped in the usual course of business. Some examples of this include a supermarket that has an unusually large amount of "cash in tills," or a casino that has a higher-than-typical amount of "cash in cages."
+
+Data requirements:
+
+
+
+1. The amount, term, location, liquidity, and other characteristics of accessible cash.
+
+Calculation:
+
+
+
+1. Debt: We reduce debt by the amount of accessible cash.
+
+
+#### Leases
+
+91. We generally accept the balance sheet treatment for companies that capitalize all leases on their balance sheet, such as U.S. Generally Accepted Accounting Principles (GAAP) and IFRS filers, by including the reported lease obligations in our adjusted debt. In certain circumstances we may adjust the amount added to adjusted debt to better reflect the lease leverage (see below).
+
+92. For U.S. GAAP filers that capitalize all leases, we also adjust our income statement and cash flow measures to remove the distinction between finance leases and operating leases.
+
+93. For those entities not required to capitalize operating leases on balance sheet, we will adjust our debt, earnings, interest, and cash flow measures for operating lease reporting. To calculate the adjustment to debt for operating leases that are not reported on balance sheet, we calculate a present value of the future lease payments using a 7% discount rate. We may update our discount rate in the future based on data and trends observed from entities that have reported operating leases on their balance sheets.
+
+94. We net sublease rental income from future lease payments only if the lease and sublease terms match and we believe the holder of the sublease is sufficiently creditworthy (as previously defined).
+
+95. We do not adjust capital expenditures, and therefore FOCF, for any implied capital expenditures relating to leases.
+
+96. Leases with artificially short termsIn certain cases we may adjust the lease amount added to our measure of debt to better reflect the lease leverage, for example if we view the remaining lease terms as artificially short relative to the expected use of the leased asset. Our expectation is that, in most cases, the reported lease liabilities should be at least three times the next 12 months' lease commitments. If they're below this level, we may increase the reported lease liabilities to at least three times and reflect that impact in the other metrics affected by the lease adjustment.
+
+97. The three times multiple is not a hard measure, and analytical judgment is applied. We may increase the liability above three times in certain instances, such as to enhance comparability in lease-intensive sectors. Further investigation may indicate that no upward adjustment is required. For example, if a company's only significant lease--with a remaining lease term of two years--was for a non-core asset that would not be needed after two years due to a change in the company's business model, then no upward adjustment would be necessary.
+
+98. Other lease-like contractsIn rare cases, we also adjust lease liabilities (such as when companies characterize lease contracts as service contracts), because we believe the reported amounts do not adequately capture the transaction's underlying economics. In such cases, we may also carry through this adjustment to our other metrics, if appropriate.
+
+99. Data requirements:For IFRS companies for which IFRS 16 is adopted:
+
+
+
+1. Reported lease obligations on the balance sheet (both the current and noncurrent portions)
+
+100. For U.S. GAAP companies for which ASC Topic 842 is adopted:
+
+
+
+1. Reported finance lease obligations on the balance sheet (current and noncurrent portions).
+2. Reported operating lease obligations on the balance sheet (current and noncurrent portions).
+3. Reported operating lease cost for the most recent income statement.
+4. Reported weighted average operating lease discount rate.
+
+101. For companies that have not yet adopted or do not report under the above lease accounting standards:
+
+
+
+1. Minimum lease payments: The schedule of non-cancellable future lease payments over the next five years and beyond.
+2. Reported finance lease obligations on the balance sheet (current and non-current portions).
+3. Reported annual lease-related operating expenses for the most recent year.
+4. The annual operating lease-related expense, which we estimate using the average of the first projected annual payment disclosed at the end of the most recent year and the previous year.
+
+102. Calculations:For IFRS companies for which IFRS 16 is effective:
+
+
+
+1. Debt: We include the reported amount of lease obligations in adjusted debt.
+2. Interest expense: We reclassify any lease interest as an operating cash flow under IFRS if it is presented as part of the investing or financing section of the statement of cash flows.
+
+103. For U.S. GAAP companies for which ASC Topic 842 is effective:
+
+
+
+1. Debt: We include the reported amount of lease obligations in adjusted debt.
+2. Income statement and cash flow measures: The reported operating lease cost is allocated to interest and depreciation expenses. EBITDA is increased by adding back the interest and depreciation expenses. EBIT is increased by adding back the interest expense. CFO is increased by adding back the depreciation expense (which we use as a proxy for the capital repayment portion of the lease). FFO is decreased by the operating lease interest expense (as a proxy for cash interest).
+3. Interest expense: The interest expense is increased by multiplying the average operating lease obligation for the current and previous year by the reported weighted average operating lease discount rate.
+4. Depreciation expense: The depreciation expense is increased by the difference between the reported operating lease cost and the calculated interest expense.
+
+104. For companies that have not yet adopted or do not report under the above lease accounting standards:
+
+
+
+1. Debt: For operating leases, we add the present value of future lease payments to debt, calculated using a 7% discount rate. Since minimum lease payments beyond the fifth year are regularly disclosed in aggregate as "thereafter," our methodology assumes that annual payments beyond the fifth year equal the payment amount in year five, and that the number of years in the "thereafter" period equals the "thereafter" amount divided by the fifth-year amount, rounded to the nearest year. This assumption is capped at a total payment profile of 30 years.
+2. Debt: For finance leases, if they are not already included in reported debt, we add reported finance lease obligations to debt.
+3. Total assets: We add the amount of operating leases we reclassify as debt to total assets to approximate the depreciated asset cost.
+4. Income statement and cash flow measures: The lease-related expense is allocated to interest and depreciation expenses. EBITDA is increased by adding back the interest and depreciation expenses. EBIT is increased by adding back the interest expense. CFO is increased by adding back the depreciation expense (which we use as a proxy for the capital repayment portion of the lease). FFO is decreased by the operating lease interest expense (as a proxy for cash interest).
+5. Interest expense: The interest expense is increased by the product of the 7% discount rate multiplied by the average net present value of the lease payments for the current and previous year.
+
+
+#### Postretirement employee benefits and deferred compensation
+
+105. Adjustments to debtWe include underfunded defined-benefit obligations for retirees, including pensions and health care coverage (collectively, PRB) in our measure of adjusted debt because they represent financial obligations that must be paid over time. Our calculation of PRB includes other forms of deferred compensation like retiree lump-sum payment schemes and long-service awards, but not defined-contribution obligations.
+
+106. To calculate the amount we add to debt, we aggregate all retiree benefit plan assets and liabilities for pension, health, and other obligations and net the positions of a company's plans in surplus against those that are in deficit on an after-tax basis. Adjusted debt is not reduced if there are net surpluses.
+
+107. We tax-effect our PRB adjustment amounts (that is, give credit for associated future tax benefits), unless the related tax benefits have already been, or are unlikely to be, realized. We use the tax rates applicable to the company's plans (e.g. reported deferred tax asset) or the current or future expected corporate rate. We do not tax-effect the adjustment amounts if we consider a company's ability to generate taxable profits uncertain.
+
+108. Adjustments to the income statementUnder IFRS, the period's current service cost--reflecting the present value of future benefits employees earned for services rendered during the period--is the sole item we keep as part of operating expenses. We view the interest expense as a finance charge and reclassify it as such if reported differently. We do not adjust the pension expense under U.S. GAAP because current service costs are already the sole item in reported operating expenses.
+
+109. Under U.S. GAAP, in addition to interest expense, the expected return on plan assets is also separately disclosed and represents the company's subjective, long-range expectation about investment portfolio returns. We use the reported interest expense and expected return on plan assets to arrive at PRB interest. This concept of expected return has been abandoned under IFRS, which calculates a net interest figure by multiplying the deficit (or surplus) on the PRB by the discount rate.
+
+110. Under both U.S. GAAP and IFRS, these measures of PRB interest, if a net expense, are added to reported interest. No adjustment is made if net interest is a net income item.
+
+111. Data requirements:For adjustments to income statement:
+
+
+
+1. Service cost;
+2. Interest cost;
+3. Expected return on pension plan assets, if applicable;
+4. Other amounts included in earnings (such as actuarial gains or losses, prior service costs, special benefits, settlements, and curtailments of benefits); and
+5. Total benefit costs.
+
+112. For adjustments to balance sheet items:
+
+
+
+1. Deferred tax assets related to PRB (or the tax rate applicable to related costs);
+2. Fair value of plan assets; and
+3. Total plan liabilities.
+
+113. Calculations: For adjustments to income statement:
+
+
+
+1. Operating income: Add to EBIT and EBITDA the total amount of PRB costs charged to operating income, less the current service cost for companies that do not report under U.S. GAAP.
+2. Interest: PRB interest is the net interest cost as reported by companies under IFRS, or interest expense less expected return on plan assets for companies under U.S. GAAP. If PRB interest is a cost, we include it in adjusted interest expense (we do not reduce interest expense if PRB interest is an income item).
+
+114. For adjustments to balance sheet items:
+
+
+
+1. Debt: The net balance sheet asset or liability position (or funded status) is calculated as the balance sheet PRB assets minus PRB liabilities. If the funded status is positive, debt is not adjusted. If the funded status is negative, this amount is tax-effected and added to debt.
+2. In some jurisdictions, the tax benefit is realized before funding the deficit or paying benefits, for example, when the liability is accrued for tax purposes. In such cases, the expected tax benefit only includes tax benefits that have not yet been received.
+
+
+#### Asset-retirement obligations
+
+115. Asset retirement obligations (AROs) or decommissioning liabilities are legal obligations associated with a company's retirement of tangible long-term assets. Examples of AROs include the cost of plugging and dismantling oil and gas wells, decommissioning nuclear power plants, treating or storing spent nuclear fuel, and capping and restoring mining and waste disposal sites.
+
+116. We add AROs to debt after deducting any dedicated retirement fund assets or provisions, salvage value, and anticipated tax benefits. We use the tax rates applicable to the ARO (e.g. reported deferred tax asset) or the current corporate rate to calculate the anticipated tax benefits.
+
+117. We generally use the reported ARO figures, but we may make adjustments if we believe any of the company's assumptions are unrealistic. Those assumptions may include the ultimate cost of abandoning an asset, the timing of asset retirement, and the discount rate used to calculate the balance sheet value.
+
+118. In certain situations, companies fund AROs by adding a surcharge to customer prices, or the AROs will be paid by third parties such as a state-related body. In these cases there would typically be no debt adjustment.
+
+119. The reported accretion of an ARO is akin to noncash interest and similar to PRB interest charges. Accordingly, we reclassify the accretion (net of reported earnings on any dedicated ARO funds) as interest expense.
+
+Data requirements:
+
+
+
+1. The ARO figure (from the financial statements or our estimate).
+2. Any associated assets set aside for AROs.
+3. ARO interest costs (and whether charged to operating or financing costs).
+4. The reported gain or loss on assets set aside for funding AROs.
+
+Calculations:
+
+
+
+1. Debt: Add net ARO to debt (net ARO is the reported or estimated ARO less any assets set aside to fund AROs, multiplied by 1 minus the corporate tax rate or less the reported deferred tax asset).
+2. EBITDA and FFO: Add ARO interest costs included in operating costs.
+3. Interest expense: Deduct ARO interest costs (net of ARO fund earnings) from reported operating expenses, if included there, and add to interest expense.
+
+
+#### Capitalized development costs
+
+120. We deduct from EBITDA, FFO, and CFO the amount of development costs capitalized during the year. However, where not available, we may use the related annual amortization reported in the financial statements as a proxy for the current year's development costs. We adjust EBIT for the difference between the capitalized development costs and the amortization.
+
+121. In the statement of cash flows, we reclassify capitalized development costs from investing to operating cash flow, reducing operating cash flow and capital expenditures so that free cash flow remains unchanged.
+
+122. Software development costs:While U.S. GAAP generally treats development costs as an expense, it has specific exceptions that allow the expenses to be capitalized, which is similar to IFRS. These exceptions include both software developed for internal use and software developed for sale to third parties. For companies that develop software primarily to sell to external parties, we use the technology software and services industry sector-specific adjustment to determine how to treat capitalized software development costs. For companies with a business model that typically does not involve selling software to external third parties, we generally assume that all capitalized software development costs are for internal use, unless we have specific information leading us to believe otherwise. As a result, for these companies, we do not adjust for these costs in EBITDA and FFO. We do this for comparability between those companies that develop software for internal use and those that purchase software and equivalent products and capitalize them.
+
+Data requirements:
+
+
+
+1. Amount of development costs incurred and capitalized during the period, excluding, if practical, capitalized development costs for internal-use software.
+2. Amortization amount for relevant capitalized costs.
+
+Calculations:
+
+
+
+1. EBITDA, FFO, and CFO: Subtract the amount of capitalized development costs, or, the amortization amount for that period.
+2. EBIT: Subtract (or add) the difference between the spending and amortization in the period.
+3. Capital expenditures: Subtract the amount capitalized in the period.
+
+
+#### Securitization, sale, and factoring of receivables and other assets
+
+123. We typically adjust debt for securitization, sale and factoring of receivables and other assets (collectively called securitizations), reflecting our view that many assets securitized, sold, or factored (such as trade receivables) are regenerated in the ordinary course of business and need to be financed on an ongoing basis. That is, the assets and trading relationships these assets represent are an integral part of a company's operations. If a company has a recurring need to finance similar assets, we do not presume it will have permanent access to the securitization market, and it may have to meet future funding needs by other means.
+
+124. In certain cases, we may not treat securitizations as a financing. For example, we may not make a debt adjustment when the securitized assets are not regenerated in the ordinary course of business and when we view the securitization as equivalent to an asset sale, for example in the securitization of a tax asset. We view such securitizations as equivalent to an asset sale, for example, if the company retains none of the risk and is not considered likely to support the transaction through moral recourse (this refers to the likelihood that a company will support a securitization even though it's not legally obliged to do so) and there are no contingent or indirect liabilities resulting from the transaction.
+
+125. Under U.S. GAAP and IFRS, companies report cash inflows or outflows related to working capital assets or liabilities, or finance receivables, as operating cash flows. Consequently, securitizations of assets such as receivables affect CFO and the effect may be particularly significant in reporting periods when the securitizations are initiated or mature. When we adjust debt for a securitization, we also adjust CFO to reverse the impact of any cash flows related to the securitization.
+
+126. In some transactions, companies receive a beneficial (or retained) interest in the securitized assets in addition to cash upon the sale of the assets. Any future cash the company receives for beneficial interests is presented as an investment cash flow under U.S. GAAP. Other accounting regimes treat these receipts as an operating cash flow. For consistency, we typically add the cash received for beneficial interests to operating cash flows for U.S. GAAP companies.
+
+Data requirements:
+
+
+
+1. The period-end amount of trade receivables sold or securitized, as well as all other securitized assets that are not reported on the balance sheet and require adjustments according to our criteria.
+
+Calculations:
+
+
+
+1. Assets: Add the amount of period-end trade receivables sold or securitized (that is, the uncollected receivables as of the balance-sheet date) to reported receivables. While the assets securitized are most often receivables, we may also add the securitizations of other assets to total assets.
+2. Debt: Add the amount of period-end securitized assets to reported debt.
+3. CFO: Reverse the impact of cash flow movements from the initiation of a securitization, subsequent changes in amounts securitized, or the securitization's maturity. Rolling over an existing securitization requires no cash flow adjustment. Where beneficial interests are reported as an investing cash flow (U.S. GAAP), we reclassify them as operating cash flows.
+
+
+#### Hybrid capital instruments
+
+127. We make adjustments for hybrid capital instruments based on our determination of their equity content:
+
+
+
+1. Hybrids that have high equity content are excluded from adjusted debt and the interest or dividends are treated as dividends.
+2. For hybrids with intermediate equity content, 50% of the principal is treated as debt and 50% is excluded from adjusted debt (excluding unpaid accrued interest or dividends, which are added to debt). Similarly, we treat one-half of the period's interest or dividends as dividends and one-half as interest. There is no adjustment to related taxes.
+3. Hybrids with no equity content are treated as debt and all interest or dividends are treated as interest.
+
+128. The nominal value of hybrid instruments eligible to achieve intermediate or high equity content is typically limited to a percentage of a corporate issuer's capitalization (the application of this is described in our hybrid capital criteria). For example, assuming a 15% limit, if we calculate capitalization to be €1 billion, then hybrid instruments with a nominal value of up to €150 million could be eligible to achieve intermediate equity content, meaning we could deduct €75 million from debt (assuming they were originally reported as debt).
+
+129. We define capitalization as follows:
+
+**Table 6**
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>BALANCE SHEET ADJUSTED EQUITY (EXCLUDING HYBRID)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Adjusted debt (before hybrid adjustment)
+   </td>
+  </tr>
+  <tr>
+   <td>+
+   </td>
+   <td>Hybrids, as reported
+   </td>
+  </tr>
+  <tr>
+   <td>-
+   </td>
+   <td>Goodwill greater than 10% of total adjusted assets (before goodwill adjustment)
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>CAPITALIZATION</strong>
+   </td>
+  </tr>
+</table>
+
+
+130. To calculate the percentage described above, the numerator excludes bonds that are mandatorily convertible into shares but includes hybrids to which we assign no equity content. Both amounts are included in the value of capitalization.
+
+131. In all cases, deferred cumulative interest or dividend payments are included in adjusted debt.
+
+Data requirements:
+
+
+
+1. Amount of hybrids, debt, goodwill, and shareholders' equity on the balance sheet.
+2. Amount of associated interest or dividend expense and interest or dividend payments in the period.
+3. Amount of accrued unpaid interest or dividends.
+4. Total adjusted assets (reported total assets plus or minus applicable adjustments).
+
+Calculations:
+
+
+
+1. Hybrids reported as equity: (1) If we classify equity content as high, there is no adjustment to equity. (2) If we classify equity content as intermediate, we deduct 50% of the value from equity and add it to debt. We deduct 50% of the dividend accrued during the accounting period and add it to interest expense. We deduct 50% of the dividend payment in the period from FFO and CFO. (3) If we assign no equity content, we deduct the full principal amount from equity and add it to debt. We add associated dividends to interest expense. We deduct dividends paid from FFO and CFO.
+2. Hybrids reported as debt: (1) We deduct the value of hybrids with high equity content from debt and add it to equity. We deduct the associated interest charge from interest expense and add it to dividends. We add back the associated interest payment to FFO and CFO. (2) If we classify equity content as intermediate, we deduct 50% of its value from debt and add it to equity. We also deduct 50% of the associated interest charge from interest expense and add it to dividends accrued. We add 50% of the dividend payment in the period to FFO and CFO. (3) If we assign no equity content there is no adjustment because we treat such hybrids as debt.
+
+
+#### Capitalized interest
+
+132. In the statement of cash flows, we reclassify any capitalized interest shown as an investing cash flow to operating cash flow. This adjustment reduces CFO and capital expenditures by the amount of interest capitalized in the period. FOCF remains unchanged.
+
+Data requirements:
+
+
+
+1. The amount of capitalized interest during the period.
+
+Calculations:
+
+
+
+1. Interest expense: Add amount of interest capitalized during the period.
+2. FFO, CFO, and capital expenditures: Subtract the amount of capitalized interest recorded as an investing cash flow.
+
+
+#### Financial guarantees
+
+133. We may not add the full guaranteed amount to debt if, should the guarantee be called, the net amount payable would be lower than the guaranteed amount. This could happen, for example, if the company that has provided the guarantee has been counter-guaranteed by another party, that we view as sufficiently creditworthy. In this case, we add the lower amount to debt.
+
+Data requirements:
+
+
+
+1. The value of financial guarantees on and off the balance sheet, net of any tax benefit.
+
+Calculations:
+
+
+
+1. Debt: Add to debt the amount of on- and off-balance-sheet debt equivalent related to financial guarantees, net of any tax benefit.
+
+
+#### Earn outs and deferred consideration for business acquisitions
+
+134. We treat as debt contingent and deferred consideration that is payable in cash, and consideration to be settled in shares that does not qualify as equity. The most common example of the latter is a contract to be settled with a variable number of shares. Companies typically record such arrangements, initially as a liability at fair value and then subsequently mark them to market at the end of each accounting period through charges or credits to income until settled. We add to debt the reported value of the liability-classified contingent consideration on each reporting date, understanding that it is not at amortized cost.
+
+135. Contingent arrangements that require continued employment are technically not part of the consideration paid for the acquisition under U.S. GAAP and IFRS. Rather, these transactions represent remuneration for services after the acquisition. As such, the company does not record the transaction as a liability or expense until the services are performed. We also view such arrangements as payment for services and generally make no analytical adjustments.
+
+136. We exclude the unrealized fair value changes of contingent consideration from EBITDA. In the rare cases where cash settlements are reported in CFO, we remove the outflow because we consider it an investing activity (the acquisition of businesses).
+
+Data requirements:
+
+
+
+1. The carrying value of deferred consideration or liability-classified contingent consideration on the balance sheet date.
+2. Charges or credits included in reported EBITDA.
+3. Cash paid for or received from the settlement of contingent consideration reported in cash flows from operating activities.
+
+Calculations:
+
+
+
+1. Debt: Add to debt, if not already reported as such, the carrying amount of deferred consideration at amortized cost, as well as any liability-classified contingent consideration reported at fair value.
+2. EBITDA: If charges or credits from the change in fair value of contingent consideration are included in reported EBITDA, add them back to or subtract them from EBITDA.
+3. CFO: In the rare cases where cash settlements are reported in CFO, remove the outflow.
+
+137. Captive finance operations comprise certain activities that we consider non-industrial, such as:
+
+
+
+1. Financing through loans, operating leases, or finance leases;
+2. Rental products under short-term or long-term contracts;
+3. Sale of previously leased products; and
+4. Financial services activities that generate fee and commission income, such as brokerage and insurance services.
+
+138. If the captive finance operations are considered material as defined in our criteria(see "**[Methodology: The Impact Of Captive Finance Operations On Nonfinancial Corporate Issuers](https://www.capitaliq.com/CIQDotNet/CreditResearch/SPResearch.aspx?articleId=&ArtObjectId=9449566&ArtRevId=1&sid=&sind=A&)**"), we deconsolidate the captive financials from the consolidated accounts using the adjustment procedures detailed below. Otherwise, we do not apply these adjustments and we use the consolidated financials for our analysis.
+
+
+#### Adjustment Procedure
+
+139. The objective of our adjustment procedure is to enable meaningful analysis of the issuer's industrial operations by deconsolidating the captive's financials.
+
+140. Captive finance operations are typically structured as legal entities that are controlled by the issuer. Consequently, these are included in the issuer's financial statements by way of full consolidation. Most consolidated financial statements include segment reporting under both U.S. GAAP and IFRS. Captive finance operations are typically disclosed as discrete segments, which may allow the extraction of necessary data at a consolidated level. In many jurisdictions, the captive may also file separate financial statements for legal, regulatory, or tax reasons. Sometimes such separate financial statements are the only available information source. When both segment reporting and separate financial statements are available, the latter may provide additional information and assist us in fine-tuning our adjustments.
+
+141. In order to achieve comparability among issuers, we may further adjust figures provided in the segment or the captive's reporting in order to conform to our definition of captive finance operations. Furthermore, we may make additional adjustments with the aim of reflecting the impact of any intercompany/intersegment transactions that the captive finance operations have with other parts of the issuer.
+
+142. Our analytical adjustments can be based on different information sources that we apply in the following order:
+
+
+
+1. We use reported figures when they are available and enable us to make adjustments according to our definition of captive finance activities;
+2. If reported figures are incomplete, we estimate some of the necessary items to determine the captive finance operations' financial metrics;
+3. If we lack reported or issuer-provided information and need to estimate the majority of the financial metrics of the captive finance operations, we use consolidated financials to determine the industrial's FRP.
+
+143. In some circumstances, captive finance operations are structured either as joint ventures or associated affiliates. In those cases, the captive is included in the consolidated accounts via the equity method of accounting. The adjustment procedure described below may not be applicable for equity-accounted affiliates, but we may still make certain adjustments on a case-by-case basis.
+
+144. We typically do not consider dividend flows between fully consolidated captive finance operations and the industrial operations in calculating the industrial's adjusted cash flow metrics. For issuers with captives that are equity accounted, we exclude earnings and dividends related to the captives from the industrial's adjusted earnings and cashflow metrics.
+
+145. When calculating our consolidated debt to capital ratio, we do not net the captive's cash and liquid investments from debt, except in rare cases, where we have evidence that they are available for debt repayment.
+
+Data requirements:
+
+
+
+1. Reported assets related to captive finance operations.
+2. Reported debt related to captive finance operations.
+3. Reported equity related to captive finance operations.
+4. Reported revenue from captive finance operations.
+5. Reported captive finance operations' interest income.
+6. Reported captive finance operations' EBIT or EBITDA.
+7. Reported captive finance operations' operating expenses.
+8. Reported captive finance operations' depreciation and amortization (D&A) and non-current asset impairments.
+9. Reported captive finance operations' interest expense.
+10. Reported captive finance operations' interest paid.
+11. Reported captive finance operations' cash tax paid.
+12. Reported captive finance operations' cash flows from operations.
+13. Reported captive finance operations' capital expenditure.
+14. Reported captive finance operations' cash and liquid investments.
+
+Calculations:
+
+
+
+1. Assets related to captive finance operations: We determine captive finance assets as the sum of net earning assets (as defined in the Glossary of our captive finance criteria) and any other assets related to captive finance operations, if material. If some captive finance assets are not reported in the captive's financials, we may nonetheless include such assets or use consolidated figures. We typically adjust the captive's financials to include managed off-balance-sheet assets relating to securitizations within the captive's asset portfolio--and the securitized debt is also added to the captive's debt.
+2. Debt related to captive finance operations: We use debt as defined in our Ratios And Adjustments criteria, but without netting the captive's cash and liquid investments. Our debt includes reported financial debt, and the debt equivalent of securitized assets and hybrid securities. Intercompany debt on the captive's books is generally included in our definition of captive debt as long as the issuer has originated the intercompany debt from third parties. In cases where the industrial has no reported debt and it lends to its captive, we would exclude the intercompany debt from the captive's debt. Equally, intercompany debt on the industrial's books is included in our industrial debt if the captive lends to the industrial and has originated the intercompany debt from third parties. We cap the captive's debt at the adjusted consolidated debt level.
+3. Captive debt estimation: If the debt figure is not available (from reported figures or management), we estimate the captive's debt based on the captive's assets and an appropriate debt-to-equity ratio. We determine the appropriate debt-to-equity ratio using Table 2 of the captive finance criteria. First, we select the leverage range for a medium captive risk ALR corresponding to the captive's final portfolio quality assessment. Then, we generally select the midpoint of that leverage range as the debt-to-equity ratio unless we believe the high or low end of the range is more appropriate, based on the relative strength or weakness of the portfolio quality within the assessment category. This may be informed by the severity of historical losses and the expected future changes in the quality of the portfolio.
+4. Equity related to captive finance operations: We use the captive 's equity including any non-controlling interest if the captive is not fully owned.
+5. Captive equity estimation: If the captive's equity is not available (from reported figures or management), we estimate notional equity by subtracting captive debt from captive assets.
+6. Revenues and other income from captive finance operations: We define captive revenues and other income as the sum of interest income, revenue from loans and finance leases, revenue from operating lease instalments, revenue from sale/re-marketing of (or net gain from) used products linked to leases or other financial services, and revenue/income from other activities listed in our definition of captive finance activities, if material. If the reported figures are not available from reported figures or management, we estimate the captive revenues by multiplying the average captive finance net earning asset (average of opening and closing assets as defined above) by an appropriate revenue factor. For loans and finance leases we use the captive's interest expense plus an appropriate margin. If the issuer reports interest income and expense on a net basis, we make the appropriate adjustments to reflect this. For estimating operating lease revenue, we apply an appropriate factor to the operating lease assets that reflects the applicable interest rate, lease term, and economic life of the assets, and any other key inputs. We typically estimate revenue from the sale/re-marketing of used products as an appropriate percentage of start-of-period operating lease assets.
+7. Operating expenses (including cost of sales) related to captive finance operations: We define captive operating expenses as the sum of the interest expense associated with captive finance operations, the cost of risk, depreciation, amortization, and net impairments on leased and other assets (associated with the captive finance operations), the cost of (or net loss from) used products linked to leases and other financial services that are sold/re-marketed, net inventory valuation gains or losses on used assets held for sale/re-marketing, and the captive's selling, general, and administrative (SG&A) expenses. We also include other costs such as cost of insurance, fees and commissions, etc., to the extent linked to the activities described in our definition of captive finance operations. In contrast, we consider costs incurred for residual value and interest rate support (as defined in the Glossary of our captive finance criteria) as industrial expense. If the reported figure is not available from reported figures or management, we estimate captive SG&A by using the recurring level of absolute SG&A expense that is characteristic of the captive's business model, or an appropriate percentage of sales. If the cost or net gain or loss from sale/re-marketing of used products is not available, we typically assume the cost to equal remarketing revenue, or equivalently, the net gain or loss to be zero.
+8. Depreciation and amortization (D&A) and impairments related to captive finance operations: The captive's D&A and impairment may be significant when the captive acts as operating lessor and therefore holds significant nonfinancial assets on its balance sheet. In those cases, if the reported figure is not available, we estimate D&A by multiplying the average nonfinancial asset value (average of opening and closing assets) by an appropriate D&A rate that represents the useful lives of the leased assets. We do not estimate impairment charges. We add D&A on other non-earning assets if the reported figure is available. For the avoidance of doubt, even if leased asset depreciation, amortization and impairment are disclosed within industrial operations, we treat such D&A and impairment as captive finance-related expense according to our definition of captive finance operations above.
+9. EBITDA from captive finance operations: Captive finance revenue less captive finance operating expenses, plus captive finance D&A and non-current asset impairment.
+10. EBIT from captive finance operations: Captive finance revenue minus captive finance operating expenses. We then include the captive's share of equity earnings of associates and joint ventures, and other recurring, non-operating items.
+11. Interest expense related to captive finance operations: If the reported figure is not available, we calculate the captive 's interest expense by applying an appropriate interest rate to the average of the opening and closing captive debt. We typically use the average funding cost of the issuer, unless we have reasons to believe, based on our discussions with the issuer, that a different interest rate is more appropriate.
+12. Captive interest paid: If the reported figure is not available from reported figures or management, we would use the captive finance operation's interest expense as determined above.
+13. Cash tax paid related to captive finance operations: If the figure is not available from reported figures or management, we calculate the captive's cash tax paid by applying an appropriate tax rate to the captive's profit before taxes. The tax rate reflects the rate applicable for the captive finance operations. This tax rate may not be the same as the issuer's tax rate, for example if the captive finance operations are in different tax jurisdictions.
+14. Cash flow from operations related to captive finance operations: If the reported figure is not available from reported figures or management, or does not correspond to our definition of captive finance activities, we estimate this figure in line with the definition of cash flows in our Ratios And Adjustments criteria. We estimate cash flows as follows: EBITDA related to captive finance operations, less captive cash tax and interest paid (to the extent cash interest differs from interest expense included in captive finance EBITDA), less working capital movements. Working capital movements include the net change in finance lease and loan receivables (difference of originations and principal repayments) and operating lease assets (difference of additions to lease assets and value of lease assets transferred to inventory or sold).
+
+
+### APPENDIX 2: SITUATIONAL ADJUSTMENTS
+
+146. Some examples of situational adjustments are:
+
+
+
+1. Accounting distortions: In rare circumstances, we may make adjustments to exclude from our financial measures transactions that we view as accounting distortions. An example would be an adjustment to EBITDA to remove the change in a litigation provision that leads to a material gain or loss in the year.
+2. Purchase price allocation: Under IFRS and U.S. GAAP, when there is a business combination (e.g. a parent company acquires a subsidiary), all assets acquired and liabilities assumed are recorded at fair value. For some items, the step-up in value flows through the income statement and may distort EBITDA. If such a distortion is material and the information is disclosed, we may reverse the effect on EBITDA, for example the expensed fair value step-up to inventory following a business combination.
+3. Litigation and other contingent claims or liabilities: When we adjust for these liabilities, we add the estimated or actual amount of the exposure (net of any applicable tax deduction) to reported debt.
+4. Workers' compensation and self-insurance liabilities: When we adjust for these liabilities, we add the amount recognized for workers' compensation obligations (net of tax) or the net amount recognized for self-insurance claims (net of tax) to debt.
+5. Multi-employer pension plans: Some companies in the U.S. and the Europe, Middle East, and Africa region participate in multi-employer, defined-benefit pension plans on their employees' behalf. If the liability associated with a funding deficit on multi-employer pension plans is material and it is practicable to do so, we may treat the liability as debt, as we do with deficits on single-employer defined-benefit, postretirement obligations. When we make the adjustment, we obtain an estimate of the share of funding deficit or the withdrawal liability for each plan in which a company participates, and we add the estimated amount for all plans, net of tax, to debt.
+6. Initial measurement of debt: We subscribe to amortized cost as the preferred method of measuring debt after debt is issued. However, in certain circumstances, we may take an alternative view toward a company's initial measurement, and therefore ongoing measurement, of a particular debt instrument. Companies usually initially measure debt at an amount equal to the net proceeds received at issuance. However, there are other methods of initial measurement of debt that we believe can, in certain instances, distort the initial and ongoing carrying value of debt. This may include the methods applied to debt assumed in an acquisition, or debt that has been modified or is part of a distressed exchange. When our judgment about the initial measurement (and therefore ongoing measurement) of a debt instrument differs from a company's, we may adjust debt and interest expense if practical and the effect is material.
+7. Debt at fair value: In certain circumstances, a company may report debt at fair value instead of at amortized cost. When a company reports debt at fair value instead of at amortized cost, we adjust the reported figure to reflect the amortized cost method. If the amortized cost figure is not shown in the financial statements, we may estimate it, based on the amount originally received or the face value plus accrued but unpaid interest.
+8. Foreign currency hedges of debt principal: We retranslate foreign currency-denominated debt using the foreign exchange rate locked in by the hedge (or adjust the balance sheet value of debt to equal the hedged principal value). Alternatively, if the prior items are not disclosed, we may add to or subtract from reported debt the fair value of the hedging instrument on the balance-sheet date.
+9. Adjustment to debt for the deemed repatriation liability under the 2017 revised U.S. corporate tax code: Under the adjusted debt principle, items that we add to reported debt include incurred liabilities that provide no future offsetting operating benefit. The deemed repatriation liability that the 2017 revised U.S. corporate tax code creates for U.S. corporate issuers is such a liability, in our view. We will therefore typically include this liability, where material, in our adjusted debt. Under the tax law, companies that are subject to the repatriation liability may pay it in one lump sum or spread it out over eight years. If an issuer chooses to pay the liability over time, we typically add to debt the liability's net present value (NPV). To enhance consistency and comparability with other adjustments we make to debt, we typically use a discount rate of 7% when calculating the NPV.
+
+
+### APPENDIX 3: SECTOR-SPECIFIC ADJUSTMENTS
+
+147. We use our sector-specific adjustments to reflect the impact of unique industry characteristics on a company's adjusted financial metrics. These sector-specific adjustments are consistent with our four adjustment principles, and are routine adjustments, unless specifically indicated below as situational.
+
+
+#### Sector-specific adjustments
+
+
+
+1. Aerospace and defense
+2. Agribusiness and commodity foods
+3. Agricultural cooperatives
+4. Branded nondurables
+5. Commodity trading
+6. Financial market infrastructures
+7. Forest and paper products
+8. Homebuilders and real estate developers
+9. Hotels and lodging
+10. Media and entertainment
+11. Metals and mining upstream
+12. Oil and gas exploration and production
+13. Oil refining and marketing
+14. Oilfield services and equipment
+15. Operating leasing
+16. Real estate (REITs)
+17. Regulated utilities
+18. Retail and restaurants (auto retailers)
+19. Technology software and services
+20. Telecommunications and cable
+21. Transportation cyclical (airlines, shipping, and trucking)
+22. Transportation infrastructure
+
+
+#### Aerospace and defense
+
+148. PRB costs recovery under government contractsCosts for PRBs (both pensions and others such as health insurance) are allowable costs under some U.S. government contracts (including the U.S. Foreign Military Sales program). Therefore, defense contractors, as well as their subcontractors (including firms based outside the U.S.), can generally recover these costs through pricing in their U.S government contracts, with some limitations and calculation/timing differences. We reduce the PRB liability for the ability to recover these costs. We could also apply this adjustment to government contracts in other countries where a similar mechanism exists.
+
+149. Defense contracts come in two general types: fixed price, where the contractor provides a product or service for an agreed price and is responsible for any cost overruns, and cost-plus, where the contractor is reimbursed for all of its allowable costs (sometimes with a limit) plus a fee.
+
+150. We believe defense contractors should be able to recover all of their PRB costs under cost-plus contracts over time. However, we estimate that under fixed-price contracts the contractor would only be able to recover increased costs when a new contract is awarded. Competitive pressures may make it difficult for the contractor to add the full costs to the new contract. Therefore, we estimate only 50% of these costs can be recovered under fixed-price contracts over time.
+
+151. The data needed to make the adjustment are:
+
+
+
+1. Percentage of revenues derived from U.S. government contracts (A)
+2. Percentage of contracts that are fixed price (B) and cost plus (C)
+
+152. We reduce our standard adjustments to debt for PRBs by the following percentage:
+
+A x [(B x 50%) + (C)]
+
+
+#### Agribusiness and commodity foods
+
+153. Biological assets:Under some accounting regimes, agricultural assets may be marked to market on the balance sheet with the fair value gains and losses recognized in the profit and loss statements. In these instances, we typically exclude these non-cash gains and losses from our measures of EBITDA and EBIT, and make adjustments as necessary.
+
+154. Adjusted readily marketable inventories (ARMI):For agribusiness and commodity food companies with significant commodity trading activities (defined as representing more than 10% of expected normalized EBIT, EBITDA, or gross margin), we apply the same adjustments for readily marketable inventories as we do for commodities traders to reflect the highly liquid nature of certain physical commodity trading inventory. (See the Commodities Trading section for more details on ARMI.) As such, for these companies we deduct ARMI from our adjusted debt figures, even for agribusiness companies with significant trading operations that have a weak or vulnerable business risk profile assessment.
+
+
+#### Agricultural cooperatives
+
+155. We make the same adjustments for ARMI and biological assets as in the agribusiness and commodity foods section.
+
+156. Marketing cooperative cost of sales and member payment adjustments:Marketing cooperatives may account for the cost of the commodity input they are marketing in a variety of ways, depending on the marketed commodity and accounting standards applied. Therefore, to increase comparability, in certain circumstances we adjust the reported cost of goods sold. This includes:
+
+
+
+1. Cooperatives where the assigned value of sold inventory is deemed to be significantly different than market value.
+2. Cooperatives that do not assign a value to inputs received from patrons.
+3. Cooperatives that measure their inventory using the net realizable value method.
+
+157. Agricultural marketing cooperatives often operate on what is known as a pooling basis. This is where a marketing cooperative receives its members' agricultural products without obligation to pay a fixed price and commingles those products for processing and marketing purposes. The ability of marketing cooperatives operating on a pooling basis to determine appropriate transfer prices of product deliveries from patrons varies, and this can affect their accounting and financial reporting. Sometimes there is a good basis for recording product transfers between patrons and the cooperative. For example, dairy cooperatives often record product transfers using market order prices. They will assign values to the product received and therefore their inventory and resulting cost of goods sold reflects these assigned values. These assigned values generally represent market value and, therefore, do not require adjustment; however, we may make adjustments (either increases or decreases) to these cooperatives' cost of goods sold where we believe there is a significant difference between the assigned values and market value.
+
+158. Other cooperatives have difficulty in determining the market prices of patrons' products when they receive them because of limited cash purchases by other processors and therefore limited market price data. They are usually cooperatives that process and market a high percentage of limited specialty crops. Because amounts that approximate estimated market value are not assigned to products received from patrons, cost of goods sold does not include a charge for the value of the input (i.e., earnings are inflated relative to other cooperatives and companies that recognize a cost related to their input). In these cases, we estimate the input cost of the sold inventory based on market prices or the cost to produce the inventory, and add that estimate to cost of sales (i.e., thereby reducing EBITDA, FFO, and EBIT). In such cases, we would consider any remaining difference between the cooperative's reported member distributions and our cost of sale estimate as a dividend distribution.
+
+159. Lastly, under U.S. GAAP, cooperatives may account for their inventory at net realizable value (as opposed to the lower of cost or market prices, which we prefer). Under this method, a cooperative values its inventory at estimated selling prices less reasonably predictable costs of completion, disposal, and transportation. Changes in the net realizable value of the inventory are recorded in cost of goods sold. We make analytical adjustments to cost of goods sold to reverse these gains or losses as they relate to unsold inventory.
+
+Data requirements:
+
+
+
+1. An estimate of the input cost of the delivered inventory, primarily by either estimating the unit cost from other comparable sales transactions of the commodity and multiplying by the number of units sold, or by estimating the cost to produce the commodity.
+2. The amount of net realizable value adjustments reported in cost of sales in the period.
+
+160. Calculations:To determine cost of sales:
+
+
+
+1. For cooperatives where the assigned value of sold inventory is deemed to be significantly different than market value, we add to or subtract from cost of sales the difference between market value and the assigned value.
+2. For cooperatives that do not assign a value to inputs received from patrons, we add the estimated cost of the commodity inventory to cost of sales.
+3. For cooperatives that measure their inventory using the net realizable value method, we remove from cost of sales the net realizable value gains or losses recorded in the period.
+
+161. To determine the level of dividends:
+
+
+
+1. For cooperatives that do not assign a value to inputs received from patrons and report member distribution payments separately as an operating cash outflow (excluding any additional retained member equity and distributions already reported as financing cash inflows/outflows), we subtract from member distributions reported as operating cash outflows the difference between the reported member distributions and our cost of sales estimate, and add that difference to dividends (i.e., and thereby treat that as a financing cash outflow).
+
+
+#### Branded nondurables
+
+162. Excise taxes:For companies operating in sectors where excise taxes are levied against consumers and collected by the company, including tobacco and alcoholic beverages, we deduct such excise taxes from both revenues and the cost of sales if the company includes them in their reported revenues figure, as we do not consider those tax items as operating revenues or costs.
+
+
+#### Commodities trading
+
+163. In deriving and interpreting a commodities trader's financial measures, it is critical to consider the accounting valuation method for trading assets and liabilities (including both physical positions and derivatives) and the approach to recognizing gains and losses in the income statement. In our experience, virtually all commodities traders report under IFRS or U.S. GAAP and therefore mark-to-market a dominant share of trading-related assets and liabilities, and traders recognize the related gains and losses--realized and unrealized--in earnings on an ongoing basis. We determine a commodities trader's EBIT, EBITDA, and gross margin by including both realized and unrealized trading gains and losses. For a commodities trader, unrealized gains and losses, although non-cash, are an important component of core earnings, and including them in profitability measures provides a more accurate gauge of ongoing financial performance because derivative gains or losses on the physical position tend to be offset by losses or gains on the corresponding derivative transaction.
+
+164. When adjusting a commodities trading company's credit measures for leases and related service contracts, we include commitments related to vessel chartering, storage facilities, and other fixed assets.
+
+165. We do not net accessible cash for commodities traders with weak business positions or less supportive trading risk management and trading risk positions.
+
+166. ARMI:To reflect the highly liquid nature of certain physical commodities trading inventory, we make an additional adjustment for commodities traders in that we deduct ARMI to determine debt and related financial measures (except when calculating the debt-to-debt-plus-equity supplementary ratio). Such netting is made against total debt, not just short-term debt, for all commodities traders (including those with a weak business position or less supportive trading risk management and trading risk position). See the description of core and supplementary ratios in our "**[Commodities Trading Industry Methodology](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/9925346)**," Jan. 19, 2017
+
+167. We include in ARMI the portion of inventory that meets all of the following conditions:
+
+
+
+1. The inventory is either hedged or "pre-sold";
+2. The inventory could realistically be liquidated within 30 days (whatever the ultimate terms of the trading position), and the related hedges could be unwound (we net from the value of the gross trading asset any cash needed to terminate the related hedges);
+3. The inventory liquidation would not harm the business franchise of the commodities trader--for example, where the company serves as the "market-maker" for the commodity in question;
+4. The inventory is not held for processing by the company; rather, we include only inventory that we believe will be used only for trading purposes; and
+5. The proceeds of any inventory liquidation would be accessible for debt repayment, i.e., not trapped in a foreign subsidiary, unless local debt could be serviced.
+
+168. In addition, to account for losses that could result from a rapid liquidation, we apply a haircut to reported inventory values according to our view of the relevant commodity market's volatility. We base the haircut on the commodity risk assessments in table 3 of our commodities trading industry methodology. For category 1 commodities the haircut is 10%, and for category 2 the haircut is 25%.
+
+169. To apply this adjustment, we use a broad breakdown of trading inventory by commodity, generalized information about how much the commodity is hedged or pre-sold, and the duration of related trades.
+
+
+#### Financial market infrastructures
+
+170. Treatment of CPP and CSD balances:Within the financial market infrastructures (FMI) sector, international central securities depositories (ICSDs) typically have large varying amounts of deposits that appear on their balance sheets but are dedicated to client settlement activity and are invested in highly liquid, highly creditworthy instruments rather than being available to support the corporate activity of the ICSD. Similarly, clearinghouse balance sheets substantially consist of client-related assets and liabilities, such as initial margins and the replacement value of some types of unsettled trades.
+
+171. For ICSDs, clearinghouses, and groups that have clearinghouses or ICSDs, we typically do not include clearing or settlement assets or obligations, nor client deposits and related investments (for ICSDs) in our balance sheet measures (for example, in adjusted debt and adjusted assets). "Clearing obligations" typically refer to clearing liabilities that are usually non-debt and may include initial or variation margin postings. "Settlement obligations" typically refer to member deposits lodged at ICSDs. Similarly, we tend to exclude the movement in these assets and liabilities from our cash flow analysis.
+
+172. Accessible cash and liquid investments:Our approach to accessible cash and liquid investments reflects that FMIs tend to be more highly regulated than other corporate sectors, with subsidiaries often subject to regulatory prudential requirements. For example, we treat as trapped cash in regulated subsidiaries that supports minimum capital or other loss absorbency requirements. Where we see cash balances as volatile, we make a prudent assumption of the level of accessible cash that can be relied on. For example, where cash balances are seasonal, we adjust accessible cash if we see period-end reported balances as unrepresentative. Volatility may also arise, for example, if an FMI is exposed to potential losses on unsecured exposures.
+
+
+#### Forest and paper products
+
+173. Valuation of timberlands:Under certain accounting frameworks (such as IFRS) timberlands are carried at fair value and therefore equity reflects the appreciated value of these assets. However, under other accounting regimes (such as U.S. GAAP) timberlands are carried at historical cost. The market value of timberland is often substantially greater than book value, and we believe that book value-based ratios could significantly overstate a timberland company's leverage. To gain comparability between companies that mark their timberlands to market compared with those that carry them at cost, we make adjustments to the equity of those that carry them at cost to evaluate leverage and return on capital.
+
+174. We do not, however, make a corresponding mark-to-market adjustment to EBIT for return on capital. Likewise, any mark-to-market adjustments recorded in the reported results of IFRS reporters are excluded from our measure of EBIT.
+
+175. We estimate the market value of timberlands on a company-specific basis because values vary by region and incorporate third-party appraisals and recent timberland transactions into our estimates when available.
+
+Calculations:
+
+
+
+1. Equity: We add to equity the difference between the estimated market value of timberlands and the corresponding book value.
+
+
+#### Homebuilders and real estate developers
+
+176. Land procurement approaches:We don't adjust debt to reflect land options and purchase commitments even when we view them as inflexible or highly likely to be exercised and honored. This is because, in our financial forecasts--which partly serve as the basis of our assessment of cash flow/leverage and liquidity--we factor in our expectations regarding the cost of land purchases and the related expected financing mix.
+
+177. Impairment charges:Inventory (consisting of houses or buildings under construction, completed houses or buildings that have not been sold, land under development, and land held for future development) is virtually always the largest single asset on a homebuilder's or developer's balance sheet and is usually valued at the lower of cost or market price. In industry downturns, valuing the inventory at market price can lead to large inventory write-down charges in the income statement. Given the unevenness of these charges, we generally add back these charges to our profitability and cash flow proxy measures.
+
+Data requirements:
+
+
+
+1. Write-down charges related to inventory in the period considered to be nonrecurring.
+
+Calculations:
+
+
+
+1. EBITDA, EBIT, and FFO: Add the inventory write-down charges that are considered to be nonrecurring.
+
+178. Revaluation gains and losses:Where companies mark their properties to market on an ongoing basis (as under IFRS), we generally exclude the resulting unrealized revaluation gains and losses from our profitability and cash flow proxy measures. We believe that these unrealized gains and losses, while stemming from operating activities, can distort the company's financial performance metrics. Nonetheless, we do account for the market factors that cause revaluation gains and losses, for example, in determining our forecast assumptions because these can be important indicators of market trends.
+
+Data requirements:
+
+
+
+1. Revaluation gains and losses related to inventory in the period.
+
+Calculations:
+
+
+
+1. EBITDA, EBIT, and FFO: Subtract or add revaluations gains and losses.
+
+179. Capitalized interest:Homebuilders and developers may capitalize cash interest costs to inventory (including property construction in progress) because land acquisition and construction costs are typically capitalized until buildings are built on the lots. The recognition of interest costs in the income statement is therefore deferred until the related inventory is sold. For analytical purposes, similar to our treatment of interest capitalized as part of property, plant, and equipment, we seek to recognize interest costs as an expense in the period when incurred rather than when the inventory is sold and make adjustments to reverse the accounting. In terms of analyzing cash flows, we include all cash paid for interest as an operating cash flow.
+
+Data requirements:
+
+
+
+1. The amount of interest costs capitalized as part of inventory in the period.
+2. The amount of interest costs previously capitalized as part of inventory that was recognized as part of cost of goods sold in the period.
+3. Cash paid for interest costs that is capitalized as part of inventory reported as either investing activities or financing activities.
+
+Calculations:
+
+
+
+1. Interest cost capitalized is subtracted from the cost of goods sold.
+2. EBITDA and EBIT: Add to EBITDA and EBIT the amount of interest that was previously capitalized that was released to cost of goods sold in the period.
+3. Interest expense: Add to interest expense the amount of interest capitalized in the period.
+4. CFO: Subtract from CFO any interest reported as either investing or financing.
+
+180. Unconsolidated affiliates (situational):It is common for developers and sometimes homebuilders to conduct a large portion of their business through partly owned subsidiaries or joint ventures, thereby sharing risks and investments with other owners. These entities are often organized around individual properties or groups of properties and have their own external debt financing. Under current IFRS and U.S. accounting standards, these affiliates are generally accounted for using the equity method if the company's ownership interest is less than 50%. We may reflect contribution from unconsolidated affiliates by adding dividend payments received from those affiliates to EBITDA.
+
+181. Generally, we utilize pro rata consolidation where we view the leverage of equity method affiliates as material. In some cases, equity method accounting can understate the true extent of financial leverage being employed within the broader group from an analytical perspective. In such cases, pro rata consolidation more meaningfully depicts the economic reality, and so often we adjust the financial statements to reflect pro rata debt, earnings, and interest expense, if available. Alternatively, if a company is unlikely to support the debt of an ailing affiliate, the analysis might not include the debt in question in the leverage ratios. At the other extreme, if a company is highly likely to support all the affiliates' obligations our analysis might fully consolidate the affiliate for analytical purposes.
+
+
+#### Hotels and lodging
+
+182. Cost reimbursements:Cost reimbursements are paid by hotel owner-franchisees to the manager or franchisor to cover the costs of centralized programs and services expenditures. These cost reimbursements are designed to have a neutral impact on the economics of the manager or franchisor. The management and franchise agreements obligate the manager or franchisor to spend cost reimbursement revenue on contractually specified centralized programs and services. Cost reimbursement revenues might vary temporarily from the associated reimbursed expenses due to timing differences in the billing and receipt of reimbursements, but over time the cumulative costs and revenues are expected to converge.
+
+183. We view cost reimbursement items to be pass-through in nature, and we therefore adjust for these contractual pass-through items to show the value-added margin that lodging managers and franchisors typically earn from their capital-light business model. We eliminate the impact of reported cost reimbursement revenue and reimbursed expenses from our measures of adjusted revenue, costs, and EBITDA because profit margins and credit measures would otherwise be distorted.
+
+Data requirements:
+
+
+
+1. Cost reimbursement revenues reported on U.S. GAAP or IFRS income statements
+2. Reimbursed expenses reported on U.S. GAAP or IFRS income statements
+
+Calculations:
+
+
+
+1. Subtract cost reimbursement revenue from total revenue to arrive at S&P-adjusted revenue
+2. Subtract reimbursed expenses from operating costs to arrive at S&P-adjusted EBITDA.
+
+
+#### Media and entertainment
+
+184. Program development and acquisition costs:Across multiple media subsectors, program development and acquisition costs (e.g., film producers' programming and film expenditures, educational publishers' program development costs, and local TV broadcasters' program rights) are capitalized and amortized to income using various systematic approaches. However, we view these items as operating and we treat this amortization as a cost of sales (i.e., an operating cost) and therefore include the amortization (and any related write-downs) in EBITDA and FFO. In cases of business combinations, such as a media company acquiring another company with a content library, purchase price accounting creates a step up in the value of the acquired content. If this step-up creates an accounting distortion, we may not include the amortization or expense related to the step up in our calculation of EBITDA and FFO.
+
+185. Consistent with this characterization, we also view the cash paid for these assets to be operating. However, companies classify the cash outflow in the statement of cash flows in a variety of ways. We reclassify any cash outflows related to these capitalized costs reported as investing cash flows and do not include them in our definition of capital expenditures.
+
+Data requirements:
+
+
+
+1. Amount of programming development and acquisition costs incurred and capitalized during the period that are classified as investing cash flows.
+2. Amount of related amortization expense.
+
+Calculations:
+
+
+
+1. Subtract from EBITDA and FFO the relevant amortization expense for the period if it is not already reported as an operating expense.
+2. Subtract from CFO any capitalized program development and acquisition costs classified as an investing cash outflow.
+3. Subtract from capital expenditures any capitalized program development and acquisition costs reported as capital expenditures.
+
+
+#### Metals and mining upstream industry
+
+186. Streaming transactions (situational):A streaming transaction is a feature of the mining industry and is an agreement whereby a commodity producer--for example, a base metals miner that also yields some precious metals byproduct through its mining--sells the right to a share of its future byproduct production at a preset price in exchange for an upfront payment, which becomes a liability of the commodity producer. The upfront payment is recognized as a trade liability because it is related to a future sale, and it often ranks pari passu with other unsecured debt of the operating mine (in some cases, the liability may also benefit from guarantees). The use of funds is sometimes restricted to funding the construction or expansion of the mine from which the byproduct will be delivered, and in some instances the agreement may be subject to completion tests.
+
+187. Such agreements are typically long-dated--in some cases, covering the life of production--and the buyer has the rights to a portion of the output until the agreement terminates. The transaction provides the commodity producer with upfront financing and repayment flexibility because there are no fixed-volume delivery obligations. The streaming agreement also typically allows the commodity producer to retain ownership and control of the producing unit, and secured interests are limited to the agreed-upon share of byproduct reserves and production.
+
+188. We view these transactions as a form of financing, and, therefore, we adjust our debt and related credit measures if the transactions have some combination of the following features:
+
+
+
+1. If they are done in lieu of borrowing;
+2. If they are repayable in cash if they are not satisfied by the product's delivery;
+3. If the counterparty has recourse to the issuer or a guarantor in the case of insolvency;
+4. If repayment can be accelerated upon an event of default; or
+5. If there is high overcollateralization or security to production coverage or some other mechanism that provides greater certainty of repayment.
+
+189. We nevertheless recognize the lower default risk of streaming transactions, given the absence of fixed-volume delivery obligations, as well as significant financial flexibility the transactions can provide to low-rated or start-up mining companies.
+
+190. For financial reporting purposes, issuers generally determine the amortization of the obligation that is recognized as revenue for each period using a units-of-production method. At inception, the company determines a per-unit amortization amount based on the upfront prepayment amount divided by the total units it expects to deliver to the counterparty over the life of the contract. The price per unit delivered varies over time based on changes in the ultimate expected output. As such, revenue, EBITDA, and FFO will include the non-cash amortization, whereas CFO will not.
+
+191. These contracts usually do not contain a stated interest rate, and we have found that accounting practices differ among companies, whereby some impute interest on these transactions in their financial statements, and others do not. Imputation of interest affects the amount of revenue and interest expense recognized. If an issuer is imputing interest on these transactions at a reasonable rate, we do not adjust the reported revenue, related EBITDA, and interest expense. We instead add the reported unamortized obligation to adjusted debt. For an issuer that does not impute interest, we maintain an amortization schedule and make additional adjustments as detailed below.
+
+Data requirements:
+
+
+
+1. The original upfront payment amount.
+2. The interest rate provided by the issuer or computed based on the expected timing, volume, and price of delivery. Alternatively, we may use an estimate of this rate based on the issuer's average cost of debt.
+3. The amount of amortization during the period.
+4. An estimate of the incremental amortization rate, if interest had been imputed based on the percent difference between the total undiscounted value of the product expected to be delivered and the amount of the upfront payment received.
+
+Calculations:
+
+
+
+1. Debt: We add the unamortized obligation as adjusted for imputed interest if needed.
+2. EBITDA: We add the incremental revenue that would have been recognized if interest had been imputed at the implicit rate, calculated as the amortization during the period times the incremental amortization rate.
+3. Interest expense: We add the interest imputed on the adjusted obligation on a compound basis.
+4. CFO: In the period when the upfront payment is received, we subtract the upfront payment from cash flow from operations. No adjustments are made in subsequent periods.
+
+
+#### Oil and gas exploration and production (E&P)
+
+192. Royalty transactions:A royalty transaction is a feature of the oil and gas industry and is an agreement whereby a commodity producer--for example--sells the right to a share of its fixed/variable overriding royalty interest in some hydrocarbon production in exchange for an upfront payment. The sale does not create a fixed obligation for the commodity producer to be repaid over time, but rather would obligate them to pay a set amount on future production from a group of producing fields for the remaining life of said reserves. The upfront payment is recognized as a trade liability because it is related to a future sale, and it often ranks pari passu with other unsecured debt of the commodity producer.
+
+193. Such agreements are typically long-dated--in some cases, covering the life of production--and the buyer has the rights to a portion of the output until the agreement terminates. The transaction provides the producer with upfront financing and repayment flexibility because there are no fixed-volume delivery obligations. The agreement also typically allows the producer to retain ownership and control of the producing fields.
+
+194. We view these transactions as a form of financing, and, therefore, we adjust our debt and related credit measures if the transactions have one or more of the following features:
+
+
+
+1. If they are done in lieu of borrowing;
+2. If there is a moral obligation to make payment;
+3. If they are repayable in cash if they are not satisfied by the product's delivery;
+4. If the counterparty has recourse to the issuer or a guarantor in the case of insolvency;
+5. If repayment can be accelerated upon an event of default; or
+6. If there is high overcollateralization or security to production coverage or some other mechanism that provides greater certainty of repayment.
+
+195. We nevertheless recognize the lower default risk of these royalty transactions, given the absence of fixed-volume delivery obligations, as well as significant financial flexibility the transactions can provide.
+
+196. For financial reporting purposes, the company generally determines the amortization of the obligation that is recognized as revenue for each period using a units-of-production method. At inception, the company determines a per-unit amortization amount based on the upfront prepayment amount divided by the total units of production it expects to deliver to the counterparty over the life of the royalty contract. The price per unit delivered may be fixed or vary over time based on changes in the ultimate expected output. As such, revenue, EBITDA, and FFO will include the non-cash amortization, whereas CFO will not.
+
+Data requirements:
+
+
+
+1. The original upfront payment amount.
+2. The interest rate provided by the issuer for the transaction or computed based on an appropriate rate.
+3. The amount of amortization during the period.
+
+Calculations:
+
+
+
+1. Debt: We add the unamortized obligation to debt.
+2. Interest expense and interest paid: We add the related interest expense to adjusted interest. We also deduct this amount as interest paid and deduct it from FFO.
+3. CFO: In the period when the upfront payment is received, we subtract the upfront payment from the cash flow from operation. No adjustments are made in subsequent periods.
+
+197. Exploration costs:Oil and gas E&P companies must choose between two accounting methods: full cost or successful efforts, which differ in terms of what investment outlays companies capitalize or expense. A full-cost company capitalizes all costs of property acquisition, exploration, and development. A company using the successful-efforts accounting approach only capitalizes property acquisition costs, drilling, and development costs from successful exploration. Companies using the successful-efforts method report their exploration expenses separately in the income statement while full-cost companies capitalize exploration costs and do not report exploration expense separately in the income statement.
+
+198. To gain comparability within the sector, we adjust EBITDA to exclude all exploration costs. This adjusted measure conforms to the industry standard known as EBITDAX. With this adjustment, we calculate all EBITDA-related ratios using our equivalent of EBITDAX. Although we add back the exploration expense companies report using successful-efforts accounting to derive EBITDA, we reverse this adjustment when calculating FFO; in other words, we reduce FFO by the amount of exploration costs. We take this alternative approach to have some degree of comparability with other industries. Likewise, companies often report cash paid for exploration in the statement of cash flows differently. We generally do not attempt to make adjustments to these amounts in the statement of cash flows, but rather rely more heavily on FOCF to debt as a supplemental measure of cash flow to leverage because the classification of these amounts doesn't affect this.
+
+Data requirements:
+
+
+
+1. Exploration expense in the period as reported by companies following the successful-efforts approach.
+
+Calculations:
+
+
+
+1. EBITDA: We add back to the reported EBITDA the exploration expense of companies that follow the successful-efforts approach.
+2. FFO: We include the exploration cost in the calculation of FFO.
+
+199. Economic hedging:E&P companies often manage their exposure to fluctuations in commodity prices and foreign currencies through hedges. When derivatives are not designated as hedges as provided for under accounting standards or do not qualify for hedge accounting, derivative gains and losses flow through the income statement each period. Realized gains and losses relate to transactions in the current period, and unrealized gains and losses to future transactions. When the derivatives do not qualify for hedge accounting or are not designated as hedges, we typically eliminate from EBITDA unrealized gains and losses relating to future production, where we can identify these effects, focusing on earnings that only include realized hedge effects.
+
+200. Volumetric production payments (situational):A volumetric production payment (VPP) is an arrangement in which an E&P company agrees to deliver a specified quantity of hydrocarbons from specific properties (or fields) to a counterparty in return for a fixed amount of cash received at the beginning of the transaction. The seller often bears all of the production and development costs associated with delivering the agreed-upon volumes. The buyer receives a non-operating interest in the oil and gas properties that produce the required volumes. The security is a real interest in the producing properties that the parties expect to survive any bankruptcy of the E&P company that sold the VPP. After the total requisite volumes are delivered, the production payment arrangement terminates and the conveyed interest reverts back to the seller.
+
+201. We view VPPs structured with a high level of investor protection (in terms of production coverage) as debt-like obligations rather than asset sales given the risks the E&P companies retain. In typical deals, there is substantial overcollateralization, with total field reserves significantly exceeding the volumes the seller promises under the VPP contract. The seller must deliver the agreed-upon volumes and incurs all associated operating and capital costs. If the seller does not meet the obligation, it would risk losing all its reserves in the field.
+
+202. We would view a VPP structured with minimal overcollateralization to be closer to an asset sale because the transfer of risk would be more substantial. However, even in this case the VPP has some debt-like qualities because the company must pay the operating expenses associated with the VPP until delivery of the final volumes.
+
+203. To make the adjustment to debt, we use a fair market value approach and the New York Mercantile Exchange (NYMEX) futures curve to calculate the expected value of the barrels to be delivered, which we consider to be debt. If hydrocarbon prices increase, so would the debt adjustment.
+
+Data requirements:
+
+
+
+1. Schedule of oil and natural gas volumes yet to be delivered under the VPP;
+2. Oil and natural gas volumes produced during the year from the VPPs;
+3. NYMEX futures curve for oil and natural gas prices as of period end; and
+4. Pricing differentials (for quality differences and geographic location) for the VPP volumes relative to NYMEX.
+
+Calculations:
+
+
+
+1. Debt: We multiply the oil and natural gas volumes to be delivered in each year of the contract by the futures price (adjusted for quality and location differentials) in that year. We then calculate the value of this revenue stream using a discount rate commensurate with the company's secured borrowing rate.
+2. Interest expense: We impute interest expense on the adjustment to debt using the company's secured borrowing rate. We apply the rate to the average of the calculated VPP obligation at current and previous period-end.
+3. Debt-to-reserves: We add the hydrocarbon volumes the seller hasn't yet delivered under the VPP back to reported reserves.
+4. Selling and lifting costs: We add the oil and gas volumes produced to meet the VPP requirements in calculating per-unit selling prices and lifting costs.
+5. CFO and FFO: We subtract the VPP cash proceeds from CFO and FFO.
+
+
+#### Oil refining and marketing industry
+
+204. Liquidation gains: When a company using the last in, first out (LIFO) method has inventory balances that decrease over a period of time, LIFO liquidation may result. This means that older layers of inventory are turned into cost of goods sold as a result ("older" refers to inventory in terms of accounting and not necessarily in a physical sense). Assuming an inflationary environment, the cost of goods sold is reduced and, as a result, income increases because of LIFO liquidation gains. To capture the true sustainable profitability of a company, we generally exclude the gains generated from LIFO liquidation from our profitability measures.
+
+Data requirements:
+
+
+
+1. LIFO liquidation gains from the income statement.
+
+Calculations:
+
+
+
+1. EBITDA, EBIT and FFO: Deduct LIFO liquidation gains from EBITDA, EBIT and FFO.
+
+
+#### Oilfield services and equipment industry
+
+205. Seismic accounting:When seismic companies capture seismic data that they expect to sell to multiple clients, they capitalize the associated costs and amortize these costs over the expected useful lives of the data. However, we adjust these companies' financial results effectively recognizing these expenditures as an operating expense as incurred.
+
+Data requirements:
+
+
+
+1. Capital expenditures for multiclient data acquisition for the period.
+2. Amortization of multiclient data acquisition costs for the period.
+
+Calculations:
+
+
+
+1. EBITDA, FFO, and CFO: Deduct capital expenditures for multiclient data acquisition from EBITDA, FFO, and CFO.
+2. Capital spending: Deduct capital expenditures for multiclient data acquisition from total capital spending.
+3. EBIT: Deduct/add the difference between capital expenditures and amortization expense for multiclient data acquisition costs.
+
+
+#### Operating leasing
+
+206. Operating lease companies may provide finance leases as well as operating leases to their customers. Payments customers make under the finance leases are accounted for as interest income (part of revenues) or repayment of principal (recorded as a financing cash flow). Since all of the payments, both interest and principal, are sources of cash flow to service debt, we add the repayment of principal to FFO, reclassifying those payments as an operating cash flow.
+
+207. Operating lease companies often sell equipment as part of a normal pattern of acquiring, leasing out, and disposing of their assets. If gains and losses realized on such equipment sales are part of the normal turnover of leased assets, we include such gains and losses as an adjustment to depreciation and an operating expense.
+
+
+#### Real estate (REITs)
+
+208. Straight-line rent (situational):The accounting treatment of rent payments received under real estate leases averages them out over the life of the lease. Consequently, reported rent revenue may differ from actual cash rent received where the minimum rent payment varies over the life of the lease. This can happen when there are periodic contractual rent increases or when the lease provides for an initial period with no rent or with discounted rent, following which normal periodic cash rent payments are required. Depending on the lease terms and life cycle, cash rent received may be higher or lower than reported rental income. For real estate companies, we will reverse, when material, the straight-line rent smoothing in calculating EBITDA. This is consistent with industry standards and with our focus in this sector on the amount of cash rent actually received by the company during the period. We adjust revenues, EBIT, EBITDA, and FFO, by the amount that straight-line rental revenue reported exceeds or falls below cash rents received for the respective period.
+
+209. Unconsolidated affiliates (situational):It is common for real estate companies to conduct a large portion of their business through partly owned subsidiaries or joint ventures, thereby sharing risks with other owners. These entities are often organized around individual properties or groups of properties and have their own external debt financing. Under accounting standards, these affiliates are generally accounted for using the equity method if the company's ownership interest is 50% or less. From an analytical perspective, equity method accounting can understate the true extent of financial leverage within the broader group. As a result:
+
+
+
+1. We may adjust the financial statements to exclude dividends received and reflect pro rata consolidation of debt, earnings, and interest expense if, in our view, this better depicts the economic reality.
+2. If we believe the company is highly likely to support all the affiliates' obligations, we may apply full consolidation.
+3. Alternatively, if we believe a company is unlikely to support the debt of an ailing affiliate, we might exclude that affiliate from our financial measures, even if it is fully consolidated for financial reporting purposes. Even though these debt obligations are typically nonrecourse property-level debt, we will only exclude the ailing affiliate's debt from our financial measures if we believe the failure to support the affiliate will not limit the issuer's access to capital markets. Additionally, in order for us to exclude the debt of these affiliates, the debt should not have cross-default, cross-acceleration, or any similar influence on the debt issued by the real estate company. Examples of companies where we would do this include minority-owned joint ventures and properties included in commercial mortgage-backed securitizations.
+
+
+#### Capitalized interest:
+
+210. Real estate companies engaged in sizable debt-financed development projects may capitalize their cash interest costs, thereby deferring the recognition of interest expense on the income statement. In our analysis, we factor in capitalized interest as an expense in the period when incurred. The valuation of property, plant, and equipment includes, under U.S. GAAP, a cost-of-carry element relating to multiperiod project expenditures. Part of the rationale is that the company must factor in the carrying costs when deciding on a project's economics, but this obscures the amount that actually must be paid during the period. Companies may also have discretion with respect to the amounts they capitalize, making comparisons difficult.
+
+
+#### Regulated utilities
+
+211. Inflation linked debt:Some companies in the regulated electricity and water sectors issue significant amounts of inflation-linked debt, notably in the U.K. where future regulated rate increases are linked to inflation indexes such as the retail price index (RPI). Inflation-linked debt is also commonly issued across several sectors in Israel. Inflation-linked debt usually has a long tenor (20-30 years), and a low annual cash coupon (e.g., 1%-3%) that, without indexation, would usually represent a below-market cost of debt at issuance for the issuer, as it only reflects real term interest rates.
+
+212. A distinct, typical feature of inflation-linked debt is the deferral of indexation payments to maturity. We view the accrual of principal indexation as a partial non-cash coupon. Deferral of its payment does not mean that this debt is any cheaper; simply, a portion of its periodic cost, which may be substantial, is being deferred to maturity.
+
+213. We typically apply a charge for the indexation of principal for inflation-linked debt in our calculation of FFO. We believe this approach better captures the after-interest cash flow the company's operations generate, including the full cost of the debt used to finance those operations. Where companies have not disclosed the amount of principal indexation, we may estimate the adjustment.
+
+214. No adjustment is typically required to be made to reported debt if this includes the effect of the indexation component (the "deferred interest" portion) on a cumulative, compounded basis.
+
+215. Where possible we make similar adjustments where companies use derivatives to synthetically convert debt into inflation-linked debt. This can require deducting from FFO the inflation payable of an inflation-linked swap and adding to debt the portion of the derivative's fair value that corresponds to the cumulative deferred interest.
+
+216. Purchased power adjustment (situational):We may view long-term purchased power agreements (PPA) as creating fixed, debt-like financial obligations that represent substitutes for debt-financed capital investments in generation capacity. If the lease liabilities include PPAs, we may reduce the lease liabilities to reflect the burden of the contractual payments that ultimately rests with ratepayers, as when the utility merely acts as a conduit for the delivery of a third party's electricity, or where the regulator has established a separate adjustment mechanism for recovery of all prudent PPA costs. Conversely, if the lease liabilities exclude PPAs because of the contracts' terms, and we believe those contracts are very material, we may add to debt an appropriate percentage (using an analytically determined risk factor) of the present value (using a company-specific discount rate) of the stream of capacity payments associated with the PPAs.
+
+217. Natural gas inventory adjustment:In jurisdictions where a pass-through mechanism is used to recover purchased natural gas costs of gas distribution utilities within one year, we adjust for seasonal changes in short-term debt tied to building inventories of natural gas in non-peak periods for later use to meet peak loads in peak months. Such short-term debt is not considered to be part of the utility's permanent capital. Any history of non-trivial disallowances of purchased gas costs would preclude the use of this adjustment. The accounting of natural gas inventories and associated short-term debt used to finance the purchases must be segregated from other trading activities.
+
+Data requirements:
+
+
+
+1. Short-term debt amount associated with seasonal purchases of natural gas devoted to meeting peak-load needs of captive utility customers.
+
+Calculations:
+
+
+
+1. Adjustment to debt: we subtract the identified short-term debt from total debt.
+
+218. Securitized debt adjustment:For regulated utilities, we deconsolidate debt (and associated revenues and expenses) that the utility issues as part of a securitization of costs that have been segregated for specialized recovery by the government entity constitutionally authorized to mandate such recovery if the securitization structure contains a number of protective features:
+
+
+
+1. An irrevocable, non-bypassable charge and an absolute transfer and first-priority security interest in transition property.
+2. Periodic adjustments ("true-up") of the charge to remediate over- or under-collections compared with the debt service obligation. The true-up ensures collections match debt service over time and do not diverge significantly in the short run.
+3. Reserve accounts to cover any temporary short-term shortfall in collections.
+
+219. Full cost recovery is in most instances mandated by statute. Examples of securitized costs include "stranded costs" (above-market utility costs that are deemed unrecoverable when a transition from regulation to competition occurs) and unusually large restoration costs following a major weather event such as a hurricane. If the defined features are present, the securitization effectively makes all consumers responsible for principal and interest payments, and the utility is simply a pass-through entity for servicing the debt. We therefore remove the debt and related revenues and expenses from our measures.
+
+Data requirements:
+
+
+
+1. Amount of securitized debt on the utility's balance sheet at period end;
+2. Interest expense related to securitized debt for the period; and
+3. Principal payments on securitized debt during the period.
+
+Calculations:
+
+
+
+1. Adjustment to debt: We subtract the securitized debt from total debt.
+2. Adjustment to revenues: We reduce revenue allocated to securitized debt principal and interest. The adjustment is the sum of interest and principal payments made during the year.
+3. Adjustment to operating income after D&A and EBIT: we reduce D&A related to the securitized debt, which is assumed to equal the principal payments during the period. As a result, the reduction to operating income after D&A is only for the interest portion.
+4. Adjustment to interest expense: We remove the interest expense of the securitized debt from total interest expense.
+5. Operating cash flows: We reduce operating cash flows for revenues and increase for the assumed interest amount related to the securitized debt. This results in a net decrease to operating cash flows equal to the principal repayment amount.
+
+
+#### Retail and restaurants (auto retailers)
+
+220. Auto retailers floor plan financing:Despite the differing accounting characterizations of auto retailers' floor plan financing arrangements (those with automakers' captive finance arms and those with third-party financiers), we consider auto retailers' floor plan borrowings, regardless of source, more akin to trade payables than to debt. This is due to the borrowings' high loan-to-value ratios (typically 100%) and widespread availability, with repayment generally occurring once vehicles are sold, and because of a long history of manufacturer subsidies largely offsets borrowing costs.
+
+221. We view floor plan borrowings as a part of working capital. When floor plan borrowings are included within reported debt, we move those liabilities to accounts payable. Likewise, we consider floor plan interest expense as an operating cost rather than a financing cost and add it to the cost of sales. We do not make any change in the treatment of floor plan interest assistance, which is generally already included in cost of sales. On the statement of cash flows, we include changes in all floor plan borrowings (both with captive and third parties) in the working capital section of cash flow from operations.
+
+Data requirements:
+
+
+
+1. Amount of floor plan borrowings reported as debt.
+2. Amount of floor plan interest expense reported by the company in interest expense for the period; and
+3. Floor plan borrowings/repayment reported by the company under financing activity in its statement of cash flows for the period.
+
+Calculations:
+
+
+
+1. Debt: We subtract any floor plan borrowings reported as debt in the financial statements.
+2. EBITDA and FFO: We subtract floor plan interest expense from total interest expense and cash interest paid (if included in reported cash interest) and treat it as a part of operating expense, thus reducing EBITDA by the floor plan interest.
+3. CFO: We reverse the impact of floor plan borrowings and repayments in the financing activity cash flow and treat it as a part of working capital (i.e., change in accounts payable), thus impacting cash flow from operations.
+
+
+#### Technology software and services
+
+222. Acquired deferred revenue: Companies in this sector often have significant deferred revenue balances, given the pattern of cash received relative to when they provide services and what revenue recognition methods they employ. At any given time, the deferred revenue amount recorded on a company's balance sheet generally represents the cash received in advance, less the amount amortized to revenue for goods and services provided to date. This balance sheet amount differs from the fair value of this performance obligation, which must be recorded at the date of an acquisition. Because of how acquired deferred revenue is valued at the time of acquisition and its subsequent impact on revenue, it can distort the acquiring company's financial results, making them less representative of ongoing operations. We therefore make an adjustment to EBITDA and FFO to mitigate this distortion by adding to EBITDA and FFO the amortization in the period of the fair value adjustment to acquired deferred revenue.
+
+223. Software development costs:For companies that operate with a business model that includes selling software to external parties, we aim to adjust for the capitalization of development costs for external use software if the information is available. Without clear reporting that delineates the software development costs into internal versus external use, we use analytical judgement to determine the appropriate amount of our adjustment.
+
+224. We do not reverse the capitalization of software for internal use, consistent with our treatment of internal use software costs across all sectors. We do reverse the capitalization of software for external use and include it as an expense. In the income statement, this means reversing the amortization of previously capitalized costs and increasing research and development costs by the amount capitalized during the period. The net effect on adjusted EBITDA is a decrease by the amount capitalized during the period. The net effect on EBIT is a decrease (or increase) by the amount capitalized during the period minus the amount amortized during the period.
+
+
+#### Telecommunications and cable
+
+225. Subscriber acquisition costs:Wireless telecom companies incur various costs to acquire new customers or subscribers, such as sales commissions and subsidies for wireless handsets, known as subscriber acquisition costs (SAC; also known as customer acquisition costs). While some wireless telecom companies expense SAC, others capitalize these costs, which makes comparing their reported financial performance difficult.
+
+226. To enhance comparability, we adjust reported financial statements when a company capitalizes SAC and the relevant information is disclosed. The adjustment aims to treat the capitalized SAC as if they had been expensed in the period incurred. The adjustment reduces EBITDA, FFO, CFO, and capital expenditures (if reported) by the amount of SAC capitalized during the year. Similarly, we will reduce the D&A expense for SAC amortization. Without sufficient disclosures, we would reduce the D&A by the amount capitalized so that the EBIT measures are not unduly suppressed.
+
+Data requirements:
+
+
+
+1. Amount of SAC incurred and capitalized during the period; and
+2. Amortization amount for SAC costs during the period.
+
+Calculations:
+
+
+
+1. EBITDA, FFO, CFO, and capital expenditures: Subtract the amount of capitalized SAC;
+2. EBIT: Subtract (or add) the difference between the amount of SAC capitalized and the SAC amortization during the period; and
+3. D&A: Subtract the amount of SAC amortized during the period.
+
+227. Adjustment to debt and EBITDA for master service agreements (situational):The International Accounting Standards Board's IFRS 16 became effective for companies reporting under IFRS in 2019. The accounting rules treat telecom tower master service agreements as an expense. We adjust for these contracts to enhance comparability between mobile network operators that:
+
+
+
+1. Own towers;
+2. Lease towers through a master lease agreement; or
+3. Have signed a service agreement.
+
+228. In our view, the current differences between the three models are not material enough to require different analytical treatment. The towers serve a similar purpose for network operators in all three cases, and are crucial to ongoing operations. Given that mobile operators need to either own these assets or ensure they have long-term access to them, we see a service agreement as similar to a lease.
+
+229. Adjusting the mobile operator's figures to account for its service agreement has two material implications:
+
+
+
+1. Higher profitability because we exclude the fees paid to the tower company from operating expenses; as a result, EBITDA margins are higher.
+2. Higher adjusted debt amount because we are adding the liability to the balance sheet. The impact on a mobile operator's credit metrics will generally depend on the length of the contract and the magnitude of the operator's debt.
+
+230. Table 7 shows an example of how we would adjust the figures for an operator that makes annual payments of €40 under a 15-year contract with a tower company. Capitalizing the annual payment not only raises EBITDA but also debt, because we value the future obligation at a 7% discount. The net effect in this example is a leverage increase of 0.66x.
+
+**Table 7**
+
+
+##### Example Of Adjustments Made For A Master Service Agreement
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>REVENUES (€)</strong>
+   </td>
+   <td><strong>EBITDA</strong>
+   </td>
+   <td><strong>MARGIN (%)</strong>
+   </td>
+   <td><strong>DEBT</strong>
+   </td>
+   <td><strong>DEBT/EBITDA (X)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>IFRS 16 reported figures
+   </td>
+   <td>1,200
+   </td>
+   <td>360
+   </td>
+   <td>30
+   </td>
+   <td>900
+   </td>
+   <td>2.50
+   </td>
+  </tr>
+  <tr>
+   <td>Lease adjustment to EBITDA
+   </td>
+   <td>0
+   </td>
+   <td>40
+   </td>
+   <td>3
+   </td>
+   <td>0
+   </td>
+   <td>(0.25)
+   </td>
+  </tr>
+  <tr>
+   <td>Lease adjustment to debt
+   </td>
+   <td>0
+   </td>
+   <td>0
+   </td>
+   <td>0
+   </td>
+   <td>364
+   </td>
+   <td>0.91
+   </td>
+  </tr>
+  <tr>
+   <td>S&P Global Ratings' adjusted figures
+   </td>
+   <td>1,200
+   </td>
+   <td>400
+   </td>
+   <td>33
+   </td>
+   <td>1,264
+   </td>
+   <td>3.16
+   </td>
+  </tr>
+</table>
+
+
+231. The less indebted the company is, the higher the impact of a lease on its leverage ratio--the lease liability would be a larger component of total debt. However, there is little difference between a lease agreement and a service agreement in terms of cash flows and economic benefit to the mobile operator. We therefore aim to treat both contract types consistently when assessing the financial risk profile, which will maintain comparability between telecom companies' credit metrics.
+
+232. Mobile network operators rely upon networks of radio towers, which support their business by broadcasting signals to and receiving signals from the mobile devices of their customers. Traditionally, mobile operators have owned these assets. But over time, some operators have sold their towers to specialty infrastructure companies. They then rent space on the towers to place their antennas, which transmit and receive radio frequencies. This model typically employs a master lease agreement, whereby the mobile operator pays a fee in exchange for renting a specific space on the tower. The tower company also provides related maintenance. More recently, however, we've seen mobile operators sign long-term service agreements under which they have access to the full tower network but are not assigned specific spaces for their antennae. The tower company commits to manage deployment of the equipment to ensure an agreed level of service quality.
+
+233. IFRS treatment: Under IFRS 16, leases are recognized on the balance sheet and service contracts off balance sheet. Whether a contract is defined as a lease largely depends on the right to control an identified asset.
+
+234. In a lease agreement, the mobile operator controls specific spaces on towers, which are used for their active equipment. This is considered a lease contract because the asset is identified (designated space on specific towers) and the mobile operator remains in control of the identified asset. On its balance sheet, the mobile operator recognizes a right-of-use asset and lease liability based on discounted payments required under the lease. The mobile operator does not recognize the rental payments as an operating expense; instead, the asset depreciates and interest is recognized based on the outstanding lease liability.
+
+235. However, in a service agreement, the tower operator controls the towers and can move the mobile operator's equipment to alternative towers if it chooses. Therefore the contract is to provide a service and does not contain a lease under IFRS 16. Contract fees are treated as operating expenses and remain off the balance sheet.
+
+236. If we were to follow IFRS 16, adopting service accounting would immediately and materially strengthen a mobile operator's leverage ratios, compared with a leased-tower scenario. But we do not believe the mobile operator's credit risk would have fundamentally changed, and think the more favorable financial comparison distorts comparison across companies.
+
+237. In deciding whether to adjust for service agreements, we sought to understand how a service arrangement substantively changes the operations and risk managed by mobile operators and tower companies alike. We think lease agreements already contain a service element because the tower company provides maintenance services in addition to the space on the towers. Service agreements could introduce new and material value-added services, such as:
+
+
+
+1. Active management of the equipment on a tower company's network to meet key performance indicator service requirements; or
+2. Implementation of new communication coverage requirements or protocols, for example, deployment of small cell stations and fifth generation (5G) mobile networks.
+
+238. However, we do not view this as a certainty and anticipate scenarios where a service agreement tower portfolio remains a relatively static, mature asset. As new technologies and coverage requirements emerge, mobile operators may choose to retain responsibility for active network management in order to differentiate themselves from peers and gain a competitive advantage. Therefore, although we see the potential for additional services under a service agreement, we currently do not see the difference as material enough to warrant a different treatment compared with many of our telecom issuers that have lease agreements in place. We would need to see clear evidence of this in practice before treating tower service agreements differently from lease agreements. This would likely require measurable signs of active network monitoring and management, manifest in detailed real-time analysis and active physical evolution, resulting in a more dynamic, less static network over time.
+
+239. To facilitate global comparisons and benchmarking, our rating analysis incorporates quantitative adjustments to the reported financial statements of companies. These adjustments align a company's reported figures more closely with our view of underlying economic conditions and the credit risk inherent in its transactions and arrangements. Although we may adjust certain figures reported under applicable accounting principles, this does not imply that we challenge the company's application of those principles, the adequacy of its audit or financial reporting process, or the appropriateness of the accounting judgements made to fairly depict the company's financial position and performance for other purposes.
+
+240. Our adjusted debt principle underpins our approach and drives many of the analytical adjustments we make. It results from our view that certain implicit financing arrangements are similar to debt. Depicting these transactions as debt--often in contrast to how a company reports them--affects not only the quantification of debt, but also the measures of earnings and cash flows we use in our analysis.
+
+241. In general, items that we add to reported debt include on- and off-balance-sheet commitments to purchase or use of long-life assets (such as lease obligations) or businesses (such as deferred purchase consideration) where the company accrues benefits of ownership. We typically view sale and leaseback transactions as a form of financing. If we can, we capitalize the entire sale amount to debt, even if the NPV of future lease payments is a lower figure.
+
+242. Under IFRS, if a mobile operator sells its towers to a tower company and then enters into a service agreement with that company, it has not entered into a sale and leaseback transaction because the service agreement does not meet the definition of a lease under IFRS 16. IFRS considers that the tower operator controls the network because it has "substantive substitution rights" to the asset.
+
+243. By contrast, we do not believe this feature alone is sufficient to completely override our view that the transaction has an implicit financing component. This sort of transaction changes the mobile operator's situation. Pre-transaction, it owned and used the network of radio towers to generate cash flows. Post-transaction, it still makes use of the network of radio towers to generate cash flows, but it receives cash upfront in exchange for regular, fixed, and non-cancellable deferred payments (like a lease). In our view, the transaction does not clearly improve the fundamental financial risk profile, but the IFRS expense accounting treatment implies such an improvement by reducing its leverage. The same would be true if a mobile operator switched from a lease agreement to a service agreement or signed a service agreement with no prior access to the towers in lieu of buying or leasing them.
+
+244. This adjustment specifically addresses the tower master service agreement contract and the telecom sector, based on their unique characteristics. There are instances of other transactions and arrangements that share some features of the tower master service agreement, but where we don't make a debt adjustment. For example, some utilities spun off their transmission networks and then entered into service contracts for the transportation/transmission of gas and electricity. However, these utilities do not pay the service providers under a bilateral contract in the same way that mobile operators pay tower companies. Instead, the utility bills its retail customers and allocates a portion of the revenues to distribution, transmission, and suppliers, on a regulated basis.
+
+245. If disclosures in the financial statements lack sufficient detail, we may face practical challenges in adjusting the debt of mobile operators that use tower service agreements. However, this is a familiar issue. We frequently estimate our analytical adjustments based on additional information provided by issuers. For example, we seek information from issuers regarding the amount of cash and liquid investments that they cannot access at short notice to repay debt, and use this information to apply a haircut to our surplus cash figure.
+
+246. We acknowledge that we have decided to adjust for tower service agreements based on the small sample size and short track record of such agreements to date. In time, if tower companies build a track record of active network management under these agreements, such that the service portion of the contract is demonstrably its overriding feature, we could change our view. This could lead us to treat tower service agreements as a service and reflect them as an expense, either in whole or, if we have sufficient detail regarding the service portion of the contract, in part.
+
+
+##### Transportation cyclical industry
+
+247. Purchase commitments to partner entities providing transportation services (situational):In some cases, companies may contract with other entities to provide transportation services using those other entities' own equipment. In cases where the payments under such contracts are largely fixed and represent mostly a substitute for owning or renting equipment, we will capitalize the entire amount of the committed payments. Examples include time charters of ships with fixed payments that are mostly for ownership and, to a lesser extent, crewing costs. Where the contracted payments mostly represent reimbursement for other expenses, which may vary, we seek to estimate the proportion of the payments that represent a rental or ownership equivalent, and capitalize that. Examples include some airline capacity purchase agreements with partner regional airlines. In those agreements, a major airline may sublease regional aircraft to the regional airline (the ownership costs for which are accordingly already captured in the major airline's financial statements). Alternatively, the regional airline may provide its own aircraft. If the major airline nonetheless includes those indirect regional aircraft ownership costs as part of its own lease commitments, our capitalizing leases covers this. Where the major airline does not include the indirect regional aircraft ownership costs in its own lease commitments, we seek to estimate the proportion of the capacity purchase agreement that represents ownership costs. Non-ownership costs, which can be substantial, include labor and fuel, the latter a pass-through cost that can vary significantly over time.
+
+
+##### Transportation infrastructure
+
+248. Service concession arrangements:We make the following adjustments to the reported financials of transportation infrastructure companies operating under concessions:
+
+
+
+1. These companies generally report revenues from works and improvements to concession assets under the current interpretation of IFRS for service concession arrangements (IFRIC 12). This does not affect reported EBITDA, operating profit, or cash, because a corresponding operating cost is reported. We exclude these items from reported revenues and the cost of goods sold.
+2. In addition, when a transportation infrastructure company operating under a concession agreement receives fixed or guaranteed revenues according to IFRIC 12, the company generally does not report this as revenue on its income statement. When this income corresponds to a cash payment, we include it in revenues and EBITDA.
+
+Data requirements:
+
+
+
+1. The amount of revenues and costs from works and improvements to infrastructure assets that are grossed up in the income statement.
+2. The amount of guaranteed income that is classified as interest income rather than revenues.
+
+Calculations:
+
+
+
+1. Revenues and cost of goods sold or operating expenses. We exclude the amount of revenues and costs from works and improvements to infrastructure assets that are grossed up in the income statement.
+2. Revenues and EBITDA. We add the amount of guaranteed income classified as interest income rather than revenues.
+
+249. Inflation linked debt:Some companies in the transportation infrastructure sector issue significant amounts of inflation-linked debt. Inflation-linked debt usually has a long tenor (20-30 years), and a low annual cash coupon (e.g., 1%-3%) which, without indexation, would usually represent a below-market cost of debt at issuance for the issuer, as it only reflects real term interest rates.
+
+250. A distinct, typical feature of inflation-linked debt is the deferral of indexation payments to maturity. We view the accrual of principal indexation as a partial non-cash coupon. Deferral of its payment does not mean that this debt is any cheaper; simply, a portion of its periodic cost, which may be substantial, is being deferred to maturity.
+
+251. We typically apply a charge for the indexation of principal for inflation-linked debt in our FFO calculation. We believe this approach better captures the after-interest cash flow the company's operations generate, including the full cost of the debt used to finance those operations. Where companies have not disclosed the amount of principal indexation, we may estimate the adjustment.
+
+252. No adjustment is typically required to be made to reported debt if this includes the effect of the indexation component (the deferred interest portion) on a cumulative, compounded basis.
+
+253. Where possible we make similar adjustments where companies use derivatives to synthetically convert debt into inflation-linked debt. This can require deducting from FFO the inflation payable portion of an inflation-linked swap and adding to debt the portion of the derivative's fair value that corresponds to the cumulative deferred interest.
+
+254. Provisions for future maintenance:Under most concession arrangements, companies have contractual obligations to maintain the infrastructure to a pre-specified level of service and/or to restore the infrastructure to a particular condition before giving it back to the grantor. These obligations may take different forms ranging from routine repair costs to major lifecycle overhauls.
+
+255. Routine repair costs are expensed as incurred in the income statement and classified as operating cash flows in the cash flow statement.
+
+256. For longer term, major maintenance obligations that affect multiple years, the company recognizes a provision for the estimated NPV of future cash outflows under most accounting standards. Changes in the provision are reflected in the income statement (usually within reported operating income) systematically over the corresponding number of years. The cost recognition therefore significantly diverges from the related cash flows. When the maintenance obligation is fulfilled, the spending may be classified as either operating or investing cash flows in the cash flow statement.
+
+257. To allow for globally consistent and comparable financial analyses, we view this long-term maintenance spending as more akin to capital expenditures (investing cash flows) and the related costs as non-operating in nature. We do not view the year-end provision as debt-like.
+
+Data requirements:
+
+
+
+1. Long-term maintenance related income statement charge or reversal during the year, which we treat as non-operating.
+2. Amount of maintenance cash out-flows during the year.
+
+Calculations:
+
+
+
+1. Add (or subtract) the long-term maintenance related income statement charge (or reversal) from the respective metrics such as operating income, before and after depreciation and amortization.
+2. Reclassify the amount of maintenance cash out-flows to capital expenditures if reported as operating cash flows.
+
+
+### REVISIONS AND UPDATES
+
+This article was originally published on April 1, 2019.
+
+Changes introduced after original publication:
+
+
+
+1. On Nov. 18, 2020, we republished this criteria article to make nonmaterial changes to update criteria references.
+2. On May 27, 2021, we republished this article to clarify how we determine the materiality of analytical adjustments, as well as to clarify when we make these adjustments. We also updated the analytical contacts.
+3. On Oct. 21, 2021, we republished this criteria article to make nonmaterial changes to update criteria references and the contact information.
+4. On July 14, 2023, we republished this criteria article to make nonmaterial changes. As announced in "**[Evolution Of The Methodologies Framework: Introducing Sector And Industry Variables Reports](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/12125658)**," Oct. 1, 2021, we are phasing out guidance documents over time. As part of that process, we have archived "**[Guidance: Corporate Methodology: Ratios And Adjustments](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/10910611)**," April 1, 2019. The guidance content has now been moved to either to the body (new paragraphs 22-30, 32-33, 35, and 52-56) or the new appendices in these criteria without any substantive changes. In addition, we also added two examples of situational adjustments in paragraph 146 to clarify our adjustments for i) initial measurement of debt and ii) debt at fair value. In addition, we added clarifications in paragraph 63 for debt adjustments due to take-or-pay contracts and in paragraph 80 for the impact of unrealized gains and losses on derivatives. We also clarified the language regarding our Situational Adjustments in paragraph 50 to be reflective of the frequency with which they are applied. There are also editorial changes, including renumbering the paragraphs given the additions mentioned above.
+5. On Oct. 23, 2023, we republished this criteria article to make nonmaterial changes. First, we updated the section related to adjustments for captive finance operations as a result of the publication of the criteria article "**[The Impact Of Captive Finance Operations On Nonfinancial Corporate Issuers](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/12833944)**" on Oct 23, 2023, which partly superseded this article. Specifically, we deleted the prior description of the adjustments and replaced it, in paragraphs 137 to 145 (with minor post-RFC edits), with the content previously published in Appendix 3 of the RFC for the above-mentioned criteria article. As a consequence, we renumbered all paragraphs starting with 146. Second, we clarified paragraph 2 to indicate that we only apply these criteria to finance companies that use our corporate methodology. Finally, we amended paragraph 220 to reflect that dealer floorplan financing has evolved to have differing tenors. In addition, we updated the related publications section.
+6. On Dec. 21, 2023, we republished this criteria article to make nonmaterial changes. Specifically, we removed the reference to mid-market evaluations from paragraph 2 due to the archival of "Mid-Market Evaluation Rating Methodology." We also deleted the "Key Publication Information" section.

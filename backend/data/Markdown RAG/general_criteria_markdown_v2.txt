@@ -1,0 +1,833 @@
+## General Criteria: Corporate Methodology
+
+1. These criteria present S&P Global Ratings' methodology for rating corporate industrial companies and utilities. The criteria organize the analytical process according to a common framework and articulate the steps in developing the stand-alone credit profile (SACP) and issuer credit rating (ICR) for a corporate entity. 
+
+
+### SUMMARY OF THE CRITERIA
+
+3. The criteria describe the methodology we use to determine the SACP and ICR for corporate industrial companies and utilities. Our assessment reflects these companies' business risk profiles, their financial risk profiles, and other factors that may modify the SACP outcome (see "**[General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/6219375)**," for the definition of SACP). The criteria provide clarity on how we determine an issuer's SACP and ICR and are more specific in detailing the various factors of the analysis. The criteria also provide clear guidance on how we use these factors as part of determining an issuer's ICR. S&P Global Ratings intends for these criteria to provide the market with a framework that clarifies our approach to fundamental analysis of corporate credit risks.
+
+4. The business risk profile comprises the risk and return potential for a company in the markets in which it participates, the competitive climate within those markets (its industry risk), the country risks within those markets, and the competitive advantages and disadvantages the company has within those markets (its competitive position). The business risk profile affects the amount of financial risk that a company can bear at a given SACP level and constitutes the foundation for a company's expected economic success. We combine our assessments of industry risk, country risk, and competitive position to determine the assessment for a corporation's business risk profile.
+
+5. The financial risk profile is the outcome of decisions that management makes in the context of its business risk profile and its financial risk tolerances. This includes decisions about the manner in which management seeks funding for the company and how it constructs its balance sheet. It also reflects the relationship of the cash flows the organization can achieve, given its business risk profile, to the company's financial obligations. The criteria use cash flow/leverage analysis to determine a corporate issuer's financial risk profile assessment.
+
+6. We then combine an issuer's business risk profile assessment and its financial risk profile assessment to determine its anchor (see table 3).
+
+7. Additional rating factors can modify the anchor. These are: diversification/portfolio effect, capital structure, financial policy, liquidity, and management and governance. Comparable ratings analysis is the last analytical factor under the criteria to determine the final SACP on a company.
+
+8. These criteria are complemented by sector-specific provisions, included in industry-specific criteria articles called Key Credit Factors (KCFs) or in the guidance related to this criteria article ("**[Guidance: Corporate Methodology](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/11046716)**"). The KCFs describe the industry risk assessments associated with each sector and may identify sector-specific criteria that supersede certain factors of these criteria in the analysis. "**[Guidance: Corporate Methodology](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/11046716)**" also provides guidelines on the analytical factors we consider when applying "Corporate Methodology" to certain sectors.
+
+
+### SCOPE OF THE CRITERIA
+
+9. This methodology applies to nonfinancial corporate issuer credit ratings globally. Please see "**[Recovery Rating Criteria For Speculative-Grade Corporate Issuers](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/9831306)**," and "**[Reflecting Subordination Risk In Corporate Issue Ratings](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/10486915)**," for further information on our methodology for determining issue ratings.
+
+10. This methodology does not apply to the following sectors, based on the unique characteristics of these sectors, which require either a different framework of analysis or substantial modifications to one or more factors of analysis: project finance entities, project developers, commodities trading, investment holding companies and companies that maximize their returns by buying and selling equity holdings over time, Japanese general trading companies, corporate securitizations, nonprofit and cooperative organizations (other than agricultural cooperatives), and other entities whose cash flows are primarily derived from partially owned equity holdings.
+
+
+### METHODOLOGY
+
+
+#### A. Corporate Ratings Framework
+
+11. The corporate analytical methodology organizes the analytical process according to a common framework, and it divides the task into several factors so that S&P Global Ratings considers all salient issues. First we analyze the company's business risk profile, then evaluate its financial risk profile, then combine those to determine an issuer's anchor. We then analyze six factors that could potentially modify our anchor conclusion.
+
+12. To determine the assessment for a corporate issuer's business risk profile, the criteria combine our assessments of industry risk, country risk, and competitive position. Cash flow/leverage analysis determines a company's financial risk profile assessment. The analysis then combines the corporate issuer's business risk profile assessment and its financial risk profile assessment to determine its anchor. In general, the analysis weighs the business risk profile more heavily for investment-grade anchors, while the financial risk profile carries more weight for speculative-grade anchors.
+
+13. After we determine the anchor, we use additional factors to modify the anchor. These factors are: diversification/portfolio effect, capital structure, financial policy, liquidity, and management and governance. The assessment of each factor can raise or lower the anchor by one or more notches--or have no effect. These conclusions take the form of assessments and descriptors for each factor that determine the number of notches to apply to the anchor.
+
+14. The last analytical factor the criteria call for is comparable ratings analysis, which may raise or lower the anchor by one notch based on a holistic view of the company's credit characteristics.
+
+15. The three analytic factors within the business risk profile generally are a blend of qualitative assessments and quantitative information. Qualitative assessments distinguish risk factors, such as a company's competitive advantages, that we use to assess its competitive position. Quantitative information includes, for example, historical cyclicality of revenues and profits that we review when assessing industry risk. It can also include the volatility and level of profitability we consider in order to assess a company's competitive position. The assessments for business risk profile are: 1, excellent; 2, strong; 3, satisfactory; 4, fair; 5, weak; and 6, vulnerable.
+
+16. In assessing cash flow/leverage to determine the financial risk profile, the analysis focuses on quantitative measures. The assessments for financial risk profile are: 1, minimal; 2, modest; 3, intermediate; 4, significant; 5, aggressive; and 6, highly leveraged.
+
+
+##### Determining the financial risk profile assessment
+
+28. Under the criteria, cash flow/leverage analysis is the foundation for assessing a company's financial risk profile. The range of assessments for a company's cash flow/leverage is 1, minimal; 2, modest; 3, intermediate; 4, significant; 5, aggressive; and 6, highly leveraged. The full treatment of cash flow/leverage analysis is the subject of section E.
+
+
+##### Cash Flow/Leverage
+
+97. The pattern of cash flow generation, current and future, in relation to cash obligations is often the best indicator of a company's financial risk. The criteria assess a variety of credit ratios, predominately cash flow-based, which complement each other by focusing on the different levels of a company's cash flow waterfall in relation to its obligations (i.e., before and after working capital investment, before and after capital expenditures, before and after dividends), to develop a thorough perspective. Moreover, the criteria identify the ratios that we think are most relevant to measuring a company's credit risk based on its individual characteristics and its business cycle.
+
+98. For the analysis of companies with intermediate or stronger cash flow/leverage assessments (a measure of the relationship between the company's cash flows and its debt obligations as identified in paragraphs 106 and 124), we primarily evaluate cash flows that reflect the considerable flexibility and discretion over outlays that such companies typically possess. For these entities, the starting point in the analysis is cash flows before working capital changes plus capital investments in relation to the size of a company's debt obligations in order to assess the relative ability of a company to repay its debt. These "leverage" or "payback" cash flow ratios are a measure of how much flexibility and capacity the company has to pay its obligations.
+
+99. For entities with significant or weaker cash flow/leverage assessments (as identified in paragraphs 105 and 124), the criteria also call for an evaluation of cash flows in relation to the carrying cost or interest burden of a company's debt. This will help us assess a company's relative and absolute ability to service its debt. These "coverage"- or "debt service"-based cash flow ratios are a measure of a company's ability to pay obligations from cash earnings and the cushion the company possesses through stress periods. These ratios, particularly interest coverage ratios, become more important the further a company is down the credit spectrum.
+
+
+#### 1. Assessing cash flow/leverage
+
+100. Under the criteria, we assess cash flow/leverage as 1, minimal; 2, modest; 3, intermediate; 4, significant; 5, aggressive; or 6, highly leveraged. To arrive at these assessments, the criteria combine the assessments of a variety of credit ratios, predominately cash flow-based, which complement each other by focusing attention on the different levels of a company's cash flow waterfall in relation to its obligations. For each ratio, there is an indicative cash flow/leverage assessment that corresponds to a specified range of values in one of three given benchmark tables (see tables 17, 18, and 19). We derive the final cash flow/leverage assessment for a company by determining the relevant core ratios, anchoring a preliminary cash flow assessment based on the relevant core ratios, determining the relevant supplemental ratio(s), adjusting the preliminary cash flow assessment according to the relevant supplemental ratio(s), and, finally, modifying the adjusted cash flow/leverage assessment for any material volatility.
+
+
+#### 2. Core and supplemental ratios
+
+
+##### a) Core ratios
+
+101. For each company, we calculate two core credit ratios--funds from operations (FFO) to debt and debt to EBITDA--in accordance with S&P Global Ratings' ratios and adjustments criteria (see "**[Corporate Methodology: Ratios And Adjustments](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/10906146)**"). We compare these payback ratios against benchmarks to derive the preliminary cash flow/leverage assessment for a company. These ratios are also useful in determining the relative ranking of the financial risk of companies.
+
+
+##### b) Supplemental ratios
+
+102. The criteria also consider one or more supplemental ratios (in addition to the core ratios) to help develop a fuller understanding of a company's financial risk profile and fine-tune our cash flow/leverage analysis. Supplemental ratios could either confirm or adjust the preliminary cash flow/leverage assessment. The confirmation or adjustment of the preliminary cash flow/leverage assessment will depend on the importance of the supplemental ratios as well as any difference in indicative cash flow/leverage assessment between the core and supplemental ratios as described in section E.3.b.
+
+103. The criteria typically consider five standard supplemental ratios, although the relevant KCF article or "**[Guidance: Corporate Methodology](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/11046716)**" may introduce additional supplemental ratios or focus attention on one or more of the standard supplemental ratios. The standard supplemental ratios include three payback ratios--cash flow from operations (CFO) to debt, free operating cash flow (FOCF) to debt, and discretionary cash flow (DCF) to debt--and two coverage ratios, FFO plus interest paid to cash interest paid and EBITDA to interest.
+
+104. The criteria provide guidelines as to the relative importance of certain ratios if a company exhibits characteristics such as high leverage, working capital intensity, capital intensity, or high growth.
+
+105. If the preliminary cash flow/leverage assessment is significant or weaker (see section E.3), then two coverage ratios, FFO plus cash interest paid to cash interest paid and EBITDA to interest, will be given greater importance as supplemental ratios. For the definition of these metrics please see "**[Corporate Methodology: Ratios And Adjustments](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/10906146)**".
+
+106. If the preliminary cash flow/leverage assessment is intermediate or stronger, the criteria first apply the three standard supplemental ratios of CFO to debt, FOCF to debt, and DCF to debt. When FOCF to debt and DCF to debt indicate a cash flow/leverage assessment that is lower than the other payback-ratio-derived cash flow/leverage assessments, it signals that the company has either larger than average capital spending or other non-operating cash distributions (including dividends). If these differences persist and are consistent with a negative trend in overall ratio levels, which we believe is not temporary, then these supplemental leverage ratios will take on more importance in the analysis.
+
+107. If the supplemental ratios indicate a cash flow/leverage assessment that is different than the preliminary cash flow/leverage assessment, it could suggest an unusual debt service or fixed charge burden, working capital or capital expenditure profile, or unusual financial activity or policies. In such cases, we assess the sustainability or persistence of these differences. For example, if either working capital or capital expenditures are unusually low, leading to better indicated assessments, we examine the sustainability of such lower spending in the context of its impact on the company's longer term competitive position. If there is a deteriorating trend in the company's asset base, we give these supplemental ratios less weight. If either working capital or capital expenditures are unusually high, leading to weaker indicated assessments, we examine the persistence and need for such higher spending. If elevated spending levels are required to maintain a company's competitive position, for example to maintain the company's asset base, we give more weight to these supplemental ratios.
+
+108. For capital-intensive companies, EBITDA and FFO may overstate financial strength, whereas FOCF may be a more accurate reflection of their cash flow in relation to their financial obligations. The criteria generally consider a capital-intensive company as having ongoing capital spending to sales of greater than 10%, or depreciation to sales of greater than 8%. For these companies, the criteria place more weight on the supplementary ratio of FOCF to debt. Where we place more analytic weight on FOCF to debt, we also seek to estimate the amount of maintenance or full cycle capital required (see Appendix C) under normal conditions (we estimate maintenance or full-cycle capital expenditure required because this is not a reported number). The FOCF figure may be adjusted by adding back estimated discretionary capital expenditures. The adjusted FOCF to debt based on maintenance or full cycle capital expenditures often helps determine how much importance to place on this ratio. If both the FOCF to debt and the adjusted (for estimated discretionary capital spending) FOCF to debt derived assessments are different from the preliminary cash/flow leverage assessment, then these supplemental leverage ratios take on more importance in the analysis.
+
+109. For working-capital-intensive companies, EBITDA and FFO may also overstate financial strength, and CFO may be a more accurate measure of the company's cash flow in relation to its financial risk profile. Under the criteria, if a company has a working capital-to-sales ratio that exceeds 25% or if there are significant seasonal swings in working capital, we generally consider it to be working-capital-intensive. For these companies, the criteria place more emphasis on the supplementary ratio of CFO to debt. Examples of companies that have working-capital-intensive characteristics can be found in the capital goods, metals and mining downstream, or the retail and restaurants industries. The need for working capital in those industries reduces financial flexibility and, therefore, these supplemental leverage ratios take on more importance in the analysis.
+
+110. For all companies, when FOCF to debt or DCF to debt is negative or indicates materially lower cash flow/leverage assessments, the criteria call for an examination of management's capital spending and cash distribution strategies. For high-growth companies, typically the focus is on FFO to debt instead of FOCF to debt because the latter ratio can vary greatly depending on the growth investment the company is undergoing. The criteria generally consider a high-growth company one that exhibits real revenue growth in excess of 8% per year. Real revenue growth excludes price or foreign exchange related growth, under these criteria. In cases where FOCF or DCF is low, there is a greater emphasis on monitoring the sustainability of margins and return on capital and the overall financing mix to assess the likely trend of future debt ratios. In addition, debt service ratio analysis will be important in such situations. For companies with more moderate growth, the focus is typically on FOCF to debt unless the capital spending is short term or is not funded with debt.
+
+111. For companies that have ongoing and well entrenched banking relationships we can reflect these relationships in our cash flow/leverage analysis through the use of the interest coverage ratios as supplemental ratios. These companies generally have historical links and a strong ongoing relationship with their main banks, as well as shareholdings by the main banks, and management influence and interaction between the main banks and the company. Based on their bank relationships, these companies often have lower interest servicing costs than peers, even if the macro economy worsens. In such cases, we generally use the interest coverage ratios as supplemental ratios. This type of banking relationship occurs in Japan, for example, where companies that have the type of bank relationship described in this paragraph tend to have a high socioeconomic influence within their country by way of their revenue size, total debt quantum, number of employees, and the relative importance of the industry.
+
+
+##### c) Time horizon and ratio calculation
+
+112. A company's credit ratios may vary, often materially, over time due to economic, competitive, technological, or investment cycles, the life stage of the company, and corporate or strategic actions. Thus, we evaluate credit ratios on a time series basis with a clear forward-looking bias. The length of the time series is dependent on the relative credit risk of the company and other qualitative factors and the weighting of the time series varies according to transformational events. A transformational event is any event that could cause a material change in a company's financial profile, whether caused by changes to the company's capital base, capital structure, earnings, cash flow profile, or financial policies. Transformational events can include mergers, acquisitions, divestitures, management changes, structural changes to the industry or competitive environment, product development and capital programs, and/or business disruptions, including those that arise from the materialization of substantial environmental or social risks. This section provides guidance on the timeframe and weightings the criteria apply to calculate the indicative ratios.
+
+113. The criteria generally consider the company's credit ratios for the previous one to two years, current-year forecast, and the two subsequent forecasted financial years. There may be situations where longer--or even shorter--historical results or forecasts are appropriate, depending on such factors as availability of financials, transformational events, or relevance. For example, a utility company with a long-term capital spending program may lend itself to a longer-term forecast, whereas for a company experiencing a near-term liquidity squeeze even a two-year forecast will have limited value. Alternatively, for most commodities-based companies we emphasize credit ratios based on our forward-looking view of market conditions, which may differ materially from the historical period.
+
+114. Historical patterns in cash flow ratios are informative, particularly in understanding past volatility, capital spending, growth, accounting policies, financial policies, and business trends. Our analysis starts with a review of these historical patterns in order to assess future expected credit quality. Historical patterns can also provide an indication of potential future volatility in ratios, including that which results from seasonality or cyclicality. A history of volatility could result in a more conservative assessment of future cash flow generation if we believe cash flow will continue to be volatile.
+
+115. The forecast ratios are based on an expected base-case scenario developed by S&P Global Ratings, incorporating current and near-term economic conditions, industry assumptions, and financial policies. The prospective cyclical and longer-term volatility associated with the industry in which the issuer operates is addressed in the industry risk criteria (see section B) and the longer-term directional influence or event risk of financial policies is addressed in our financial policy criteria (see section H).
+
+116. The criteria generally place greater emphasis on forecasted years than historical years in the time series of credit ratios when calculating the indicative credit ratio. For companies where we have five years of ratios as described in section E.3, generally we calculate the indicative ratio by weighting the previous two years, the current year, and the forecasted two years as 10%, 15%, 25%, 25%, and 25%, respectively.
+
+117. This weighting changes, however, to place even greater emphasis on the current and forecast years when:
+
+
+
+1. The issuer meets the characteristics described in paragraph 113, and either shorter- or longer-term forecasts are applicable. The weights applied will generally be quite forward weighted, particularly if a company is undergoing a transformational event and there is moderate or better cash flow certainty.
+2. The issuer is forecast to generate negative cash flow available for debt repayment, which we believe could lead to deteriorating credit metrics. Forecast negative cash flows could be generated from operating activities as well as capital expenditures, share buybacks, dividends, or acquisitions, as we forecast these uses of cash based on the company's track record, market conditions, or financial policy. The weights applied will generally be 30%, 40%, and 30% for the current and two subsequent years, respectively.
+3. The issuer is in an industry that is prospectively volatile or that has a high degree of cash flow uncertainty. Industries that are prospectively volatile are industries whose competitive risk and growth assessments are either high risk (5) or very high risk (6) or whose overall industry risk assessments are either high risk (5) or very high risk (6). The weights applied will generally be 50% for the current year and 50% for the first subsequent forecast year.
+4. An issuer experienced a significant business disruption due to exceptional events that are temporary and are not assumed to be repeated. These circumstances may stem, for example, from the materialization of environmental or social credit factors (e.g. an epidemic or pandemic health event, or man-made or natural environmental disaster). In such cases, we may take the view that historical financial performance is not indicative of the issuer's current and future earnings trends and put more weight on future year ratios.
+
+118. When the indicative ratio(s) is borderline (i.e., less than 10% different from the threshold in relative terms) between two assessment thresholds (as described in section E.3 and tables 17, 18, and 19) and the forecast points to a switch in the ratio between categories during the rating timeframe, we will weigh the forecast even more heavily in order to prospectively capture the trend.
+
+119. For companies undergoing a transformational event, the weighting of the time series could vary significantly.
+
+120. For companies undergoing a transformational event and with significant or weaker cash flow/leverage assessments, we place greater weight on near-term risk factors. That's because overemphasis on longer-term (inherently less predictable) issues could lead to some distortion when assessing the risk level of a speculative-grade company. We generally analyze a company using the arithmetic mean of the credit ratios expected according to our forecasts for the current year (or pro forma current year) and the subsequent financial year. A common example of this is when a private equity firm acquires a company using additional debt leverage, which makes historical financial ratios meaningless. In this scenario, we weight or focus the majority of our analysis on the next one or two years of projected credit measures.
+
+
+#### 3. Determining the cash flow/leverage assessment
+
+
+##### a) Identifying the benchmark table
+
+121. Tables 17, 18, and 19 provide benchmark ranges for various cash flow ratios we associate with different cash flow/leverage assessments for standard volatility, medial volatility, and low volatility industries. The tables of benchmark ratios differ for a given ratio and cash flow/leverage assessment along two dimensions: the starting point for the ratio range and the width of the ratio range.
+
+122. If an industry exhibits low volatility, the threshold levels for the applicable ratios to achieve a given cash flow/leverage assessment are less stringent than those in the medial or standard volatility tables, although the range of the ratios is narrower. Conversely, if an industry exhibits medial or standard levels of volatility, the threshold for the applicable ratios to achieve a given cash flow/leverage assessment are elevated, albeit with a wider range of values.
+
+123. The relevant benchmark table for a given company is based on our Corporate Industry and Country Risk Assessment, or the CICRA (see section A, table 1), as described in the bullet points below, unless otherwise indicated in a sector's KCF criteria or in "**[Guidance: Corporate Methodology](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/11046716)**."
+
+
+
+1. The low volatility table (table 19) will generally apply when a company's CICRA is '1' but can infrequently also apply to a company with a CICRA of '2' if the company exhibits or is expected to exhibit low levels of volatility.
+2. The medial volatility table (table 18) will generally apply for a company with a CICRA of '2' but can infrequently also apply to a company with a CICRA of '1' if the company exhibits or is expected to exhibit medial levels of volatility.
+3. The standard volatility table (table 17) serves as the relevant benchmark table for all CICRA scores other than '1', but we will always use it for companies with a CICRA of '1' or '2' whose competitive position is assessed as '5' or '6'.
+
+
+###### Table 17: Cash Flow/Leverage Analysis Ratios--Standard Volatility
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td colspan="2" ><strong>--CORE RATIOS--</strong>
+   </td>
+   <td colspan="2" ><strong>--SUPPLEMENTARY COVERAGE RATIOS--</strong>
+   </td>
+   <td colspan="3" ><strong>--SUPPLEMENTARY PAYBACK RATIOS--</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>FFO/DEBT (%)</strong>
+   </td>
+   <td><strong>DEBT/EBITDA (X)</strong>
+   </td>
+   <td><strong>FFO/CASH INTEREST(X)</strong>
+   </td>
+   <td><strong>EBITDA/INTEREST (X)</strong>
+   </td>
+   <td><strong>CFO/DEBT (%)</strong>
+   </td>
+   <td><strong>FOCF/DEBT (%)</strong>
+   </td>
+   <td><strong>DCF/DEBT (%)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Minimal
+   </td>
+   <td>60+
+   </td>
+   <td>Less than 1.5
+   </td>
+   <td>More than 13
+   </td>
+   <td>More than 15
+   </td>
+   <td>More than 50
+   </td>
+   <td>40+
+   </td>
+   <td>25+
+   </td>
+  </tr>
+  <tr>
+   <td>Modest
+   </td>
+   <td>45-60
+   </td>
+   <td>1.5-2
+   </td>
+   <td>9-13
+   </td>
+   <td>10-15
+   </td>
+   <td>35-50
+   </td>
+   <td>25-40
+   </td>
+   <td>15-25
+   </td>
+  </tr>
+  <tr>
+   <td>Intermediate
+   </td>
+   <td>30-45
+   </td>
+   <td>2-3
+   </td>
+   <td>6-9
+   </td>
+   <td>6-10
+   </td>
+   <td>25-35
+   </td>
+   <td>15-25
+   </td>
+   <td>10-15
+   </td>
+  </tr>
+  <tr>
+   <td>Significant
+   </td>
+   <td>20-30
+   </td>
+   <td>3-4
+   </td>
+   <td>4-6
+   </td>
+   <td>3-6
+   </td>
+   <td>15-25
+   </td>
+   <td>10-15
+   </td>
+   <td>5-10
+   </td>
+  </tr>
+  <tr>
+   <td>Aggressive
+   </td>
+   <td>12-20
+   </td>
+   <td>4-5
+   </td>
+   <td>2-4
+   </td>
+   <td>2-3
+   </td>
+   <td>10-15
+   </td>
+   <td>5-10
+   </td>
+   <td>2-5
+   </td>
+  </tr>
+  <tr>
+   <td>Highly leveraged
+   </td>
+   <td>Less than 12
+   </td>
+   <td>Greater than 5
+   </td>
+   <td>Less than 2
+   </td>
+   <td>Less than 2
+   </td>
+   <td>Less than 10
+   </td>
+   <td>Less than 5
+   </td>
+   <td>Less than 2
+   </td>
+  </tr>
+</table>
+
+
+
+###### Table 18: Cash Flow/Leverage Analysis Ratios--Medial Volatility
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td colspan="2" ><strong>--CORE RATIOS--</strong>
+   </td>
+   <td colspan="2" ><strong>--SUPPLEMENTARY COVERAGE RATIOS--</strong>
+   </td>
+   <td colspan="3" ><strong>--SUPPLEMENTARY PAYBACK RATIOS--</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>FFO/DEBT (%)</strong>
+   </td>
+   <td><strong>DEBT/EBITDA (X)</strong>
+   </td>
+   <td><strong>FFO/CASH INTEREST (X)</strong>
+   </td>
+   <td><strong>EBITDA/INTEREST (X)</strong>
+   </td>
+   <td><strong>CFO/DEBT (%)</strong>
+   </td>
+   <td><strong>FOCF/DEBT (%)</strong>
+   </td>
+   <td><strong>DCF/DEBT (%)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Minimal
+   </td>
+   <td>50+
+   </td>
+   <td>less than 1.75
+   </td>
+   <td>10.5+
+   </td>
+   <td>14+
+   </td>
+   <td>40+
+   </td>
+   <td>30+
+   </td>
+   <td>18+
+   </td>
+  </tr>
+  <tr>
+   <td>Modest
+   </td>
+   <td>35-50
+   </td>
+   <td>1.75-2.5
+   </td>
+   <td>7.5-10.5
+   </td>
+   <td>9-14
+   </td>
+   <td>27.5-40
+   </td>
+   <td>17.5-30
+   </td>
+   <td>11-18
+   </td>
+  </tr>
+  <tr>
+   <td>Intermediate
+   </td>
+   <td>23-35
+   </td>
+   <td>2.5-3.5
+   </td>
+   <td>5-7.5
+   </td>
+   <td>5-9
+   </td>
+   <td>18.5-27.5
+   </td>
+   <td>9.5-17.5
+   </td>
+   <td>6.5-11
+   </td>
+  </tr>
+  <tr>
+   <td>Significant
+   </td>
+   <td>13-23
+   </td>
+   <td>3.5-4.5
+   </td>
+   <td>3-5
+   </td>
+   <td>2.75-5
+   </td>
+   <td>10.5-18.5
+   </td>
+   <td>5-9.5
+   </td>
+   <td>2.5-6.5
+   </td>
+  </tr>
+  <tr>
+   <td>Aggressive
+   </td>
+   <td>9-13
+   </td>
+   <td>4.5-5.5
+   </td>
+   <td>1.75-3
+   </td>
+   <td>1.75-2.75
+   </td>
+   <td>7-10.5
+   </td>
+   <td>0-5
+   </td>
+   <td>(11)-2.5
+   </td>
+  </tr>
+  <tr>
+   <td>Highly leveraged
+   </td>
+   <td>Less than 9
+   </td>
+   <td>Greater than 5.5
+   </td>
+   <td>Less than 1.75
+   </td>
+   <td>Less than 1.75
+   </td>
+   <td>Less than 7
+   </td>
+   <td>Less than 0
+   </td>
+   <td>Less than (11)
+   </td>
+  </tr>
+</table>
+
+
+
+###### Table 19: Cash Flow/Leverage Analysis Ratios--Low Volatility
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td colspan="2" ><strong>--CORE RATIOS--</strong>
+   </td>
+   <td colspan="2" ><strong>--SUPPLEMENTARY COVERAGE RATIOS--</strong>
+   </td>
+   <td colspan="3" ><strong>--SUPPLEMENTARY PAYBACK RATIOS--</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><strong>FFO/DEBT (%)</strong>
+   </td>
+   <td><strong>DEBT/EBITDA (X)</strong>
+   </td>
+   <td><strong>FFO/CASH INTEREST (X)</strong>
+   </td>
+   <td><strong>EBITDA/INTEREST (X)</strong>
+   </td>
+   <td><strong>CFO/DEBT (%)</strong>
+   </td>
+   <td><strong>FOCF/DEBT (%)</strong>
+   </td>
+   <td><strong>DCF/DEBT (%)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Minimal
+   </td>
+   <td>35+
+   </td>
+   <td>Less than 2
+   </td>
+   <td>More than 8
+   </td>
+   <td>More than 13
+   </td>
+   <td>More than 30
+   </td>
+   <td>20+
+   </td>
+   <td>11+
+   </td>
+  </tr>
+  <tr>
+   <td>Modest
+   </td>
+   <td>23-35
+   </td>
+   <td>2-3
+   </td>
+   <td>5-8
+   </td>
+   <td>7-13
+   </td>
+   <td>20-30
+   </td>
+   <td>10-20
+   </td>
+   <td>7-11
+   </td>
+  </tr>
+  <tr>
+   <td>Intermediate
+   </td>
+   <td>13-23
+   </td>
+   <td>3-4
+   </td>
+   <td>3-5
+   </td>
+   <td>4-7
+   </td>
+   <td>12-20
+   </td>
+   <td>4-10
+   </td>
+   <td>3-7
+   </td>
+  </tr>
+  <tr>
+   <td>Significant
+   </td>
+   <td>9-13
+   </td>
+   <td>4-5
+   </td>
+   <td>2-3
+   </td>
+   <td>2.5-4
+   </td>
+   <td>8-12
+   </td>
+   <td>0-4
+   </td>
+   <td>0-3
+   </td>
+  </tr>
+  <tr>
+   <td>Aggressive
+   </td>
+   <td>6-9
+   </td>
+   <td>5-6
+   </td>
+   <td>1.5-2
+   </td>
+   <td>1.5-2.5
+   </td>
+   <td>5-8
+   </td>
+   <td>(10)-0
+   </td>
+   <td>(20)-0
+   </td>
+  </tr>
+  <tr>
+   <td>Highly leveraged
+   </td>
+   <td>Less than 6
+   </td>
+   <td>Greater than 6
+   </td>
+   <td>Less than 1.5
+   </td>
+   <td>Less than 1.5
+   </td>
+   <td>Less than 5
+   </td>
+   <td>Less than (10)
+   </td>
+   <td>Less than (20)
+   </td>
+  </tr>
+</table>
+
+
+
+##### b) Aggregating the credit ratio assessments
+
+124. To determine the final cash flow/leverage assessment, we make these calculations:
+
+1) First, calculate a time series of standard core and supplemental credit ratios, select the relevant benchmark table, and determine the appropriate time weighting of the credit ratios.
+
+
+
+1. Calculate the two standard core credit ratios and the five standard supplemental credit ratios over a five-year time horizon.
+2. Consult the relevant industry KCF article (if applicable) or "**[Guidance: Corporate Methodology](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/11046716)**," which may identify additional supplemental ratio(s). The relevant benchmark table for a given company is based on our assessment of the company's associated industry and country risk volatility, or the CICRA.
+3. Calculate the appropriate weighted average cash flow/leverage ratios. If the company is undergoing a transformational event, then the core and supplemental ratios will typically be calculated based on S&P Global Ratings' projections for the current and next one or two financial years.
+
+2) Second, we use the core ratios to determine the preliminary cash flow assessment.
+
+
+
+1. Compare the core ratios (FFO to debt and debt to EBITDA) to the ratio ranges in the relevant benchmark table.
+2. If the core ratios result in different cash flow/leverage assessments, we will select the relevant core ratio based on which provides the best indicator of a company's future leverage.
+
+3) Third, we review the supplemental ratio(s).
+
+
+
+1. Determine the importance of standard or KCF supplemental ratios based on company-specific characteristics, namely, leverage, capital intensity, working capital intensity, growth rate, or industry.
+
+4) Fourth, we calculate the adjusted cash flow/leverage assessment.
+
+
+
+1. If the cash flow/leverage assessment(s) indicated by the important supplemental ratio(s) differs from the preliminary cash flow/leverage assessment, we might adjust the preliminary cash flow/leverage assessment by one category in the direction of the cash flow/leverage assessment indicated by the supplemental ratio(s) to derive the adjusted cash flow/leverage assessment. We will make this adjustment if, in our view, the supplemental ratio provides the best indicator of a company's future leverage.
+2. If there is more than one important supplemental ratio and they result in different directional deviations from the preliminary cash flow/leverage assessment, we will select one as the relevant supplemental ratio based on which, in our opinion, provides the best indicator of a company's future leverage. We will then make the adjustment outlined above if the selected supplemental ratio differs from the preliminary cash flow/leverage assessment and the selected supplemental ratio provides the best overall indicator of a company's future leverage.
+
+5) Lastly, we determine the final cash flow/leverage assessment based on the volatility adjustment.
+
+
+
+1. We classify companies as stable for these cash flow criteria if cash flow/leverage ratios are expected to worsen by up to one category during periods of stress based on their business risk profile. The final cash flow/leverage assessment for these companies will not be modified from the adjusted cash flow/leverage assessment.
+2. We classify companies as volatile for these cash flow criteria if cash flow/leverage ratios are expected to move one or two categories worse during periods of stress based on their business risk profiles. Typically, this is equivalent to EBITDA declining about 30% from its current level. The final cash flow/leverage assessment for these companies will be modified to one category weaker than the adjusted cash flow/leverage assessment; the adjustment will be eliminated if cash flow/leverage ratios, as evaluated, include a moderate to high level of stress already.
+3. We classify companies as highly volatile for these cash flow criteria if cash flow/leverage ratios are expected to move two or three categories worse during periods of stress, based on their business risk profiles. Typically, this is equivalent to EBITDA declining about 50% from its current level. The final cash flow/leverage assessment for these companies will be modified to two categories weaker than the adjusted cash flow/leverage assessment; the adjustment will be eliminated or reduced to one category if cash flow/leverage ratios, as evaluated, include a moderate to high level of stress already.
+
+125. The volatility adjustment is the mechanism by which we factor a "cushion" of medium-term variance to current financial performance not otherwise captured in either the near-term base-case forecast or the long-term business risk assessment. We make this adjustment based on the following:
+
+
+
+1. The expectation of any potential cash flow/leverage ratio movement is both prospective and dependent on the current business or economic conditions.
+2. Stress scenarios include, but are not limited to, a recessionary economic environment, technology or competitive shifts, loss or renegotiation of major contracts or customers, the materialization of ESG credit risks, and key product or input price movements, as typically defined in the company's industry risk profile and competitive position assessment.
+3. The volatility adjustment is not static and is company specific. At the bottom of an economic cycle or during periods of stressed business conditions, already reflected in the general industry risk or specific competitive risk profile, the prospect of weakening ratios is far less than at the peak of an economic cycle or business conditions.
+4. The expectation of prospective ratio changes may be formed by observed historical performance over an economic, business, or product cycle by the company or by peers.
+5. The assessment of which classification to use when evaluating the prospective number of scoring category moves will be guided by how close the current ratios are to the transition point (i.e. "buffer" in the current scoring category) and the corresponding amount of EBITDA movement at each scoring transition.
+
+
+### APPENDIX
+
+
+#### C. Cash Flow/Leverage Analysis
+
+
+##### 1. The merits and drawbacks of each cash flow measure
+
+
+###### a) EBITDA
+
+236. EBITDA is a widely used, and therefore a highly comparable, indicator of cash flow, although it has significant limitations. Because EBITDA derives from the income statement entries, it can be distorted by the same accounting issues that limit the use of earnings as a basis of cash flow. In addition, interest can be a substantial cash outflow for speculative-grade companies and therefore EBITDA can materially overstate cash flow in some cases. Nevertheless, it serves as a useful and common starting point for cash flow analysis and is useful in ranking the financial strength of different companies.
+
+
+###### b) Funds from operations (FFO)
+
+237. FFO is a hybrid cash flow measure that estimates a company's inherent ability to generate recurring cash flow from its operations independent of working capital fluctuations. FFO estimates the cash flow available to the company before working capital, capital spending, and discretionary items such as dividends, acquisitions, etc.
+
+238. Because cash flow from operations tends to be more volatile than FFO, FFO is often used to smooth period-over-period variation in working capital. We consider it a better proxy of recurring cash flow generation because management can more easily manipulate working capital depending on its liquidity or accounting needs. However, we do not generally rely on FFO as a guiding cash flow measure in situations where assessing working capital changes is important to judge a company's cash flow generating ability and general creditworthiness. For example, for working-capital-intensive industries such as retailing, operating cash flow may be a better indicator than FFO of the firm's actual cash generation.
+
+239. FFO is a good measure of cash flow for well-established companies whose long-term viability is relatively certain (i.e., for highly rated companies). For such companies, there can be greater analytical reliance on FFO and its relation to the total debt burden. FFO remains very helpful in the relative ranking of companies. In addition, more established, healthier companies usually have a wider array of financing possibilities to cover potential short-term liquidity needs and to refinance upcoming maturities. For marginal credit situations, the focus shifts more to free operating cash flow--after deducting the various fixed uses such as working capital investment and capital expenditures--as this measure is more directly related to current debt service capability.
+
+
+###### c) Cash flow from operations (CFO)
+
+240. The measurement and analysis of CFO forms an important part of our ratings assessment, in particular for companies that operate in working-capital-intensive industries or industries in which working capital flows can be volatile. CFO is distinct from FFO as it is a pure measure of cash flow calculated after accounting for the impact on earnings of changes in operating assets and liabilities. CFO is cash flow that is available to finance items such as capital expenditures, repay borrowing, and pay for dividends and share buybacks.
+
+241. In many industries, companies shift their focus to cash flow generation in a downturn. As a result, even though they typically generate less cash from ordinary business activities because of low capacity utilization and relatively low fixed-cost absorption, they may generate cash by reducing inventories and receivables. Therefore, although FFO is likely to be lower in a downturn, the impact on CFO may not be as great. In times of strong growth the opposite will be true, and consistently lower CFO compared to FFO without a corresponding increase in revenue and profitability can indicate an untenable situation.
+
+242. Working capital is a key element of a company's cash flow generation. While there tends to be a need to build up working capital and therefore to consume cash in a growth or expansion phase, changes in working capital can also act as a buffer in case of a downturn. Many companies will sell off inventories and invest a lower amount in raw materials because of weaker business activities, both of which reduce the amount of capital and cash that is tied up in working capital. Therefore, working capital fluctuations can occur both in periods of revenue growth and contraction and analyzing a company's near-term working capital needs is crucial for estimating future cash flow developments.
+
+243. Often, businesses that are capital intensive are not working-capital-intensive: most of the capital commitment is upfront in equipment and machinery, while asset-light businesses may have to invest proportionally more in inventories and receivables. That also affects margins, because capital-intensive businesses tend to have proportionally lower operating expenses (and therefore higher EBITDA margins), while working-capital-intensive businesses usually report lower EBITDA margins. The resulting cash flow volatility can be significant: because all investment is made upfront in a capital-intensive business, there is usually more room to absorb subsequent EBITDA volatility because margins are higher. For example, a capital-intensive company may remain reasonably profitable even if its EBITDA margin declines from 30% to 20%. By contrast, a working-capital-intensive business with a lower EBITDA margin (due to higher operating expenses) of 8% can post a negative EBITDA margin if EBITDA volatility is large.
+
+
+###### d) Free operating cash flow (FOCF)
+
+244. By deducting capital expenditures from CFO, we arrive at FOCF, which can be used as a proxy for a company's cash generated from core operations. We may exclude discretionary capital expenditures for capacity growth from the FOCF calculation, but in practice it is often difficult to discriminate between spending for expansion and replacement. And, while companies have some flexibility to manage their capital budgets to weather down cycles, such flexibility is generally temporary and unsustainable in light of intrinsic requirements of the business. For example, companies can be compelled to increase their investment programs because of strong demand growth, technological changes, or to meet environmental regulatory requirements. Regulated entities (for example, telecommunications companies) might also face significant investment requirements related to their concession contracts (the understanding between a company and the host government that specifies the rules under which the company can operate locally).
+
+245. Positive FOCF is a sign of strength and helpful in distinguishing between two companies with the same FFO. In addition, FOCF is helpful in differentiating between the cash flows generated by more and less capital-intensive companies and industries.
+
+246. In highly capital-intensive industries (where maintenance capital expenditure requirements tend to be high) or in other situations in which companies have little flexibility to postpone capital expenditures, measures such as FFO to debt and debt to EBITDA may provide less valuable insight into relative creditworthiness because they fail to capture potentially meaningful capital expenditures. In such cases, a ratio such as FOCF to debt provides greater analytical insight.
+
+247. A company serving a low-growth or declining market may exhibit relatively strong FOCF because of diminishing fixed and working capital needs. Growth companies, in contrast, exhibit thin or even negative FOCF because of the investment needed to support growth. For the low-growth company, credit analysis weighs the positive, strong current cash flow against the danger that this high level of cash flow might not be sustainable. For the high-growth company, the opposite is true: weighing the negatives of a current cash deficit against prospects of enhanced cash flow once current investments begin yielding cash benefits. In the latter case, if we view the growth investment as temporary and not likely to lead to increased leverage over the long-term, we'll place greater analytical importance on FFO to debt rather than on FOCF to debt. In any event, we also consider the impact of a company's growth environment in our business risk analysis, specifically in a company's industry risk analysis (see section B).
+
+
+###### e) Discretionary cash flow (DCF)
+
+248. For corporate issuers primarily rated in the investment-grade universe, DCF to debt can be an important barometer of future cash flow adequacy as it more fully reflects a company's financial policy, including decisions regarding dividend payouts and share buybacks. In addition, potential M&A can represent a very significant use of cash and is an important component in cash flow analysis.
+
+249. The level of dividends depends on a company's financial strategy. Companies with aggressive dividend payout targets might be reluctant to reduce dividends even under some liquidity pressure. In addition, investment-grade companies are less likely to reduce dividend payments following some reversals--although dividends ultimately are discretionary. DCF is the truest reflection of excess cash flow, but it is also the most affected by management decisions and, therefore, does not necessarily reflect the potential cash flow available.
+
+
+###### F. Corporate Criteria Glossary
+
+Anchor: The combination of an issuer's business risk profile assessment and its financial risk profile assessment determine the anchor. Additional rating factors can then modify the anchor to determine the final rating or SACP.
+
+Asset profile: A descriptive way to look at the types and quality of assets that comprise a company (examples can include tangible versus intangible assets, those assets that require large and continuing maintenance, upkeep, or reinvestment, etc.).
+
+Business risk profile: This measure comprises the risk and return potential for a company in the market in which it participates, the country risks within those markets, the competitive climate, and the competitive advantages and disadvantages the company has. The criteria combine the assessments for Corporate Industry and Country Risk Assessment (CICRA), and competitive position to determine a company's business risk profile assessment.
+
+Capital-intensive company: A company exhibiting large ongoing capital spending to sales, or a large amount of depreciation to sales. Examples of capital-intensive sectors include oil production and refining, telecommunications, and transportation sectors such as railways and airlines.
+
+Cash available for debt repayment: Forecast cash available for debt repayment is defined as the net change in cash for the period before debt borrowings and debt repayments. This includes forecast discretionary cash flow adjusted for our expectations of any share issuance and M&A. Discretionary cash flow is defined in our Ratios And Adjustments criteria and guidance.
+
+Competitive position: Our assessment of a company's: 1) competitive advantage; 2) operating efficiency; 3) scale, scope, and diversity; and 4) profitability.
+
+
+
+1. Competitive advantage--The strategic positioning and attractiveness to customers of the company's products or services, and the fragility or sustainability of its business model.
+2. Operating efficiency--The quality and flexibility of the company's asset base and its cost management and structure.
+3. Scale, scope, and diversity--The concentration or diversification of business activities.
+4. Profitability--Our assessment of both the company's level of profitability and volatility of profitability.
+
+Competitive Position Group Profile (CPGP): Used to determine the weights to be assigned to the three components of competitive position other than profitability. While industries are assigned to one of the six profiles, individual companies and industry subsectors can be classified into another CPGP because of unique characteristics. Similarly, national industry risk factors can affect the weighing. The six CPGPs are:
+
+
+
+1. Services and product focus,
+2. Product focus/scale driven,
+3. Capital or asset focus,
+4. Commodity focus/cost driven,
+5. Commodity focus/scale driven, and
+6. National industry and utilities.
+
+Conglomerate: Companies that have at least three distinct business segments, each contributing between 10%-50% of EBITDA or FOCF. Such companies may benefit from the diversification/portfolio effect.
+
+Controlling shareholders: Equity owners who are able to affect decisions of varying effect on operations, leverage, and shareholder reward without necessarily being a majority of shareholders.
+
+Corporate Industry and Country Risk Assessment (CICRA): The result of the combination of an issuer's country risk assessment and industry risk assessment.
+
+Debt co-insurance: The view that the joining-together of two or more firms whose earnings streams are less-than-perfectly correlated reduces the risk of default of the merged firms (i.e., the co-insurance effect) and thereby increases the "debt capacity" or "borrowing ability" of the combined enterprise. These financing alternatives became more valuable during the global financial crisis of 2007-2009.
+
+Financial headroom: Measure of deviation tolerated in financial metrics without moving outside or above a pre-designated band or limit typically found in loan covenants (as in a debt to EBITDA multiple that places a constraint on leverage). Significant headroom would allow for larger deviations.
+
+Financial risk profile: The outcome of decisions that management makes in the context of its business risk profile and its financial risk tolerances. This includes decisions about the manner in which management seeks funding for the company and how it constructs its balance sheet. It also reflects the relationship of the cash flows the organization can achieve, given its business risk profile, to its financial obligations. The criteria use cash flow/leverage analysis to determine a corporate issuer's financial risk profile assessment.
+
+Financial sponsor: An entity that follows an aggressive financial strategy in using debt and debt-like instruments to maximize shareholder returns. Typically, these sponsors dispose of assets within a short to intermediate time frame. Financial sponsors include private equity firms, but not infrastructure and asset-management funds, which maintain longer investment horizons.
+
+Profitability ratio: Commonly measured using return on capital and EBITDA margins but can be measured using sector-specific ratios. Generally calculated based on a five-year average, consisting of two years of historical data, and our projections for the current year and the next two financial years.
+
+Shareholder remuneration policies: Management's stated shareholder reward plans (such as a buyback or dividend amount, or targeted payout ratios).
+
+Stand-alone credit profile (SACP): S&P Global Ratings' opinion of an issue's or issuer's creditworthiness, in the absence of extraordinary intervention or support from its parent, affiliate, or related government or from a third-party entity such as an insurer.
+
+Transfer and convertibility assessment: S&P Global Ratings' view of the likelihood of a sovereign restricting nonsovereign access to foreign exchange needed to satisfy the nonsovereign's debt service obligations.
+
+Unconsolidated equity affiliates: Companies in which an issuer has an investment, but which are not consolidated in an issuer's financial statements. Therefore, the earnings and cash flows of the investees are not included in our primary metrics unless dividends are received from the investees.
+
+Upstream/midstream/downstream: Referring to exploration and production, transport and storage, and refining and distributing, respectively, of natural resources and commodities (such as metals, oil, gas, etc.).
+
+Volatility of profitability/SER: We base the volatility of profitability on the standard error of the regression (SER) for a company's historical EBITDA. The SER is a statistical measure that is an estimate of the deviation around a 'best fit' trend line. We combine it with the profitability ratio to determine the final profitability assessment. We only calculate SER when companies have at least seven years of historical annual data, to ensure that the results are meaningful.
+
+Working-capital-intensive companies: Generally a company with large levels of working capital in relation to its sales in order to meet seasonal swings in working capital. Examples of working-capital-intensive sectors include retail, auto manufacturing, and capital goods.
+
+
+#### G. Sector-Specific Criteria
+
+
+##### 1) Asset managers
+
+
+### FREQUENTLY ASKED QUESTIONS
+
+
+#### A. Volatility of cash flows
+
+
+##### If a company exhibits volatile cash flow metrics, does S&P Global Ratings capture this in the cash flow volatility adjustment or in the financial policy assessment?
+
+We capture this in either analytic factor, as appropriate. As per paragraph 125, the volatility adjustment is the mechanism by which we factor a "cushion" of medium-term variance to current financial performance not otherwise captured in either the near-term base-case forecast or the long-term business risk assessment. We make this adjustment based on the following:
+
+
+
+1. The expectation of any potential cash flow/leverage ratio movement is both prospective and dependent on the current business or economic conditions.
+2. Stress scenarios include, but are not limited to, a recession, technology or competitive shifts, loss or renegotiation of major contracts or customers, and key product or input price movements, as typically defined in the company's industry risk profile and competitive position assessment.
+3. The volatility adjustment is not static and is company-specific. At the bottom of an economic cycle or during periods of stressed business conditions, already reflected in the general industry risk or specific competitive risk profile, the prospect of weakening ratios is far less than at the peak of an economic cycle or business conditions.
+4. The expectation of prospective ratio changes may be formed by observed historical performance over an economic, business, or product cycle by the company or by peers.
+5. The assessment of which classification to use when evaluating the prospective number of scoring category moves will be guided by how close the current ratios are to the transition point (i.e. "buffer" in the current scoring category) and the corresponding amount of EBITDA movement at each scoring transition.
+
+As per paragraph 157, financial policy refines our view of a company's risks beyond the conclusions arising from the standard assumptions in the cash flow/leverage assessment. Those assumptions do not always reflect or entirely capture the short-to-medium term event risks or the longer-term risks stemming from a company's financial policy. To the extent movements in one of these factors cannot be confidently predicted within our forward-looking evaluation of cash flow/leverage, we capture that risk in our evaluation of financial policy.
+
+
+##### What constitutes a period of stress when assessing whether a company has a volatile or highly volatile level of cash flow/leverage?
+
+As guidance, our global default studies demonstrate significant correlation of defaults with weak points in business cycles and banking crises. The 1991 peak default rate occurred after a mild recession in the U.S., a severe but short recession in the U.K., and the Nordic banking crisis. Other developed-market speculative-grade default peaks were the U.S., at 10.6% in 2001 (the U.S. recession) and 11.4% in 2009 (the global banking crisis and recession); and Europe, at 12.3% in 2002 (due in part to the bursting of the technology/Internet bubble and failures of a large number of telecom start-ups).
+
+Additional guidance can be found in "**[Methodology: Industry Risk](https://disclosure.spglobal.com/en/regulatory/article/-/view/sourceId/8304862)**," Appendix 1 where we considered sensitivity to economic cycles, as measured by the historical cyclical peak-to-trough decline in profitability and revenues for major recessions ('BBB' and 'BB' stress) mapped to specific industry sectors.
+
+
+#### B. Profitability
+
+
+##### If a company operates in a region or in a country where local inflation is high, and you believe that this affects the comparability of its profitability measures with industry peers', how do you incorporate this in your assessment?
+
+When analyzing level of profitability, we use, where available, the numeric guidance developed by considering the distribution of profitability measures within an industry or subsector. These thresholds apply globally irrespective of the underlying level of inflation, although we also consider trends in the profitability ratio to determine the level of profitability assessment. However, high inflation environments are often associated with exposure to countries with a high country risk, in which case as per paragraph 87 we may adjust the volatility of profitability assessment to account for this exposure. Finally, to the extent not captured elsewhere in the analysis, we may incorporate this factor as part of the comparable ratings analysis.
