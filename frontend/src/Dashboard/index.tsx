@@ -17,6 +17,7 @@ import {
   Container,
 } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
+import Markdown from 'react-markdown';
 import RiskBadge from '../RiskBadge/index';
 import CompanyRecord from '../types/CompanyRecord';
 import NewsItem from '../types/NewsItem';
@@ -42,8 +43,6 @@ const Dashboard: React.FC<{ selectedCompany: CompanyRecord }> = ({selectedCompan
       toggle();
     }
   }, [isLoading])
-
-  console.log(data)
 
   return (
     <Container>
@@ -81,20 +80,30 @@ const Dashboard: React.FC<{ selectedCompany: CompanyRecord }> = ({selectedCompan
             <Accordion>
               <Accordion.Item key={'data-risk-reasoning'} value={'risk-reasoning'}>
                 <Accordion.Control icon={'❔'}>{'Reasoning'}</Accordion.Control>
-                <Accordion.Panel><Text>{data.risk.reasoning}</Text></Accordion.Panel>
+                <Accordion.Panel><Container><Markdown>{data.risk.reasoning.replaceAll('#', '###').split('FINAL ANSWER OUTPUT')[0]}</Markdown></Container></Accordion.Panel>
               </Accordion.Item>
             </Accordion>
           </Group>
         </Card.Section>
       </Card>
-      <Card withBorder shadow="md" padding="md">
+      {(data.cik && data.cik != '?????????????') ? <Card withBorder shadow="md" padding="md">
         <Card.Section>
           <Title>Q&A</Title>
         </Card.Section>
         <Card.Section>
           <QAComponent companyData={data} />
         </Card.Section>
-      </Card>
+      </Card> :
+      <Card withBorder shadow="md" padding="md">
+      <Card.Section>
+        <Title>Q&A</Title>
+      </Card.Section>
+      <Card.Section>
+        <br></br>
+        <Text>Q&A is currently not available for this company.</Text>
+      </Card.Section>
+    </Card>
+      }
       {data.info && data.info.quote && <Card withBorder shadow="md" padding="md">
         <Card.Section>
           <Title>Price</Title>

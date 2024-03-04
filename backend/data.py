@@ -1,5 +1,7 @@
 example_company = {
     "ticker": "KBR",
+    "cik": "?????????????",
+    "cik2": "CIK0000320193",
     "info": {
     "news": [
       {

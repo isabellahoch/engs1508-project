@@ -10,6 +10,7 @@ import pickle
 import string
 import time
 import os
+from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -24,14 +25,35 @@ from langchain_community.llms import HuggingFaceHub
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
 
-from fastapi import FastAPI
+from langchain.callbacks.base import BaseCallbackHandler
+from langchain.chains import RetrievalQAWithSourcesChain
+from langchain.retrievers.web_research import WebResearchRetriever
+
+from fastapi import FastAPI, WebSocket
 
 from utils import *
 from prompt_templates import *
 from financial_info import *
+from scraping import get_10k_text
 from data import example_company
 
+import logging
+logging.basicConfig()
+logging.getLogger("langchain.retrievers.web_research").setLevel(logging.INFO)
+
 app = FastAPI()
+
+origins = ["http://localhost:5173"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+os.environ["OPENAI_API_BASE"] = "https://api.openai.com/v1"
 
 load_dotenv()
 
@@ -112,9 +134,105 @@ chain = (
     | StrOutputParser()
 )
 
+
+
+# Vectorstore
+import faiss
+from langchain.vectorstores import FAISS
+from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain.docstore import InMemoryDocstore
+embeddings_model = OpenAIEmbeddings()
+embedding_size = 1536
+index = faiss.IndexFlatL2(embedding_size)
+vectorstore_public = FAISS(embeddings_model.embed_query, index, InMemoryDocstore({}), {})
+
+# LLM
+from langchain.chat_models import ChatOpenAI
+llm = ChatOpenAI(model_name="gpt-3.5-turbo-16k", temperature=0, streaming=True)
+
+# Search
+from langchain.utilities import GoogleSearchAPIWrapper
+search = GoogleSearchAPIWrapper()
+
+# Initialize
+web_retriever = WebResearchRetriever.from_llm(
+    vectorstore=vectorstore_public,
+    llm=llm,
+    search=search,
+    num_search_results=5
+)
+
+from langchain.text_splitter import CharacterTextSplitter, RecursiveCharacterTextSplitter
+from langchain.embeddings import OpenAIEmbeddings
+from langchain.vectorstores import FAISS
+
+def vectorstore_10k(cik):
+
+  data = get_10k_text(cik)
+
+  metadatas = [{"document": "10-K", "cik": cik, "source": "Company 10-K"}]
+
+  text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
+
+  pages = text_splitter.split_text(data)
+
+  documents = text_splitter.create_documents(
+      [data], metadatas=metadatas
+  )
+
+  embeddings = OpenAIEmbeddings()
+
+  vectorstore = FAISS.from_documents(documents, embedding=embeddings)
+
+  return vectorstore
+
+def create_sec_vectorstore(cik):
+
+    sec_vectorstore = vectorstore_10k(cik)
+
+    sec_doc_retriever = sec_vectorstore.as_retriever()
+
+    retrievers = [web_retriever, sec_doc_retriever]
+
+    custom_retriever = CustomRetriever()
+
+    custom_retriever.set_retrievers(retrievers)
+
+    return custom_retriever
+
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
+
+@app.websocket("/messages")
+async def websocket_messages_endpoint(websocket: WebSocket):
+    await websocket.accept()
+    while True:
+        data = await websocket.receive_text()
+        await websocket.send_text(f"Message text was: {data}")
+
+@app.websocket("/companies/{cik}/chat")
+async def company_chat(websocket: WebSocket, cik: str):
+
+    await websocket.accept()
+
+    multi_retriever = create_sec_vectorstore(cik)
+
+    qa_chain = RetrievalQAWithSourcesChain.from_chain_type(llm, retriever=multi_retriever)
+    
+    while True:
+        data = await websocket.receive_text()
+        result = qa_chain({"question": data})
+        await websocket.send_text(f"Answer: {result['answer']}")
+        await websocket.send_text(f"Sources: {result['sources']}")
+
+@app.get("/companies")
+def return_searchable_companies():
+    temp_df = df[df['ticker']!='???']
+    temp_df = temp_df[['company_name', 'ticker']]
+    temp_df['name'] = temp_df['company_name']
+    temp_df['cik'] = [''] * temp_df.shape[0]
+    return temp_df[['name', 'ticker', 'cik']].to_dict(orient='records')
 
 @app.get("/companies/cik/{cik}")
 def return_company_info_from_cik(cik: str, q: Union[str, None] = None):
@@ -173,7 +291,9 @@ def return_df_info_from_ticker(ticker: str, q: Union[str, None] = None):
 @app.get("/companies/{ticker}")
 def return_company_info_from_ticker(ticker: str, q: Union[str, None] = None):
 
-    return example_company # temporary
+    cik = ticker_to_cik(ticker)
+
+    # return example_company # temporary
 
     matches_df = df.loc[df['ticker'] == ticker]
     
@@ -217,7 +337,10 @@ def return_company_info_from_ticker(ticker: str, q: Union[str, None] = None):
 
     finnhub_info = get_finnhub_info(ticker)
 
+    cik = ticker_to_cik(ticker)
+
     return {"ticker": ticker,
+            "cik": cik,
             "info": finnhub_info,
             "risk": { "answer": final_answer, "reasoning": reasoning },
             "details": row}

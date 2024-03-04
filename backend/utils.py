@@ -140,3 +140,79 @@ def mistral_extract_output(text):
   response = response.split("[\\INST]")[-1]
   response = response.split("[//INST]")[-1]
   return response
+
+
+from langchain.schema.retriever import BaseRetriever
+from langchain.callbacks.manager import CallbackManagerForRetrieverRun
+
+class CustomRetriever(BaseRetriever):
+
+  retrievers = []
+
+  class Config:
+      arbitrary_types_allowed = True
+
+  def set_retrievers(self, _retrievers):
+    self.retrievers = _retrievers
+
+  def _get_relevant_documents(
+      self, query: str, *, run_manager: CallbackManagerForRetrieverRun
+  ):
+    # Use all existing retrievers to get the documents
+    documents = []
+    for i, retriever in enumerate(self.retrievers):
+        try:
+            documents.extend(retriever.get_relevant_documents(query, callbacks=run_manager.get_child(f"retriever_{i+1}")))
+        except Exception as e: # in case we run into quota issues with google search, for instance
+            print(e)
+
+    return documents
+
+  def get_relevant_documents(
+      self, query: str, *, run_manager: CallbackManagerForRetrieverRun
+  ):
+    # Use all existing retrievers to get the documents
+    documents = []
+    for i, retriever in enumerate(self.retrievers):
+        try:
+            documents.extend(retriever.get_relevant_documents(query, callbacks=run_manager.get_child(f"retriever_{i+1}")))
+        except Exception as e: # in case we run into quota issues with google search, for instance
+            print(e)
+
+    return documents
+
+import json
+
+def load_json(filename):
+  """Loads a JSON file from the given path."""
+  with open(filename, 'r') as f:
+    data = json.load(f)
+  return data
+
+def load_txt(filename):
+  """Loads a tab-delimited text file into a dictionary."""
+  data = {}
+  with open(filename, 'r') as f:
+    for line in f:
+      ticker, cik = line.strip().split('\t')
+      data[ticker] = cik
+  return data
+
+# Load data
+json_ticker_data = load_json("./data/company_tickers.json")
+txt_ticker_data = load_txt("./data/ticker.txt")
+
+def normalize_ticker_str(raw_cik):
+    if len(raw_cik) == 13:
+        return raw_cik
+    cik = raw_cik
+    while(len(cik) < 10):
+        cik = '0'+cik 
+    return 'CIK'+cik
+
+def ticker_to_cik(ticker):
+  """Maps a ticker symbol to its corresponding CIK from the JSON data."""
+  for key, value in json_ticker_data.items():
+    if value['ticker'] == ticker:
+      return normalize_ticker_str(str(value['cik_str']))
+  return '?'*13

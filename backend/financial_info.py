@@ -25,4 +25,4 @@ def get_finnhub_info(ticker):
   
   peers = finnhub_client.company_peers(ticker)
 
-  return {"news": news, "quote": quote, "peers": peers}
+  return {"news": news[:10], "quote": quote, "peers": peers}

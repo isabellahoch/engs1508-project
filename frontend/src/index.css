@@ -31,6 +31,26 @@
   margin: 0px;
 }
 
+.financial-dashboard-Input-input {
+  min-width: 300px;
+}
+
+.financial-dashboard-Accordion-root {
+  width: 100%;
+}
+
+div.financial-dashboard-Accordion-root {
+  width: 100%;
+}
+
+.financial-dashboard-Accordion-item {
+  width: 100%;
+}
+
+div.financial-dashboard-Accordion-item {
+  width: 100%;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
