@@ -1,11 +1,10 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
-import 'dotenv/config';
-import Company from '../types/Company';
-import CompanyRecord from '../types/CompanyRecord';
+import Company from '../../types/Company';
+import CompanyRecord from '../../types/CompanyRecord';
 
 export const riskyBusinessApi = createApi({
-  reducerPath: 'pokemonApi',
-  baseQuery: fetchBaseQuery({ baseUrl: `${process.env.API_URL}/api/` }),
+  reducerPath: 'api',
+  baseQuery: fetchBaseQuery({ baseUrl: `${import.meta.env.VITE_API_URL}/` }),
   endpoints: (builder: any) => ({
     getCompanyByCIK: builder.query({
       query: (cik: string) => `companies/cik/${cik}`,

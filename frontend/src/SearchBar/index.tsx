@@ -17,7 +17,6 @@ const SearchBar: React.FC<SearchBarProps> = ({ companies, onSelect }: SearchBarP
 
   useEffect(() => {
     const filterCompanies = () => {
-        console.log(searchText);
       const lowerSearchText = searchText.toLowerCase();
       setFilteredCompanies(
         companies.filter((company) => {
@@ -49,8 +48,8 @@ const SearchBar: React.FC<SearchBarProps> = ({ companies, onSelect }: SearchBarP
   const content = (
     <Container style={{ padding: theme.spacing.md }}>
       {filteredCompanies.length > 0 ? (
-        filteredCompanies.map((company) => (
-          <Container key={company.cik} onClick={() => handleSelect(company)}>
+        filteredCompanies.map((company, index) => (
+          <Container key={`${index}-${company.ticker}`} onClick={() => handleSelect(company)}>
             {company.name} ({company.ticker})
           </Container>
         ))

@@ -3,6 +3,8 @@
 import React, { useEffect, useState, forwardRef } from 'react';
 import {
   Group,
+  Grid,
+  Box,
   Text,
   Title,
   Divider,
@@ -11,65 +13,107 @@ import {
   Tooltip,
   Anchor,
   Accordion,
+  LoadingOverlay,
   Container,
 } from '@mantine/core';
+import { useDisclosure } from '@mantine/hooks';
 import RiskBadge from '../RiskBadge/index';
-import Company from '../types/Company';
+import CompanyRecord from '../types/CompanyRecord';
 import NewsItem from '../types/NewsItem';
 import FinancialStats from '../FinancialStats/index';
 import QuoteViz from '../QuoteViz/index';
 import QAComponent from '../Q&A/index';
+import Loading from '../Loading';
+import Masonry, {ResponsiveMasonry} from "react-responsive-masonry"
+import { useGetCompanyByTickerQuery } from '../services/api/index';
 
-const Dashboard: React.FC<{ companyData: Company }> = ({companyData}) => {
+const Dashboard: React.FC<{ selectedCompany: CompanyRecord }> = ({selectedCompany}: any) => {
 
-    const { ticker, info, risk, details } = companyData;
+  const { data, error, isLoading } = useGetCompanyByTickerQuery(selectedCompany.ticker);
 
-  if (!companyData) {
-    return <Text>No data found for this company.</Text>;
+  const [visible, { toggle }] = useDisclosure(false);
+
+  if ((!isLoading && !data) || error) {
+    return (<Text>No data found for this company.</Text>);
   }
 
-  console.log(companyData);
+  useEffect(() => {
+    if(!isLoading && visible) {
+      toggle();
+    }
+  }, [isLoading])
+
+  console.log(data)
 
   return (
     <Container>
-    <Group spacing="md">
+      {selectedCompany && <Card withBorder shadow="md" padding="md" style={{marginBottom: "30px", marginTop: "25px"}}>
+      <Card.Section>
+        <Title>{selectedCompany.name} ({selectedCompany.ticker})</Title>
+      </Card.Section>
+      <Card.Section>
+        {selectedCompany.cik}
+      </Card.Section>
+    </Card>}
+
+    {data ? 
+    <ResponsiveMasonry
+                columnsCountBreakPoints={{350: 1, 750: 2}}
+            >
+                <Masonry gutter="30px" columnsCount={2}>
+    {/* <LoadingOverlay visible={isLoading} zIndex={1000} overlayProps={{ radius: "sm", blur: 2 }}> */}
+    
       <Card withBorder shadow="md" padding="md">
         <Card.Section>
-          <Title>{details.company_name}</Title>
+          <Title>{data.details.company_name}</Title>
         </Card.Section>
         <Card.Section>
-          <Text>{details.business_description}</Text>
+          <Text>{data.details.business_description}</Text>
           <Divider my="md" />
           <Group>
             <Text>Financial Risk:</Text>
             <Tooltip label="True Value">
-              <RiskBadge riskLevel={details.financial_risk_profile_numeric} />
+              <RiskBadge riskLevel={data.details.financial_risk_profile_numeric} />
             </Tooltip>
             <Tooltip label="Predicted Value">
-              <RiskBadge riskLevel={risk.answer} />
+              <RiskBadge riskLevel={data.risk.answer} />
             </Tooltip>
             <Accordion>
-              <Accordion.Item key={'risk-reasoning'} value={'risk-reasoning'}>
+              <Accordion.Item key={'data-risk-reasoning'} value={'risk-reasoning'}>
                 <Accordion.Control icon={'❔'}>{'Reasoning'}</Accordion.Control>
-                <Accordion.Panel><Text>{risk.reasoning}</Text></Accordion.Panel>
+                <Accordion.Panel><Text>{data.risk.reasoning}</Text></Accordion.Panel>
               </Accordion.Item>
             </Accordion>
           </Group>
         </Card.Section>
       </Card>
-      <Group spacing="sm">
-        <Card withBorder shadow="md" padding="md">
+      <Card withBorder shadow="md" padding="md">
+        <Card.Section>
+          <Title>Q&A</Title>
+        </Card.Section>
+        <Card.Section>
+          <QAComponent companyData={data} />
+        </Card.Section>
+      </Card>
+      {data.info && data.info.quote && <Card withBorder shadow="md" padding="md">
+        <Card.Section>
+          <Title>Price</Title>
+        </Card.Section>
+        <Card.Section>
+          <QuoteViz stockData={data.info.quote} />
+        </Card.Section>
+      </Card>}
+      <Card withBorder shadow="md" padding="md">
           <Card.Section>
             <Title>Recent News</Title>
           </Card.Section>
           <Card.Section>
-            {info && info.news && info.news.length === 0 ? (
+            {data.info && data.info.news && data.info.news.length === 0 ? (
               <Text>No recent news found.</Text>
             ) : (
               <List>
-              {/* {JSON.stringify(info.news)} */}
-                {info.news.map((article: NewsItem) => (
-                  <List.Item key={article.id}>
+                {data.info.news.map((article: NewsItem, index) => (
+                  <List.Item key={`${index}-${article.id}`}>
                     <Anchor href={article.url}>{article.headline}</Anchor>
                   </List.Item>
                 ))}
@@ -77,45 +121,33 @@ const Dashboard: React.FC<{ companyData: Company }> = ({companyData}) => {
             )}
           </Card.Section>
         </Card>
+
         <Card withBorder shadow="md" padding="md">
           <Card.Section>
-            <Title>Peers</Title>
+            <Title>Comps</Title>
           </Card.Section>
           <Card.Section>
-            {info && info.peers && info.peers.length === 0 ? (
+            {data.info && data.info.peers && data.info.peers.length === 0 ? (
               <Text>No close peers found.</Text>
-            ) : (<>{info.peers.map((peer:string) => <Anchor m={10} href={`https://finance.yahoo.com/quote/${peer}`}>{peer}</Anchor> )}</>)}
+            ) : (<>{data.info.peers.map((peer:string) => <Anchor m={10} href={`https://finance.yahoo.com/quote/${peer}`}>{peer}</Anchor> )}</>)}
           </Card.Section>
         </Card>
-      </Group>
-      <Card withBorder shadow="md" padding="md">
-        <Card.Section>
-          <Title>Q&A</Title>
-        </Card.Section>
-        <Card.Section>
-          <QAComponent companyData={companyData} />
-        </Card.Section>
-      </Card>
+
       <Card withBorder shadow="md" padding="md">
         <Card.Section>
           <Title>Key Financial Metrics</Title>
         </Card.Section>
         <Card.Section>
-          {!details ? (
+          {!data.details ? (
             <Text>No details found.</Text>
-          ) : (<FinancialStats detailsData={details} />)}
+          ) : (<FinancialStats detailsData={data.details} />)}
         </Card.Section>
       </Card>
-      {info && info.quote && <Card withBorder shadow="md" padding="md">
-        <Card.Section>
-          <Title>Price</Title>
-        </Card.Section>
-        <Card.Section>
-          <QuoteViz stockData={info.quote} />
-        </Card.Section>
-      </Card>}
-    </Group>
-    </Container>
+    {/* </LoadingOverlay> */}
+      </Masonry>
+            </ResponsiveMasonry>
+            : (<Container><Loading /></Container>)}
+      </Container>
   );
 };
 

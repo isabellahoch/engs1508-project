@@ -9,8 +9,6 @@ const QuoteViz = ({stockData}: any) => {
     const dataPoints = [stockData['pc'], stockData['o'], stockData['l'], stockData['h'], stockData['c']]
 
     const data = [stockData['pc'], stockData['o'], stockData['l'], stockData['h'], stockData['c']].map((price) => ({price, name:'trend'}))
-
-    console.log(data);
   
     return (
 

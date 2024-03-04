@@ -1,5 +1,5 @@
 import React from 'react';
-import { CircularProgress, Text, Center } from '@mantine/core';
+import { Loader, Center } from '@mantine/core';
 
 interface LoadingProps {
   description?: string;
@@ -8,8 +8,7 @@ interface LoadingProps {
 const Loading: React.FC<LoadingProps> = ({ description = "Loading..." }) => {
   return (
     <Center style={{ height: '100%' }}>
-      <CircularProgress size="md" />
-      <Text mt="md">{description}</Text>
+      <Loader color="blue" size={200} />;
     </Center>
   );
 };
