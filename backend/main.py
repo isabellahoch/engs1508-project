@@ -29,6 +29,7 @@ from fastapi import FastAPI
 from utils import *
 from prompt_templates import *
 from financial_info import *
+from data import example_company
 
 app = FastAPI()
 
@@ -171,6 +172,8 @@ def return_df_info_from_ticker(ticker: str, q: Union[str, None] = None):
 
 @app.get("/companies/{ticker}")
 def return_company_info_from_ticker(ticker: str, q: Union[str, None] = None):
+
+    return example_company # temporary
 
     matches_df = df.loc[df['ticker'] == ticker]
     

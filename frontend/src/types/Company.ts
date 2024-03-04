@@ -1,33 +1,24 @@
-import NewsArticle from "./NewsArticle";
+import NewsItem from './NewsItem';
 
 interface Company {
-    name: string;
-    cik: number;
-    tickerSymbol: string;
+  ticker: string;
+  info: {
+    news: NewsItem[];
+    quote: Record<string, unknown>; // Unknown type due to lack of information
+    peers: string[];
+  };
+  risk: RiskResponse;
+  details: DetailsData;
+}
 
-    circaRating: string;
+interface RiskResponse {
+  answer: number;
+  reasoning: string;
+}
 
-    businessDescription: string;
-  
-    news: NewsArticle[];
-  
-    financialRisk: {
-      rating: string;
-      reasoning: string;
-    };
-  
-    metrics: {
-        ffoToDebt: number; 
-        debtToEbitda: number;
-        cfoToDebt: number;
-        focfToDebt: number;
-        dcfToDebt: number;
-        ffoInterestCoverage: number;
-        ebitdaToInterest: number;
-        ebitMargin: number;
-        ebitdaMargin: number;
-        returnOnCapital: number;
-    };
-  }
+interface DetailsData {
+  'Risk_Categories': any;
+  [key: string]: any; // Allows for dynamic keys with string or number values
+}
 
 export default Company;

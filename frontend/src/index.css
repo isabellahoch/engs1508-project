@@ -22,6 +22,16 @@
   padding: 2em;
 }
 
+.financial-dashboard-Card-root {
+  margin-top: 2em;
+  padding: 2em;
+}
+
+.financial-dashboard-Card-root > * {
+  /* padding: 2em; */
+  margin: 0px;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
