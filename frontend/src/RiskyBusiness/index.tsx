@@ -6,7 +6,7 @@ import Company from '../types/Company';
 import Dashboard from '../Dashboard/index';
 import { useGetCompaniesQuery } from '../services/api/index';
 
-export default function RiskyBusiness() {
+const RiskyBusiness = () => {
 
   const companiesQuery = useGetCompaniesQuery();
 
@@ -26,3 +26,5 @@ export default function RiskyBusiness() {
           {/* </Box> */}
         </>);
 }
+
+export default RiskyBusiness;
