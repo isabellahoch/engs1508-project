@@ -42,7 +42,7 @@ Each directory includes its own dependencies, configuration files, and source co
 <br> ┣ 📜requirements.txt
 <br> ┣ 📜scraping.py
 <br> ┣ 📜ticker.txt
-\ ┗ 📜utils.py
+<br> ┗ 📜utils.py
 
 ### Frontend: Vite + React + TypeScript
 
@@ -97,7 +97,7 @@ Each directory includes its own dependencies, configuration files, and source co
 <br> ┣ 📜README.md
 <br> ┣ 📜tsconfig.json
 <br> ┣ 📜tsconfig.node.json
-\ ┗ 📜vite.config.ts
+<br> ┗ 📜vite.config.ts
 
 ## Deployment Instructions
 1. Prerequisites:
