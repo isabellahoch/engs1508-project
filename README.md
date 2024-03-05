@@ -17,87 +17,87 @@ Each directory includes its own dependencies, configuration files, and source co
 
 ### Backend: FastAPI + LangChain
 
-┣ 📂data
-\ ┃ ┣ 📂Markdown RAG
-\ ┃ ┃ ┣ 📂vectorstore
-\ ┃ ┃┃ ┣ 📜index.faiss
-\ ┃ ┃┃ ┗ 📜index.pkl
-\ ┃ ┃ ┣ 📜general_criteria_markdown_v2.txt
-\ ┃ ┃ ┣ 📜Low Volatility Table.txt
-\ ┃ ┃ ┣ 📜Medial Volatility Table.txt
-\ ┃ ┃ ┣ 📜ratios_and_adjustments.txt
-\ ┃ ┃ ┣ 📜sector_specific_guidance_markdown_v1.txt
-\ ┃ ┃ ┗ 📜Standard Volatility Table.txt
-\ ┃ ┣ 📜company_tickers.json
-\ ┃ ┣ 📜original_data_v1.csv
-\ ┃ ┣ 📜original_data.csv
-\ ┃ ┗ 📜ticker.txt
-┣ 📜.env
-┣ 📜.gitignore
-┣ 📜company_tickers.json
-┣ 📜data.py
-┣ 📜financial_info.py
-┣ 📜main.py
-┣ 📜prompt_templates.py
-┣ 📜requirements.txt
-┣ 📜scraping.py
-┣ 📜ticker.txt
-┗ 📜utils.py
+<br> ┣ 📂data
+<br>┃ ┣ 📂Markdown RAG
+<br>┃ ┃ ┣ 📂vectorstore
+<br>┃ ┃┃ ┣ 📜index.faiss
+<br>┃ ┃┃ ┗ 📜index.pkl
+<br>┃ ┃ ┣ 📜general_criteria_markdown_v2.txt
+<br>┃ ┃ ┣ 📜Low Volatility Table.txt
+<br>┃ ┃ ┣ 📜Medial Volatility Table.txt
+<br>┃ ┃ ┣ 📜ratios_and_adjustments.txt
+<br>┃ ┃ ┣ 📜sector_specific_guidance_markdown_v1.txt
+<br>┃ ┃ ┗ 📜Standard Volatility Table.txt
+<br>┃ ┣ 📜company_tickers.json
+<br>┃ ┣ 📜original_data_v1.csv
+<br>┃ ┣ 📜original_data.csv
+<br>┃ ┗ 📜ticker.txt
+<br> ┣ 📜.env
+<br> ┣ 📜.gitignore
+<br> ┣ 📜company_tickers.json
+<br> ┣ 📜data.py
+<br> ┣ 📜financial_info.py
+<br> ┣ 📜main.py
+<br> ┣ 📜prompt_templates.py
+<br> ┣ 📜requirements.txt
+<br> ┣ 📜scraping.py
+<br> ┣ 📜ticker.txt
+\ ┗ 📜utils.py
 
 ### Frontend: Vite + React + TypeScript
 
 ┣ 📂public
-\ ┃ ┗ 📜RB_logo.png
+<br>┃ ┗ 📜RB_logo.png
 ┣ 📂src
-\ ┃ ┣ 📂assets
-\ ┃ ┃ ┗ 📜react.svg
-\ ┃ ┣ 📂Dashboard
-\ ┃ ┃ ┗ 📜index.tsx
-\ ┃ ┣ 📂FinancialStats
-\ ┃ ┃ ┗ 📜index.tsx
-\ ┃ ┣ 📂Loading
-\ ┃ ┃ ┗ 📜index.tsx
-\ ┃ ┣ 📂Q&A
-\ ┃ ┃ ┣ 📂MessageBubble
-\ ┃ ┃┃ ┗ 📜index.tsx
-\ ┃ ┃ ┗ 📜index.tsx
-\ ┃ ┣ 📂QuoteViz
-\ ┃ ┃ ┗ 📜index.tsx
-\ ┃ ┣ 📂RiskBadge
-\ ┃ ┃ ┗ 📜index.tsx
-\ ┃ ┣ 📂RiskyBusiness
-\ ┃ ┃ ┗ 📜index.tsx
-\ ┃ ┣ 📂SearchBar
-\ ┃ ┃ ┗ 📜index.tsx
-\ ┃ ┣ 📂services
-\ ┃ ┃ ┗ 📂api
-\ ┃ ┃   ┗ 📜index.ts
-\ ┃ ┣ 📂slices
-\ ┃ ┃ ┗ 📜index.ts
-\ ┃ ┣ 📂types
-\ ┃ ┃ ┣ 📜Company.ts
-\ ┃ ┃ ┣ 📜CompanyRecord.ts
-\ ┃ ┃ ┣ 📜index.ts
-\ ┃ ┃ ┣ 📜Message.ts
-\ ┃ ┃ ┣ 📜NewsArticle.ts
-\ ┃ ┃ ┣ 📜NewsItem.ts
-\ ┃ ┃ ┗ 📜SimpleCompany.ts
-\ ┃ ┣ 📜App.css
-\ ┃ ┣ 📜App.tsx
-\ ┃ ┣ 📜index.css
-\ ┃ ┣ 📜main.tsx
-\ ┃ ┣ 📜store.ts
-\ ┃ ┗ 📜vite-env.d.ts
-┣ 📜.env
-┣ 📜.eslintrc.cjs
-┣ 📜.gitignore
-┣ 📜index.html
-┣ 📜package.json
-┣ 📜postcss.config.cjs
-┣ 📜README.md
-┣ 📜tsconfig.json
-┣ 📜tsconfig.node.json
-┗ 📜vite.config.ts
+<br>┃ ┣ 📂assets
+<br>┃ ┃ ┗ 📜react.svg
+<br>┃ ┣ 📂Dashboard
+<br>┃ ┃ ┗ 📜index.tsx
+<br>┃ ┣ 📂FinancialStats
+<br>┃ ┃ ┗ 📜index.tsx
+<br>┃ ┣ 📂Loading
+<br>┃ ┃ ┗ 📜index.tsx
+<br>┃ ┣ 📂Q&A
+<br>┃ ┃ ┣ 📂MessageBubble
+<br>┃ ┃┃ ┗ 📜index.tsx
+<br>┃ ┃ ┗ 📜index.tsx
+<br>┃ ┣ 📂QuoteViz
+<br>┃ ┃ ┗ 📜index.tsx
+<br>┃ ┣ 📂RiskBadge
+<br>┃ ┃ ┗ 📜index.tsx
+<br>┃ ┣ 📂RiskyBusiness
+<br>┃ ┃ ┗ 📜index.tsx
+<br>┃ ┣ 📂SearchBar
+<br>┃ ┃ ┗ 📜index.tsx
+<br>┃ ┣ 📂services
+<br>┃ ┃ ┗ 📂api
+<br>┃ ┃   ┗ 📜index.ts
+<br>┃ ┣ 📂slices
+<br>┃ ┃ ┗ 📜index.ts
+<br>┃ ┣ 📂types
+<br>┃ ┃ ┣ 📜Company.ts
+<br>┃ ┃ ┣ 📜CompanyRecord.ts
+<br>┃ ┃ ┣ 📜index.ts
+<br>┃ ┃ ┣ 📜Message.ts
+<br>┃ ┃ ┣ 📜NewsArticle.ts
+<br>┃ ┃ ┣ 📜NewsItem.ts
+<br>┃ ┃ ┗ 📜SimpleCompany.ts
+<br>┃ ┣ 📜App.css
+<br>┃ ┣ 📜App.tsx
+<br>┃ ┣ 📜index.css
+<br>┃ ┣ 📜main.tsx
+<br>┃ ┣ 📜store.ts
+<br>┃ ┗ 📜vite-env.d.ts
+<br> ┣ 📜.env
+<br> ┣ 📜.eslintrc.cjs
+<br> ┣ 📜.gitignore
+<br> ┣ 📜index.html
+<br> ┣ 📜package.json
+<br> ┣ 📜postcss.config.cjs
+<br> ┣ 📜README.md
+<br> ┣ 📜tsconfig.json
+<br> ┣ 📜tsconfig.node.json
+\ ┗ 📜vite.config.ts
 
 ## Deployment Instructions
 1. Prerequisites:
