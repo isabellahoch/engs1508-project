@@ -43,7 +43,7 @@ logging.getLogger("langchain.retrievers.web_research").setLevel(logging.INFO)
 
 app = FastAPI()
 
-origins = ["http://localhost:5173"]
+origins = ["http://localhost:5173", "https://engs1508-project.onrender.com/", "https://riskybusiness.onrender.com/"]
 
 app.add_middleware(
     CORSMiddleware,
