@@ -57,7 +57,7 @@ os.environ["OPENAI_API_BASE"] = "https://api.openai.com/v1"
 
 load_dotenv()
 
-df = pd.read_csv("./data/original_data.csv")
+df = pd.read_csv("./data/data.csv")
 df['circa_rating'] = df['circa_rating'].str.extract('(\d+)').astype(int)
 df['volatility'] = df.apply(lambda row: choose_volatility_table(row['circa_rating'], row['sector']), axis=1)
 df['Risk_Categories'] = df.apply(calculate_risk_categories, axis=1)
@@ -115,7 +115,6 @@ Question: {question}[/INST]
 """
 prompt = ChatPromptTemplate.from_template(template)
 
-# TRAINING LOOP
 model = HuggingFaceHub(
     repo_id = "mistralai/Mixtral-8x7B-Instruct-v0.1",
     task="text-generation",
@@ -211,6 +210,8 @@ async def websocket_messages_endpoint(websocket: WebSocket):
         data = await websocket.receive_text()
         await websocket.send_text(f"Message text was: {data}")
 
+import time
+
 @app.websocket("/companies/{cik}/chat")
 async def company_chat(websocket: WebSocket, cik: str):
 
@@ -223,6 +224,7 @@ async def company_chat(websocket: WebSocket, cik: str):
     while True:
         data = await websocket.receive_text()
         result = qa_chain({"question": data})
+        print(result)
         await websocket.send_text(f"Answer: {result['answer']}")
         await websocket.send_text(f"Sources: {result['sources']}")
 

@@ -1,6 +1,6 @@
 // Dashboard.tsx
 
-import React, { useEffect, useState, useCallback } from 'react';
+import React, { useEffect, useState, useCallback, MouseEventHandler } from 'react';
 import {
   Group,
   Text,
@@ -31,17 +31,23 @@ const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
 
     const [messages, setMessages] = useState<Message[]>([]);
 
-    const [questionText, setQuestionText] = useState<String>('');
-
-    const { ticker, info, risk, details } = companyData;
-
-    const theme = useMantineTheme();
+    const [questionText, setQuestionText] = useState<string>('');
 
     useEffect(() => {
         if (lastMessage !== null) {
           setMessageHistory((prev) => prev.concat(lastMessage));
 
-          setMessages([...messages, {sender: 'system', text: lastMessage.data}])
+          setMessages((prev) => prev.concat({sender: 'system', text: lastMessage.data}));
+
+          messageHistory.map(msg => console.log(msg.data));
+
+          // allMessages.push({sender: 'system', text: lastMessage.data});
+
+          // console.log(`Received message: ${lastMessage.data}`);
+
+          // setMessages([...messages, {sender: 'system', text: lastMessage.data}]);
+
+          // setTimeout(() => setMessages(allMessages), 2500);
         }
 
         
@@ -57,13 +63,14 @@ const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
     [ReadyState.UNINSTANTIATED]: 'Uninstantiated',
     }[readyState];
 
-    const appendMessage = (event) => {
+    const appendMessage: MouseEventHandler<HTMLButtonElement> = (event) => {
         
         event.preventDefault();
 
         sendMessage(questionText);
+        setMessages((prev) => prev.concat({sender: 'user', text: questionText}));
 
-        setMessages([...messages, {sender: 'user', text: questionText}]);
+        // allMessages.push({sender: 'user', text: questionText});
 
         setQuestionText('');
     }
@@ -77,16 +84,10 @@ const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
             </Box>
         )}
 
-        <Group spacing="md">
+        <Group>
             <TextInput
                 value={questionText}
                 onChange={(event: React.ChangeEvent<HTMLInputElement>) => setQuestionText(event.currentTarget.value)}
-                styles={{
-                    backgroundColor: theme.colors.gray[0],
-                    borderRadius: theme.radius.md,
-                    width: "80%",
-                    minWidth: "200px"
-                }}
                 disabled={readyState !== ReadyState.OPEN}
             />
             <ActionIcon variant="filled" aria-label="Send" onClick={appendMessage} disabled={readyState !== ReadyState.OPEN}>

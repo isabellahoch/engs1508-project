@@ -29,8 +29,9 @@ Each directory includes its own dependencies, configuration files, and source co
 <br>┃ ┃ ┣ 📜sector_specific_guidance_markdown_v1.txt
 <br>┃ ┃ ┗ 📜Standard Volatility Table.txt
 <br>┃ ┣ 📜company_tickers.json
-<br>┃ ┣ 📜original_data_v1.csv
-<br>┃ ┣ 📜original_data.csv
+<br>┃ ┣ 📜data_v1.csv
+<br>┃ ┣ 📜data_v2.csv
+<br>┃ ┣ 📜data.csv
 <br>┃ ┗ 📜ticker.txt
 <br> ┣ 📜.env
 <br> ┣ 📜.gitignore
