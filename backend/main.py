@@ -159,7 +159,7 @@ web_retriever = WebResearchRetriever.from_llm(
     vectorstore=vectorstore_public,
     llm=llm,
     search=search,
-    num_search_results=5
+    num_search_results=3
 )
 
 from langchain.text_splitter import CharacterTextSplitter, RecursiveCharacterTextSplitter

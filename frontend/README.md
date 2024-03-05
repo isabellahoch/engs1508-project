@@ -1,30 +1,86 @@
-# Risky Business Full-Stack App: React + TypeScript + Vite
+# Risky Business Full-Stack App: ENGS15.08 Final Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Backend: FastAPI + LangChain
 
-Currently, two official plugins are available:
+┣ 📂data
+┃ ┣ 📂Markdown RAG
+┃ ┃ ┣ 📂vectorstore
+┃ ┃ ┃ ┣ 📜index.faiss
+┃ ┃ ┃ ┗ 📜index.pkl
+┃ ┃ ┣ 📜general_criteria_markdown_v2.txt
+┃ ┃ ┣ 📜Low Volatility Table.txt
+┃ ┃ ┣ 📜Medial Volatility Table.txt
+┃ ┃ ┣ 📜ratios_and_adjustments.txt
+┃ ┃ ┣ 📜sector_specific_guidance_markdown_v1.txt
+┃ ┃ ┗ 📜Standard Volatility Table.txt
+┃ ┣ 📜company_tickers.json
+┃ ┣ 📜original_data_v1.csv
+┃ ┣ 📜original_data.csv
+┃ ┗ 📜ticker.txt
+┣ 📜.env
+┣ 📜.gitignore
+┣ 📜company_tickers.json
+┣ 📜data.py
+┣ 📜financial_info.py
+┣ 📜main.py
+┣ 📜prompt_templates.py
+┣ 📜requirements.txt
+┣ 📜scraping.py
+┣ 📜ticker.txt
+┗ 📜utils.py
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Frontend: Vite + React + TypeScript
 
-## Expanding the ESLint configuration
+┣ 📂public
+┃ ┗ 📜RB_logo.png
+┣ 📂src
+┃ ┣ 📂assets
+┃ ┃ ┗ 📜react.svg
+┃ ┣ 📂Dashboard
+┃ ┃ ┗ 📜index.tsx
+┃ ┣ 📂FinancialStats
+┃ ┃ ┗ 📜index.tsx
+┃ ┣ 📂Loading
+┃ ┃ ┗ 📜index.tsx
+┃ ┣ 📂Q&A
+┃ ┃ ┣ 📂MessageBubble
+┃ ┃ ┃ ┗ 📜index.tsx
+┃ ┃ ┗ 📜index.tsx
+┃ ┣ 📂QuoteViz
+┃ ┃ ┗ 📜index.tsx
+┃ ┣ 📂RiskBadge
+┃ ┃ ┗ 📜index.tsx
+┃ ┣ 📂RiskyBusiness
+┃ ┃ ┗ 📜index.tsx
+┃ ┣ 📂SearchBar
+┃ ┃ ┗ 📜index.tsx
+┃ ┣ 📂services
+┃ ┃ ┗ 📂api
+┃ ┃   ┗ 📜index.ts
+┃ ┣ 📂slices
+┃ ┃ ┗ 📜index.ts
+┃ ┣ 📂types
+┃ ┃ ┣ 📜Company.ts
+┃ ┃ ┣ 📜CompanyRecord.ts
+┃ ┃ ┣ 📜index.ts
+┃ ┃ ┣ 📜Message.ts
+┃ ┃ ┣ 📜NewsArticle.ts
+┃ ┃ ┣ 📜NewsItem.ts
+┃ ┃ ┗ 📜SimpleCompany.ts
+┃ ┣ 📜App.css
+┃ ┣ 📜App.tsx
+┃ ┣ 📜index.css
+┃ ┣ 📜main.tsx
+┃ ┣ 📜store.ts
+┃ ┗ 📜vite-env.d.ts
+┣ 📜.env
+┣ 📜.eslintrc.cjs
+┣ 📜.gitignore
+┣ 📜index.html
+┣ 📜package.json
+┣ 📜postcss.config.cjs
+┣ 📜README.md
+┣ 📜tsconfig.json
+┣ 📜tsconfig.node.json
+┗ 📜vite.config.ts
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list

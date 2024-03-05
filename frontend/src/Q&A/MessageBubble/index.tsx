@@ -2,6 +2,7 @@ import React, { useEffect, useState, forwardRef } from 'react';
 import {
   Container, Text
 } from '@mantine/core';
+import ReactTextFormat from 'react-text-format';
 import Message from '../../types/Message';
 
 const MessageBubble = ({ message }) => {
@@ -31,7 +32,7 @@ const MessageBubble = ({ message }) => {
         },
       };
 
-    return (<Container style={senderStyles[sender]}><Text size="md">{text}</Text></Container>);
+    return (<Container style={senderStyles[sender]}><Text size="md"><ReactTextFormat>{text}</ReactTextFormat></Text></Container>);
 }
 
 export default MessageBubble;

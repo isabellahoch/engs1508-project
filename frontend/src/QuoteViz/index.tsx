@@ -23,29 +23,6 @@ const QuoteViz = ({stockData}: any) => {
       connectNulls
       curveType="linear"
     />
-
-    // <AreaChart
-    //   data={stockData}
-    //   height={400}
-    //   pointRadius={5}
-    //   pointHoverRadius={7}
-    //   lineColor="skyblue"
-    //   yAxis
-    //   xAxis={{
-    //     labels: (date: any) => date.toLocaleDateString(),
-    //     format: "dd MMM",
-    //   }}
-    //   tooltip={{
-    //     label: (dataPoint: any) => `Price: ${dataPoint.close}`,
-    //   }}
-    // >
-    //   {/* <Line
-    //     data={stockData}
-    //     points={(dataPoint: any) => ({ ...dataPoint, label: dataPoint.close.toFixed(2) })}
-    //   /> */}
-    //   <YAxis label="Price" />
-    //   <XAxis label="Date" />
-    // </AreaChart>
   );
 };
 
