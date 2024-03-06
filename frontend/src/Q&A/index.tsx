@@ -23,7 +23,7 @@ import MessageBubble from './MessageBubble';
 
 const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
 
-    const [socketUrl, setSocketUrl] = useState('ws://localhost:8000/companies/CIK0000320193/chat');
+    const [socketUrl, setSocketUrl] = useState(`${import.meta.env.VITE_API_URL.replace('http://', 'ws://').replace('https://', 'ws://')}/companies/${companyData.cik}/chat`);
 
     const [messageHistory, setMessageHistory] = useState<MessageEvent<any>[]>([]);
 
@@ -49,11 +49,8 @@ const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
 
           // setTimeout(() => setMessages(allMessages), 2500);
         }
-
         
       }, [lastMessage]);
-
-    const handleClickSendMessage = useCallback(() => sendMessage('Hello'), []);
 
     const connectionStatus = {
     [ReadyState.CONNECTING]: 'Connecting',

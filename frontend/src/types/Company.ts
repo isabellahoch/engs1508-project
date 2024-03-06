@@ -2,6 +2,7 @@ import NewsItem from './NewsItem';
 
 interface Company {
   ticker: string;
+  cik: any;
   info: {
     news: NewsItem[];
     quote: Record<string, unknown>; // Unknown type due to lack of information
