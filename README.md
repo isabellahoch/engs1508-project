@@ -107,12 +107,12 @@ Each directory includes its own dependencies, configuration files, and source co
 
 2. Setting Up the Backend:
 Install dependencies: `pip install -r backend/requirements.txt`
-Create a .env file in the backend directory and set the necessary environment variables
+Create a `.env` file in the backend directory and set the necessary environment variables according to `.env.example`
 
 3. Setting Up the Frontend:
 
 Install dependencies: `npm install`
-Adjust environment variables in the .env file as needed to point to API URL.
+Adjust environment variables in the `.env` file as needed to point to API URL (see `.env.example`)
 
 4. Running the Application:
 
