@@ -21,9 +21,15 @@ import Company from '../types/Company';
 import Message from '../types/Message';
 import MessageBubble from './MessageBubble';
 
-const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
+const QAComponent: React.FC<{ companyData: Company, wsUrl: string }> = ({companyData, wsUrl}) => {
 
-    const [socketUrl, setSocketUrl] = useState(`${import.meta.env.VITE_API_URL.replace('http://', 'ws://').replace('https://', 'ws://')}/companies/${companyData.cik}/chat`);
+    if(!companyData || !wsUrl) {
+      return;
+    }
+
+    const [socketUrl, setSocketUrl] = useState(wsUrl);
+
+    console.log(`connecting to ${socketUrl} / ${wsUrl}`)
 
     const [messageHistory, setMessageHistory] = useState<MessageEvent<any>[]>([]);
 
@@ -34,6 +40,11 @@ const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
     const [questionText, setQuestionText] = useState<string>('');
 
     useEffect(() => {
+      console.log(connectionStatus, readyState)
+
+      if (readyState == 1) {
+        console.log('connected!')
+      }
         if (lastMessage !== null) {
           setMessageHistory((prev) => prev.concat(lastMessage));
 
@@ -50,7 +61,7 @@ const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
           // setTimeout(() => setMessages(allMessages), 2500);
         }
         
-      }, [lastMessage]);
+      }, [lastMessage, readyState]);
 
     const connectionStatus = {
     [ReadyState.CONNECTING]: 'Connecting',
@@ -59,6 +70,7 @@ const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
     [ReadyState.CLOSED]: 'Closed',
     [ReadyState.UNINSTANTIATED]: 'Uninstantiated',
     }[readyState];
+
 
     const appendMessage: MouseEventHandler<HTMLButtonElement> = (event) => {
         
@@ -77,7 +89,7 @@ const QAComponent: React.FC<{ companyData: Company }> = ({companyData}) => {
 
         {(!messages || messages.length == 0) ? <Text>Ask a due diligence question!</Text> : (
             <Box>
-                {messages.map((message, index) => <MessageBubble message={message} />)}
+                {messages.map((message, index) => <MessageBubble key={`message-${index}`} message={message} />)}
             </Box>
         )}
 

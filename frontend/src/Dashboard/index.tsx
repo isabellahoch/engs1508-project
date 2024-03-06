@@ -91,7 +91,7 @@ const Dashboard: React.FC<{ selectedCompany: CompanyRecord }> = ({selectedCompan
           <Title>Q&A</Title>
         </Card.Section>
         <Card.Section>
-          <QAComponent companyData={data} />
+          <QAComponent companyData={data} wsUrl={`${import.meta.env.VITE_API_URL.replace('http://', 'ws://').replace('https://', 'wss://')}/companies/${data.cik}/chat`} />
         </Card.Section>
       </Card> :
       <Card withBorder shadow="md" padding="md">
