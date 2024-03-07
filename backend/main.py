@@ -295,7 +295,7 @@ def return_company_info_from_ticker(ticker: str, q: Union[str, None] = None):
 
     cik = ticker_to_cik(ticker)
 
-    # return example_company # temporary
+    return example_company # temporary
 
     matches_df = df.loc[df['ticker'] == ticker]
     
